@@ -1,0 +1,338 @@
+"buckets": [
+  {
+    "key": "Handapparate",
+    "doc_count": 3668
+  },
+  {
+    "key": "Archiv Institut Industrial Design",
+    "doc_count": 2647
+  },
+  {
+    "key": "Institut Mode-Design",
+    "doc_count": 2292
+  },
+  {
+    "key": "ACT Performance Festival",
+    "doc_count": 2255
+  },
+  {
+    "key": "Revolving Histories",
+    "doc_count": 1839
+  },
+  {
+    "key": "Kasko",
+    "doc_count": 1417
+  },
+  {
+    "key": "Diplom HGK",
+    "doc_count": 1285
+  },
+  {
+    "key": "Applied Fine Performing Arts",
+    "doc_count": 1258
+  },
+  {
+    "key": "Videosammlung",
+    "doc_count": 1187
+  },
+  {
+    "key": "Institut Kunst Intern",
+    "doc_count": 1082
+  },
+  {
+    "key": "ACT-Basel",
+    "doc_count": 940
+  },
+  {
+    "key": "Sustainability and Design",
+    "doc_count": 897
+  },
+  {
+    "key": "Kasko_Digital",
+    "doc_count": 850
+  },
+  {
+    "key": "Lemusa",
+    "doc_count": 543
+  },
+  {
+    "key": "HyperWerk",
+    "doc_count": 523
+  },
+  {
+    "key": "DigitalBrainstorming",
+    "doc_count": 496
+  },
+  {
+    "key": "Institut Industrial Design",
+    "doc_count": 472
+  },
+  {
+    "key": "Institut Integrative Gestaltung / Masterstudio",
+    "doc_count": 461
+  },
+  {
+    "key": "Peripher_ies",
+    "doc_count": 344
+  },
+  {
+    "key": "Film + Design",
+    "doc_count": 341
+  },
+  {
+    "key": "Erinnerungsraum",
+    "doc_count": 304
+  },
+  {
+    "key": "Fotoarchiv HGK",
+    "doc_count": 287
+  },
+  {
+    "key": "Motet Cycles",
+    "doc_count": 272
+  },
+  {
+    "key": "Videocity_memoriav",
+    "doc_count": 253
+  },
+  {
+    "key": "migma",
+    "doc_count": 207
+  },
+  {
+    "key": "Institut Kunst",
+    "doc_count": 201
+  },
+  {
+    "key": "Summe2017",
+    "doc_count": 192
+  },
+  {
+    "key": "Konvolute",
+    "doc_count": 191
+  },
+  {
+    "key": "HSM-Datenbanken",
+    "doc_count": 172
+  },
+  {
+    "key": "Institut Mode-Design Web",
+    "doc_count": 172
+  },
+  {
+    "key": "Performance Chronik Basel",
+    "doc_count": 167
+  },
+  {
+    "key": "PPP-ProgrPerformancePlattform",
+    "doc_count": 145
+  },
+  {
+    "key": "Grande Écurie",
+    "doc_count": 99
+  },
+  {
+    "key": "e-Publications",
+    "doc_count": 99
+  },
+  {
+    "key": "Kasko_Memoriav",
+    "doc_count": 96
+  },
+  {
+    "key": "Grenzgang",
+    "doc_count": 95
+  },
+  {
+    "key": "Videonetzwerke",
+    "doc_count": 95
+  },
+  {
+    "key": "Archive des Ephemeren",
+    "doc_count": 84
+  },
+  {
+    "key": "Werke",
+    "doc_count": 83
+  },
+  {
+    "key": "Plant_Intelligence",
+    "doc_count": 79
+  },
+  {
+    "key": "Frühe Streichinstrumente um 1500",
+    "doc_count": 76
+  },
+  {
+    "key": "Open Access Publikationen",
+    "doc_count": 75
+  },
+  {
+    "key": "Performance Art",
+    "doc_count": 74
+  },
+  {
+    "key": "Blockchain",
+    "doc_count": 66
+  },
+  {
+    "key": "Together Elsewhere",
+    "doc_count": 65
+  },
+  {
+    "key": "Incubator for Design Cultures",
+    "doc_count": 63
+  },
+  {
+    "key": "Memory Full",
+    "doc_count": 62
+  },
+  {
+    "key": "PerformanceIndex",
+    "doc_count": 59
+  },
+  {
+    "key": "Albena Mihaylova",
+    "doc_count": 49
+  },
+  {
+    "key": "Must or Not",
+    "doc_count": 48
+  },
+  {
+    "key": "CulturalSpace&Design - Research",
+    "doc_count": 44
+  },
+  {
+    "key": "Projet semestre",
+    "doc_count": 44
+  },
+  {
+    "key": "HGK Collections",
+    "doc_count": 42
+  },
+  {
+    "key": "Videowochen im Wenkenpark",
+    "doc_count": 41
+  },
+  {
+    "key": "Dokumentation Archiv Performativ",
+    "doc_count": 38
+  },
+  {
+    "key": "Perf en Bref",
+    "doc_count": 37
+  },
+  {
+    "key": "Partout",
+    "doc_count": 32
+  },
+  {
+    "key": "Videocity",
+    "doc_count": 28
+  },
+  {
+    "key": "eNoten",
+    "doc_count": 25
+  },
+  {
+    "key": "Doce en Diciembre",
+    "doc_count": 18
+  },
+  {
+    "key": "Institute_Contemporary_Design_Pracitices",
+    "doc_count": 18
+  },
+  {
+    "key": "HGK_Events",
+    "doc_count": 17
+  },
+  {
+    "key": "Beispiel_Enge-Gusewski",
+    "doc_count": 14
+  },
+  {
+    "key": "SMUC",
+    "doc_count": 14
+  },
+  {
+    "key": "Feministisches* Improvisatorium",
+    "doc_count": 13
+  },
+  {
+    "key": "MAKE/SENSE_admin",
+    "doc_count": 11
+  },
+  {
+    "key": "Wissenscluster",
+    "doc_count": 11
+  },
+  {
+    "key": "Die Gitarre in Frankreich",
+    "doc_count": 10
+  },
+  {
+    "key": "Shifting is Mapping",
+    "doc_count": 9
+  },
+  {
+    "key": "Cycles of Circulation",
+    "doc_count": 8
+  },
+  {
+    "key": "Ina Lohr",
+    "doc_count": 8
+  },
+  {
+    "key": "",
+    "doc_count": 7
+  },
+  {
+    "key": "Sonic_Space",
+    "doc_count": 7
+  },
+  {
+    "key": "Mitwelten",
+    "doc_count": 5
+  },
+  {
+    "key": "Netzkulturen",
+    "doc_count": 5
+  },
+  {
+    "key": "Elektronisches Studio Basel",
+    "doc_count": 4
+  },
+  {
+    "key": "ubicombs - Technology – Human – Design: Paradigms of Ubiquitous Computing",
+    "doc_count": 4
+  },
+  {
+    "key": "KünstlerInnen",
+    "doc_count": 2
+  },
+  {
+    "key": "MIGMA",
+    "doc_count": 2
+  },
+  {
+    "key": "Next Generation",
+    "doc_count": 2
+  },
+  {
+    "key": "Bang Bang",
+    "doc_count": 1
+  },
+  {
+    "key": "Interviews Archiv Performativ",
+    "doc_count": 1
+  },
+  {
+    "key": "MAB-Datenportal",
+    "doc_count": 1
+  },
+  {
+    "key": "alpine_netzwerke",
+    "doc_count": 1
+  }
+]
