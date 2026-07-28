@@ -7,6 +7,8 @@ Docs: 2255
 
 ### ACT Performance Festival der Schweizer Kunsthochschulen
 
+![](actfestival.jpg)
+
 **ACT** ist ein jährlich stattfindendes Wanderfestival, das seit 2003 eine Plattform für Kunststudierende an Schweizer Hochschulen bietet. Es dient der Realisation und Präsentation performativer Projekte und versteht sich als offenes Laboratorium zur Erprobung künstlerischer Strategien.
 
 #### Ein nationales Netzwerk
