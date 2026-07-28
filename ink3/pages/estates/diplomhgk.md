@@ -3,6 +3,7 @@ Title: Diplom HGK
 Type: estate
 ID: Diplom HGK
 Docs: 1285
+Redirect: https://nextgeneration.hgk.fhnw.ch/
 ---
 # Next Generation – Diplom HGK Basel FHNW
 
