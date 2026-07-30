@@ -1,124 +1,51 @@
-﻿---
+---
 Title: Diplom HGK
 Type: estate
 ID: Diplom HGK
 Docs: 1285
-Redirect: https://nextgeneration.hgk.fhnw.ch/
+Redirect:
 ---
 # Next Generation – Diplom HGK Basel FHNW
 
-Die Plattform und Ausstellungsreihe **«Next Generation»** präsentiert die Diplom- und Abschlussarbeiten der Absolvent:innen aller Bachelor- und Master-Studiengänge der **Hochschule für Gestaltung und Kunst Basel FHNW (HGK Basel)**.
+Next Generation ist der Titel der jährlich stattfindenden Diplom- bzw. Abschlussausstellung der HGK.
+Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen zu ihren Arbeiten. Sie zeigt die Vielfalt und den Wandel durch die Zeit. Enthalten sind Einträge seit 2017.
 
-Sowohl vor Ort (auf dem Campus Dreispitz in Basel/Münchenstein sowie an Partnerinstitutionen) als auch digital auf der Plattform [nextgeneration.hgk.fhnw.ch](https://nextgeneration.hgk.fhnw.ch/) bildet *Next Generation* das Schaufenster für die nächste Generation von Künstler:innen, Designer:innen und Vermittler:innen.
+[Link zur Website] (https://nextgeneration.hgk.fhnw.ch/)
 
----
+## Bachelor
+[Hyperwerk](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Hyperwerk%22)
 
-## 1. Philosophie und Zielsetzung
+[Industrial Design](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Industrial+Design%22)
 
-*Next Generation* markiert gleichzeitig den Abschluss des Studiums und den Eintritt in die berufliche und künstlerische Praxis. Die Plattform dient als:
+[Innenarchitektur und Szenografie](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Innenarchitektur+und+Szenografie%22)
 
-* **Schaufenster für Zukunftsfragen:** Die Arbeiten setzen sich kritisch, experimentell und lösungsorientiert mit zentralen gesellschaftlichen, ökologischen, technologischen und kulturellen Herausforderungen auseinander.
-* **Brücke zwischen Akademie und Öffentlichkeit:** Sie gibt dem Fachpublikum, der Kultur- und Designszene sowie der breiten Öffentlichkeit Einblick in aktuelle Diskurse der Gestaltung und Kunst.
-* **Hybrider Präsentationsraum:** Durch die Kombination aus physischen Ausstellungen, Performances, Symposien und der dauerhaften digitalen Web-Dokumentation entsteht ein nachhaltiges Archiv zeitgenössischer Positionen.
+[Kunst](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Kunst%22)
 
----
+[Lehrberufe für Gestaltung und Kunst](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Lehrberufe+f%C3%BCr+Gestaltung+und+Kunst%22)
 
-## 2. Abgedeckte Fachbereiche und Studiengänge
+[Mode-Design](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Mode-Design%22)
 
-Die Diplomarbeiten umfassen das gesamte Spektrum der Institute und Studiengänge der HGK Basel FHNW:
+[Visuelle Kommunikation](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Visuelle+Kommunikation%22)
 
-### Bildende Kunst & Fine Arts
-* **Bachelor (BA) Bildende Kunst & Master (MA) Fine Arts** *(Institute Art Gender Nature – IAGN)*
-    * Fokus auf zeitgenössische künstlerische Praxis, kritische Theorie, Gender- und Ökologiediskurse. Oft präsentiert in Kooperation mit renommierten Institutionen wie dem Kunsthaus Baselland.
 
-### Design & Gestaltung
-* **BA Industrial Design** *(Institute Contemporary Design Practices – ICDP)*
-    * Produkt- und Systemgestaltung, nachhaltige Materialien, soziale Innovationen und funktionale Ästhetik.
-* **BA Mode-Design / Doing Fashion** *(Institute Contemporary Design Practices – ICDP)*
-    * Ganzheitliche und kritische Perspektiven auf Bekleidung, Körper, Identität und Modepraxis (oft inklusive Live-Performances und Shows).
-* **MA Masterstudio Design** *(Institute Contemporary Design Practices – ICDP)*
-    * Vertiefte, forschungsgeleitete Designprojekte an den Schnittstellen von Technologie, Gesellschaft und Nachhaltigkeit.
+## Master
 
-### Visuelle Kommunikation & Digitale Medien
-* **BA Visuelle Kommunikation und digitale Räume** *(Institute Digital Communication Environments – IDCE)*
-* **BA / MA Digital Communication Environments** *(IDCE)*
-* **International Master of Design HGK/UIC (MDes)** *(IDCE)*
-    * Erforschung visueller Sprachen, typografischer Systeme, interaktiver Medien, UI/UX sowie bewegter und digitaler Räume.
+[Master Fine Arts](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22)
 
-### Experimentelles Design & Prozessgestaltung
-* **BA Prozessgestaltung am HyperWerk** *(Institute Experimental Design and Media Cultures – IXDM)*
-    * Transdisziplinäre Projektarbeit, soziale Transformation, kollektive Prozesse und exploratives Arbeiten.
-* **MA Transversal Design** *(Institute Experimental Design and Media Cultures – IXDM)*
-    * Kritische, forschungsbasierte Designpraktiken an den Schnittstellen von Politik, Ökologie, Kultur und neuen Medien.
+[Master of Art in Visueller Kommunikation und Bildforschung](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Master+of+Art+in+Visueller+Kommunikation+und+Bildforschung%22)
 
-### Innenarchitektur & Szenografie
-* **BA Innenarchitektur und Szenografie**
-    * Gestaltung von Räumen, Ausstellungen, narrativen Umgebungen, Architekturinterventions- und Raumkonzepten.
+[Master of Arts in Design: Masterstudio Design](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Master+of+Arts+in+Design%3A+Masterstudio+Design%22)
 
-### Vermittlung in Kunst und Design
-* **BA & MA Vermittlung in Kunst und Design** *(Institute Arts and Design Education – IADE)*
-    * Kunstpädagogik, museale Vermittlung, partizipative Formate und gesellschaftliche Bildungsprojekte.
+[Master of Arts in Vermittlung von Kunst und Design](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat:%22forms2!!diplom!!Master+of+Arts+in+Vermittlung+von+Kunst+und+Design%22)
 
----
+[International Master of Design UIC / HGK](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21International+Master+of+Design+UIC+%2F+HGK%22)
 
-## 3. Formate und Bestandteile von *Next Generation*
+ 
+## Jahrgänge
 
-Die Diplomreihe gliedert sich in verschiedene analoge und digitale Formate:
-
-1. **Physische Diplomausstellungen:**
-    * Ausstellungen in den Ateliers, Werkstätten und Ausstellungsräumen auf dem Campus Dreispitz (z. B. CIVIC, Der TANK).
-    * Externe Ausstellungsorte und Kooperationen (z. B. Kunsthaus Baselland, internationale Präsentationen).
-2. **Digitale Plattform (`nextgeneration.hgk.fhnw.ch`):**
-    * Vollständiges Online-Archiv aller Bachelor- und Masterprojekte mit Bildmaterial, Projektbeschreibungen, Video-Trailern und Kontaktdaten der Absolvent:innen.
-3. **Rahmenprogramm & Events:**
-    * **Vernissagen & Finissagen:** Eröffnungsveranstaltungen mit Performances, Führungen und Talks.
-    * **Diplomfeier:** Offizielle Übergabe der Diplome und Auszeichnungen.
-    * **Info-Anlässe:** Infotage für Studieninteressierte parallel zu den Ausstellungen.
-    * **Preisverleihungen:** Vergabe renommierter Förderpreise (z. B. *Swiss Design Association Award*, *Best Theory Awards* etc.).
-
----
-
-## 4. Historie und Entwicklung der Fächer (2015–2026)
-    
-Die Struktur der HGK Basel und die Bezeichnungen ihrer Institute und Studiengänge haben in der Dekade von 2015 bis 2026 eine signifikante Transformation erfahren. Besonders prägend war die Neuausrichtung ab dem Jahr 2021 unter der Leitung von Claudia Perren, die den Wandel von klassischen Gestaltungsdisziplinen hin zu hybriden, forschungsorientierten und transdisziplinären Praxen formalisierte.
-
-### Chronologie der Transformation:
-
-*   **2015–2020: Die Ära der klassischen Institute am Campus Dreispitz**
-    *   Nach dem Umzug auf den Campus Dreispitz (2014) agierten die Institute unter weitgehend traditionellen Namen:
-    *   **Institut Kunst:** Fokus auf Bildende Kunst und Fine Arts.
-    *   **Institut Visuelle Kommunikation:** Fokus auf Grafik-Design und klassische Medien.
-    *   **Institut HyperWerk:** Eigenständiges Institut für postindustrielle Designrecherche.
-    *   **Institut Industrial Design** und **Institut Mode-Design:** Getrennte Einheiten für die jeweiligen Designsparten.
-    *   **Institut Lehrberufe für Gestaltung und Kunst:** Fokus auf pädagogische Vermittlung.
-
-*   **2021–2022: Der große strategische Fächerwechsel**
-    *   Unter der neuen Direktion wurden die Institute umbenannt und thematisch geschärft, um aktuelle gesellschaftliche Diskurse abzubilden:
-    *   **Institute Art Gender Nature (IAGN):** Aus dem Institut Kunst hervorgegangen, um Gender- und Ökologiediskurse zentral zu verankern.
-    *   **Institute Digital Communication Environments (IDCE):** Transformation der Visuellen Kommunikation hin zur Erforschung komplexer digitaler Räume.
-    *   **Institute Contemporary Design Practices (ICDP):** Zusammenführung von Industrial Design, Mode-Design und dem Masterstudio Design unter einem gemeinsamen Dach.
-    *   **Institute Experimental Design and Media Cultures (IXDM):** Integration des HyperWerk als Lab neben dem Critical Media Lab. Der Studiengang wurde von *BA Prozessgestaltung / HyperWerk* zu **BA Prozessgestaltung am HyperWerk** präzisiert.
-    *   **Institute Arts and Design Education (IADE):** Neupositionierung der Vermittlung als forschungsstarkes Institut.
-
-*   **2023–2026: Etablierung hybrider Profile**
-    *   **Transversal Design:** Festigung des Master-Studiengangs (IXDM) als transdisziplinäre Antwort auf globale Transformationsprozesse.
-    *   **Doing Fashion:** Weiterentwicklung des Mode-Studiengangs innerhalb des ICDP mit Fokus auf performative Praxis und Identitätsdiskurse.
-    *   **Digitale Räume:** Der BA Visuelle Kommunikation wurde zum *BA Visuelle Kommunikation und digitale Räume* erweitert.
-
-### Übersicht der Namensentwicklung:
-
-| Bereich | Zeitraum 2015–2020 | Zeitraum ab 2021/2022 |
-| :--- | :--- | :--- |
-| **Bildende Kunst** | Institut Kunst | Institute Art Gender Nature (IAGN) |
-| **Visuelle Kommunikation** | Institut Visuelle Kommunikation | Inst. Digital Communication Environments (IDCE) |
-| **HyperWerk** | Institut HyperWerk | Inst. Experimental Design and Media Cultures (IXDM) |
-| **Design-Verbund** | Industrial Design / Mode-Design | Inst. Contemporary Design Practices (ICDP) |
-| **Vermittlung** | Institut Lehrberufe für Gestaltung | Inst. Arts and Design Education (IADE) |
-
----
-
-## 5. Relevanz und Orientierung für Besucher:innen
-
-* **Für Studieninteressierte:** Bietet einen realistischen Einblick in das Niveau, die Bandbreite und die Themen der Abschlussarbeiten an der HGK Basel.
-* **Für Arbeitgeber & Netzwerke:** Dient als Portfolio-Katalog und Kontaktbörse zur Entdeckung neuer Talente im Design- und Kunstbereich.
-* **Für die Öffentlichkeit:** Fungiert als Ort des Diskurses über die Rolle von Gestaltung und Kunst in einer sich verändernden Gesellschaft.
+[2022](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%212022%22)
+[2021](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%212021%22)
+[2020](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%222020%22)
+[2019](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%222019%22)
+[2018](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%222018%22)
+[2017](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%212017%22)
