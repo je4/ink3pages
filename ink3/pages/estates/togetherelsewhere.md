@@ -23,7 +23,6 @@ Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm
 [B AJAY SHARMA and BENDJI-ALBENA](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.8DD9TT63/de), July 9th: 11:00 am Zurich // 6:00 pm Korea
 [Mario Montoy and Regula Michell](https://vimeo.com/1200712009?), June 25th: 6:00 pm Zurich 
 [Eleni Kolliopoulou and Monica Klingler](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.BGR96BUG/de), May 28th: 5 pm Zurich // 6 pm Greeche 
-[Victoriy Gray and Dorothea Schürch](https://vimeo.com/event/5775718), April 16th 2026: 5:00 pm Zurich // 4:00 pm UK Event cancled
 [Else Olsen Storesund and Eva Fuhrer](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.RKVT9KUP/de), March 13th 2026: 1:00 pm LIVE Here
 [SueKi Yee and Markus Hensler](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.T93346CJ/de), February 19th, 18:00 Uhr
 [Trine Lyngsholm and Jorge Raka](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.MQ9SVIEE/de), January 30th, 17:00 Uhr
