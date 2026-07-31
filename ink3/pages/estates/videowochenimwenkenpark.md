@@ -2,6 +2,8 @@
 Title: Videowochen im Wenkenpark
 Type: estate
 ID: Videowochen im Wenkenpark
+Sourcetype: Special Collection
+Collectionfield: Video Art and Culture; Open and Free Access
 Docs: 41
 ---
 
