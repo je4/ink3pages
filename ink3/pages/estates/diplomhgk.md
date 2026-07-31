@@ -3,6 +3,8 @@ Title: Diplom HGK
 Type: estate
 ID: Diplom HGK
 Docs: 1285
+Sourcetype: Educational Resources
+Collectionfield: Education; Collaborative Practices; Graduation
 Redirect:
 ---
 # Next Generation – Diplom HGK Basel FHNW
