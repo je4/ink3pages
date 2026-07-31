@@ -1,6 +1,6 @@
 ﻿---
 Title: SMUC
 Type: estate
-ID: SMUC
+CollectionTitle: SMUC
 Docs: 14
 ---

@@ -1,6 +1,6 @@
 ﻿---
 Title: MAB-Datenportal
 Type: estate
-ID: MAB-Datenportal
+CollectionTitle: MAB-Datenportal
 Docs: 1
 ---

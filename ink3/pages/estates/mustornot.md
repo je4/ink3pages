@@ -1,6 +1,6 @@
 ﻿---
 Title: Must or Not
 Type: estate
-ID: Must or Not
+CollectionTitle: Must or Not
 Docs: 48
 ---

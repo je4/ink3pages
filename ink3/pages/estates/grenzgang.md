@@ -1,6 +1,6 @@
 ﻿---
 Title: Grenzgang
 Type: estate
-ID: Grenzgang
+CollectionTitle: Grenzgang
 Docs: 95
 ---

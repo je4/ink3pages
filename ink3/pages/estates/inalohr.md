@@ -1,6 +1,6 @@
 ﻿---
 Title: Ina Lohr
 Type: estate
-ID: Ina Lohr
+CollectionTitle: Ina Lohr
 Docs: 8
 ---

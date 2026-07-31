@@ -1,7 +1,7 @@
 ﻿---
 Title: Albena Mihaylova
 Type: estate
-ID: Albena Mihaylova
+CollectionTitle: Albena Mihaylova
 Sourcetype: Special Collection
 Collectionfield: Performance Art
 Docs: 49

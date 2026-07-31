@@ -1,7 +1,7 @@
 ---
 Title: Together Elsewhere
 Type: estate
-ID: Together Elsewhere
+CollectionTitle: Together Elsewhere
 Docs: 65
 ---
 

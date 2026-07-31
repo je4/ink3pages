@@ -1,6 +1,6 @@
 ﻿---
 Title: Bang Bang
 Type: estate
-ID: Bang Bang
+CollectionTitle: Bang Bang
 Docs: 1
 ---

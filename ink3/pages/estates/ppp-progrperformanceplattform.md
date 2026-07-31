@@ -1,6 +1,6 @@
 ﻿---
 Title: PPP-ProgrPerformancePlattform
 Type: estate
-ID: PPP-ProgrPerformancePlattform
+CollectionTitle: PPP-ProgrPerformancePlattform
 Docs: 145
 ---

@@ -1,6 +1,6 @@
 ﻿---
 Title: Sustainability and Design
 Type: estate
-ID: Sustainability and Design
+CollectionTitle: Sustainability and Design
 Docs: 897
 ---

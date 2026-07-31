@@ -1,6 +1,6 @@
 ﻿---
 Title: migma
 Type: estate
-ID: migma
+CollectionTitle: migma
 Docs: 2
 ---

@@ -1,6 +1,6 @@
 ﻿---
 Title: Next Generation
 Type: estate
-ID: Next Generation
+CollectionTitle: Next Generation
 Docs: 2
 ---

@@ -1,5 +1,5 @@
 ﻿---
 Title: KÃ¼nstlerInnen
 Type: estate
-ID: KÃ¼nstlerInnen
+CollectionTitle: KÃ¼nstlerInnen
 ---

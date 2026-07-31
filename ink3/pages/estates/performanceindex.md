@@ -1,6 +1,6 @@
 ﻿---
 Title: PerformanceIndex
 Type: estate
-ID: PerformanceIndex
+CollectionTitle: PerformanceIndex
 Docs: 59
 ---

@@ -1,6 +1,6 @@
 ﻿---
 Title: Institut Mode-Design Web
 Type: estate
-ID: Institut Mode-Design Web
+CollectionTitle: Institut Mode-Design Web
 Docs: 172
 ---

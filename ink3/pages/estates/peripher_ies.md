@@ -1,6 +1,6 @@
 ﻿---
 Title: Peripher_ies
 Type: estate
-ID: Peripher_ies
+CollectionTitle: Peripher_ies
 Docs: 344
 ---

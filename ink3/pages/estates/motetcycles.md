@@ -1,6 +1,6 @@
 ﻿---
 Title: Motet Cycles
 Type: estate
-ID: Motet Cycles
+CollectionTitle: Motet Cycles
 Docs: 272
 ---

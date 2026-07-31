@@ -1,7 +1,7 @@
 ---
 Title: Feministisches* Improvisatorium
 Type: estate
-ID: Feministisches* Improvisatorium
+CollectionTitle: Feministisches* Improvisatorium
 Sourcetype: Special Collection
 Collectionfield: Contemporary Discourses; Open and Free Access
 Docs: 13

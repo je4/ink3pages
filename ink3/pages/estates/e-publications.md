@@ -1,6 +1,6 @@
 ﻿---
 Title: e-Publications
 Type: estate
-ID: e-Publications
+CollectionTitle: e-Publications
 Docs: 99
 ---

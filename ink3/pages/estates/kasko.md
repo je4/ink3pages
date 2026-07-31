@@ -1,6 +1,6 @@
 ﻿---
 Title: Kasko
 Type: estate
-ID: Kasko
+CollectionTitle: Kasko
 Docs: 1417
 ---

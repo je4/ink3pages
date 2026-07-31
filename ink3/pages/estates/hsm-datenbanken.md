@@ -1,6 +1,6 @@
 ﻿---
 Title: HSM-Datenbanken
 Type: estate
-ID: HSM-Datenbanken
+CollectionTitle: HSM-Datenbanken
 Docs: 172
 ---

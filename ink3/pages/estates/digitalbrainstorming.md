@@ -1,7 +1,7 @@
 ---
 Title: DigitalBrainstorming
 Type: estate
-ID: DigitalBrainstorming
+CollectionTitle: DigitalBrainstorming
 Sourcetype: Special Collection
 Collectionfield: Contemporary Discourses; Open and Free Access
 Docs: 496

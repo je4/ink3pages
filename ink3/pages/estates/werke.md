@@ -1,6 +1,6 @@
 ﻿---
 Title: Werke
 Type: estate
-ID: Werke
+CollectionTitle: Werke
 Docs: 83
 ---

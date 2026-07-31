@@ -1,6 +1,6 @@
 ﻿---
 Title: eNoten
 Type: estate
-ID: eNoten
+CollectionTitle: eNoten
 Docs: 25
 ---

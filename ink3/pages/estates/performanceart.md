@@ -1,6 +1,6 @@
 ﻿---
 Title: Performance Art
 Type: estate
-ID: Performance Art
+CollectionTitle: Performance Art
 Docs: 74
 ---

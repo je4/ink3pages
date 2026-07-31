@@ -1,6 +1,6 @@
 ﻿---
 Title: Open Access Publikationen
 Type: estate
-ID: Open Access Publikationen
+CollectionTitle: Open Access Publikationen
 Docs: 75
 ---

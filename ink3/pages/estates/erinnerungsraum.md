@@ -1,7 +1,7 @@
 ---
 Title: Erinnerungsraum
 Type: estate
-ID: Erinnerungsraum
+CollectionTitle: Erinnerungsraum
 Sourcetype: Educational Resources
 Collectionfield: Education; Collaborative Practices
 Docs: 304

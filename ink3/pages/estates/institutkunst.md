@@ -1,6 +1,6 @@
 ﻿---
 Title: Institut Kunst
 Type: estate
-ID: Institut Kunst
+CollectionTitle: Institut Kunst
 Docs: 201
 ---

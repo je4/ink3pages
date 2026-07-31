@@ -1,6 +1,6 @@
 ﻿---
 Title: Mitwelten
 Type: estate
-ID: Mitwelten
+CollectionTitle: Mitwelten
 Docs: 5
 ---

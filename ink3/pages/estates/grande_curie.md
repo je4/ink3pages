@@ -1,5 +1,5 @@
 ﻿---
 Title: Grande Ã‰curie
 Type: estate
-ID: Grande Ã‰curie
+CollectionTitle: Grande Ã‰curie
 ---

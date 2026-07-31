@@ -1,6 +1,6 @@
 ﻿---
 Title: Fotoarchiv HGK
 Type: estate
-ID: Fotoarchiv HGK
+CollectionTitle: Fotoarchiv HGK
 Docs: 287
 ---

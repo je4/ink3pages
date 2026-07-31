@@ -1,6 +1,6 @@
 ﻿---
 Title: Institut Integrative Gestaltung / Masterstudio
 Type: estate
-ID: Institut Integrative Gestaltung / Masterstudio
+CollectionTitle: Institut Integrative Gestaltung / Masterstudio
 Docs: 461
 ---

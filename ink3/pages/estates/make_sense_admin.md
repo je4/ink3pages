@@ -1,6 +1,6 @@
 ﻿---
 Title: MAKE/SENSE_admin
 Type: estate
-ID: MAKE/SENSE_admin
+CollectionTitle: MAKE/SENSE_admin
 Docs: 11
 ---

@@ -1,6 +1,6 @@
 ﻿---
 Title: Videosammlung
 Type: estate
-ID: Videosammlung
+CollectionTitle: Videosammlung
 Docs: 1187
 ---

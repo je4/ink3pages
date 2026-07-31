@@ -1,6 +1,6 @@
 ﻿---
 Title: HGK Collections
 Type: estate
-ID: HGK Collections
+CollectionTitle: HGK Collections
 Docs: 42
 ---

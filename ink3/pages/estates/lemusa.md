@@ -1,7 +1,7 @@
 ---
 Title: Lemusa
 Type: estate
-ID: Lemusa
+CollectionTitle: Lemusa
 Sourcetype: Special Collection
 Collectionfield: Video Art and Culture; Open and Free Access; Creative Publishing
 Docs: 543

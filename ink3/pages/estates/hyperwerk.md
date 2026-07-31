@@ -1,6 +1,6 @@
 ﻿---
 Title: HyperWerk
 Type: estate
-ID: HyperWerk
+CollectionTitle: HyperWerk
 Docs: 523
 ---

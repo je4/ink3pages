@@ -1,6 +1,6 @@
 ﻿---
 Title: Elektronisches Studio Basel
 Type: estate
-ID: Elektronisches Studio Basel
+CollectionTitle: Elektronisches Studio Basel
 Docs: 4
 ---

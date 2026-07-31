@@ -1,7 +1,7 @@
 ---
 Title: CulturalSpace&Design - Research
 Type: estate
-ID: CulturalSpace&Design - Research
+CollectionTitle: CulturalSpace&Design - Research
 Sourcetype: Research Data
 Collectionfield: Practice Based Research; Open and Free Access; Education
 Docs: 44

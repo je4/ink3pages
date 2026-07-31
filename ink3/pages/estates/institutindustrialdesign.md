@@ -1,6 +1,6 @@
 ﻿---
 Title: Institut Industrial Design
 Type: estate
-ID: Institut Industrial Design
+CollectionTitle: Institut Industrial Design
 Docs: 472
 ---

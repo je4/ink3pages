@@ -1,6 +1,6 @@
 ﻿---
 Title: Videocity
 Type: estate
-ID: Videocity
+CollectionTitle: Videocity
 Docs: 28
 ---

@@ -1,7 +1,7 @@
 ---
 Title: Videonetzwerke
 Type: estate
-ID: Videonetzwerke
+CollectionTitle: Videonetzwerke
 Sourcetype: Special Collection
 Collectionfield: Video Art and Culture; Open and Free Access; Practice Based Research
 Docs: 95

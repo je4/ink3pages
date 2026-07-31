@@ -1,6 +1,6 @@
 ﻿---
 Title: Konvolute
 Type: estate
-ID: Konvolute
+CollectionTitle: Konvolute
 Docs: 191
 ---

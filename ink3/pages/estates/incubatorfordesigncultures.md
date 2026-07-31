@@ -1,7 +1,7 @@
 ---
 Title: Incubator for Design Cultures
 Type: estate
-ID: Incubator for Design Cultures
+CollectionTitle: Incubator for Design Cultures
 Sourcetype: Research Data
 Collectionfield: Practice Based Research; Open and Free Access; Education
 Docs: 63
