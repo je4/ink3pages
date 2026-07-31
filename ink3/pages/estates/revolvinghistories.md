@@ -3,7 +3,7 @@ Title: Revolving Histories
 Type: estate
 ID: Revolving Histories
 Sourcetype: Special Collection
-Collectionfield: Performance Art
+Collectionfield: Performance Art; Open and Free Access
 Docs: 1839
 ---
 
