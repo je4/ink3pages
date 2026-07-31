@@ -2,6 +2,8 @@
 Title: Performance Chronik Basel
 Type: estate
 ID: Performance Chronik Basel
+Sourcetype Special Collection
+Collectionfield Performance Art
 Docs: 167
 ---
 
@@ -17,7 +19,7 @@ Daher hat die Mediathek der HGK FHNW die einfachen Nutzungsrechte mit der Sammlu
 
 Weitere Dokumente aus dem Rechercheumfeld der Performance Chronik Basel finden sich ferner unter: http://www.performancechronikbasel.ch/.
 
-*Muda Mathis, Andrea Saemann, Chris Regn, Statement 2018
+* Muda Mathis, Andrea Saemann, Chris Regn, Statement 2018
 
 __________________________________________
 
@@ -31,5 +33,5 @@ Therefore, the Mediathek of the HGK FHNW has received the simple rights of use w
 
 Further documents from the research environment of the Performance Chronicle Basel can also be found at: http://www.performancechronikbasel.ch/.
 
-*Muda Mathis, Sus Zwick, Chris Regn, Statement 2018
+* Muda Mathis, Sus Zwick, Chris Regn, Statement 2018
 
