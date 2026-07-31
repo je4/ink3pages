@@ -2,6 +2,8 @@
 Title: Film + Design
 Type: estate
 ID: Film + Design
+Sourcetype: Special Collection
+Collectionfield: Video Art and Culture; Open and Free Access; Education
 Docs: 341
 ---
 
