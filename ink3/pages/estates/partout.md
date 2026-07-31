@@ -2,6 +2,8 @@
 Title: Partout
 Type: estate
 ID: Partout
+Sourcetype Special Collection
+Collectionfield Performance Art
 Docs: 32
 ---
 
