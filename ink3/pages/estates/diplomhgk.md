@@ -10,7 +10,7 @@ Redirect:
 # Next Generation – Diplom HGK Basel FHNW
 
 Next Generation ist der Titel der jährlich stattfindenden Diplom- bzw. Abschlussausstellung der HGK.
-Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen zu ihren Arbeiten. Sie zeigt die Vielfalt und den Wandel durch die Zeit. Enthalten sind Einträge seit 2017.
+Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen zu ihren Arbeiten. Sie zeigt die Vielfalt der künstlerischen und gestalterischen Praktiken und dokumentiert damit Wandel durch die Zeit. Enthalten sind Einträge der Diplome, BA, MA und MDS Arbeiten seit 2017.
 
 [Link zur Website] (https://nextgeneration.hgk.fhnw.ch/)
 
