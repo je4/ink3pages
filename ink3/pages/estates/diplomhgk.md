@@ -1,5 +1,5 @@
 ---
-Title: Diplom HGK
+Title: Diplom HGK / Next Generation
 Type: estate
 CollectionTitle: Diplom HGK
 Docs: 1285
