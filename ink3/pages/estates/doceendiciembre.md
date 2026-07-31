@@ -2,6 +2,8 @@
 Title: Doce en Diciembre
 Type: estate
 ID: Doce en Diciembre
+Sourcetype: Special Collection
+Collectionfield: Performance Art
 Docs: 18
 ---
 
