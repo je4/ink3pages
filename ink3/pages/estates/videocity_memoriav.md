@@ -2,6 +2,8 @@
 Title: Videocity_memoriav
 Type: estate
 ID: Videocity_memoriav
+Sourcetype: Special Collection
+Collectionfield: Video Art and Culture; Open and Free Access
 Docs: 253
 ---
 
