@@ -16,10 +16,15 @@ Dabei wurde die künstlerische Sicht auf das Archiv auf Augenhöhe mit theoretis
 
 ### Denkpools
 I: [Digitale Plattformen und Datenbanken](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.F8KYBHNT)
+
 II: [Archive des Ephemeren und Policies](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.HTBXHIXI)
-III: [Wilde Archive](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.4YV23KGF
+
+III: [Wilde Archive](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.4YV23KGF)
+
 IV: [Symposium ](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.XDR8B65R)
+
 V: [Projektauswertung und kulturpolitische Strategie](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.888RBU88)
+
 [Broschüre Deutsch](https://hdl.handle.net/20.500.11806/qr/ade_publ)
 [Brochure English](https://hdl.handle.net/20.500.11806/qr/ade_publ_en)
 
