@@ -3,7 +3,7 @@ Title: Archive des Ephemeren
 Type: estate
 ID: Archive des Ephemeren
 Sourcetype: Special Collection
-Collectionfield: Performance Art
+Collectionfield: Performance Art; Open and Free Access
 Docs: 84
 ---
 
