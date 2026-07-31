@@ -28,3 +28,8 @@ Gesamter Bestand:
 
 
 Geschlossene Inhalte z. B. des Presserückblicks können in der Mediathek an den Recherchestationen konsultiert werden.
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Videocity_memoriav)
+

@@ -15,3 +15,8 @@ On the trail of digital change. This was the theme of a series of events, called
 During this time, the media and cultural scholar Dominik Landwehr (*1958) was responsible for Digital Brainstorming. The journalist obtained a Master's degree from the University of Zurich in 1983 and a doctorate from the University of Basel in 2007 with a thesis on the Enigma cipher machine.
 
 [Gesamte Sammlung](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2327162.WZUI32AD)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=DigitalBrainstorming)
+

@@ -45,3 +45,8 @@ Episode 19: [Mit der Austerngabel durch Paris](https://mediathek.hgk.fhnw.ch/ink
 Episode 20: [Anderswo](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6112355.VAF7CGTG)
  
 [Mehr aus Lemusa auf unserem Repositorium.](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22zotero2%21%21Lemusa%22)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Lemusa)
+

@@ -39,3 +39,8 @@ During the three year project there were regular project-reportings. This link r
 
 
 Dieses Projekt wurde von der [Gebert-Rüf-Stiftung](https://www.grstiftung.ch/de.html) gefördert. Projektreferenz: https://www.grstiftung.ch/en/media/portfolio~grs-040-13~.html
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=CulturalSpace&Design%20-%20Research)
+

@@ -34,3 +34,8 @@ Hrsg.: Andrea Saemann, Chris Regn, Lena Eriksson, Margarit von Büren, Muda Math
 ** Anlässlich der Buchpremiere wurde in Kooperation mit Radio X eine 5-stündige Leseperformance und Radiosendung live im Foyer Public des Theater Basel veranstaltet: [Online Nachhören!](https://www.mixcloud.com/radiox_basel/revolving-histories-live-radiosendung-aus-dem-foyer-public-251025/)
 * [Atlas Revolving Histories – zu translokaler Performance Kunst Schweiz](https://vexer.ch/products/atlas-revolving-histories-zu-translokaler-performance-kunst-schweiz)
 Hrsg.: Andrea Saemann, Chris Regn, Lena Eriksson, Margarit von Büren, Muda Mathis, Sabine Gebhardt Fink (Vexer Verlag 2026)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Revolving%20Histories)
+

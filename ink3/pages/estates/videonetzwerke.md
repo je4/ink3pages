@@ -79,3 +79,8 @@ Anna Winteler
 [Heinz Zürcher](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Heinz+Zu%CC%88rcher)
 [Renatus Zürcher](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Renatus+Z%C3%BCrcher)
 [Sus Zwick](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=Hildegard+Spielhofer&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Sus+Zwick)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Videonetzwerke)
+

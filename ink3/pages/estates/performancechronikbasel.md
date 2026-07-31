@@ -35,3 +35,8 @@ Further documents from the research environment of the Performance Chronicle Bas
 
 * Muda Mathis, Sus Zwick, Chris Regn, Statement 2018
 
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Performance%20Chronik%20Basel)
+

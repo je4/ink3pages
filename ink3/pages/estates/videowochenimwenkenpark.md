@@ -74,3 +74,8 @@ Kasic, Kaspar
 Spirk, Arthur
 Wegman, William
 [Zaugg, Rémy](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Zaugg%2C+R%C3%A9my%22)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Videowochen%20im%20Wenkenpark)
+

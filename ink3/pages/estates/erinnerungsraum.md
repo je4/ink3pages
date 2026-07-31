@@ -36,3 +36,8 @@ Das Archiv dokumentiert die Arbeiten der Studierenden ab dem Jahrgang 2013:
 [2015](https://erinnerungsraum.in3.campusderkuenste.ch/2015/programm/)
 [2014](https://erinnerungsraum.in3.campusderkuenste.ch/2014/programm/)
 [2013](https://erinnerungsraum.in3.campusderkuenste.ch/2013/programm/)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Erinnerungsraum)
+

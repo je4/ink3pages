@@ -73,3 +73,8 @@ Die kommende «Doce en Diciembre - Basel Edition» wird gefördert von: artlink 
  
 
 ////////////// Abbildung: Monika Dillier: Collage. DoceEnDiciembre 2019
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Doce%20en%20Diciembre)
+

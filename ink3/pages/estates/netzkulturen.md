@@ -30,3 +30,8 @@ Daniel Schoeneck, Interview am 18.03.2025
 Conny Voester, Interview am 24.06.2025
 Peter Spillmann, Interview am 31.10.2025
 Cornelia Sollfrank, Interview am 14.01.2026 
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Netzkulturen)
+

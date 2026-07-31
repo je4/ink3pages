@@ -25,3 +25,8 @@ Ingrid Rusterholtz interviewed by Chris Regn
 Lovis interviewed by Chris Regn
 Marianne Mattmüller interviewed by Chris Regn
 Line Boser & Lysan König interview each other
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Feministisches*%20Improvisatorium)
+

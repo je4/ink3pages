@@ -30,3 +30,8 @@ Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen 
 - Klassen- und Selbstportraits 
 - Partituren 
 - Steigerungen, Themen, Ausnahme 
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Film%20+%20Design)
+

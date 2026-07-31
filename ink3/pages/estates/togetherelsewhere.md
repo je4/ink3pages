@@ -108,3 +108,8 @@ The artists will perform for 30 minutes. They are invited via an open call at PA
 **Kontakt**
 Pavana Reid (PAB): greenpapaya(at)me.com und
 Gisela Hochuli (PANCH): nexus(at)giselahochuli.com
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Together%20Elsewhere)
+

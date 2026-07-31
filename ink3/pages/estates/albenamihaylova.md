@@ -55,3 +55,8 @@ Ihr Werk umfasst Dokumentarfilme, Videoinstallationen und Performances, die inte
 - **1991**: Kaymak Art, Annual Young Artists Exhibition, Sofia
 - **1991**: Internationale Grafik-Biennale, Varna
 - **1989**: Internationale Grafik-Biennale, Varna
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Albena%20Mihaylova)
+

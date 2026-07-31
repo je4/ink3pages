@@ -49,3 +49,8 @@ Dorota Sajewska
 [Marlies Surtmann](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.PMYNSEE9)
 [Martha Wilson](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.5EFGCMGA)
 [Wen Yau](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.EY6B9FA7)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Archive%20des%20Ephemeren)
+

@@ -37,3 +37,8 @@ Website: https://incubator.fhnw.ch/
 **Lehrressourcen**:
 [Semesterplan 2022-2025](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.F3VQ3UAP) mit [Bildern](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.AFWQP3GH) zum Kursprogramm 
 [Methodenkarten](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.PX7WT7BM)
+
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Incubator%20for%20Design%20Cultures)
+
