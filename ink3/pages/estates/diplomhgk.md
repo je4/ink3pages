@@ -51,3 +51,6 @@ Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen z
 [2019](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%222019%22)
 [2018](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%222018%22)
 [2017](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%212017%22)
+
+## Recherche
+[Bestand ansehen](../../grid/de?searchtype=estate&search=Diplom%20HGK)
