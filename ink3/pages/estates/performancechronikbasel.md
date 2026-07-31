@@ -2,8 +2,8 @@
 Title: Performance Chronik Basel
 Type: estate
 ID: Performance Chronik Basel
-Sourcetype Special Collection
-Collectionfield Performance Art
+Sourcetype: Special Collection
+Collectionfield: Performance Art
 Docs: 167
 ---
 
