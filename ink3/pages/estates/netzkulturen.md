@@ -3,7 +3,7 @@ Title: Netzkulturen
 Type: estate
 ID: Netzkulturen
 Sourcetype: Research Data
-Collectionfield: Practice Based Research; Open and Free Access; Video Art and Culture
+Collectionfield: Practice Based Research; Open and Free Access; Contemporary Discourses
 Docs: 5
 ---
 
