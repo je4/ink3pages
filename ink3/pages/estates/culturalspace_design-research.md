@@ -8,7 +8,7 @@ Docs: 44
 ---
 
 ## Cultural Spaces and Design - Prospects of Design Education
-![Bild für ACT](CulturalSpaces.jpg)
+![Bild für Cultural Spaces and Design](CulturalSpaces.jpg)
 
 In den Diskussionen zum Thema Globalisierung und Design fehlen bisher Überlegungen zu notwendigen Veränderungen in der Designausbildung, die gestalterisches Handeln in den Kontext globaler Entwicklungen und Problemlagen stellt.
 Das von der Gebert Rüf Stiftung in Basel geförderte Forschungsprojekt Cultural Spaces and Design. Prospects of Design Education ist im Feld der angewandten interkulturellen Designforschung angesiedelt. Das Projektteam – Regine Halter, Catherine Walthard, Anka Falk – konzentrierte sich auf die Auswirkungen von Globalisierungsprozessen auf das Design und befasste sich mit den daraus folgenden Konsequenzen für die Designausbildung.
