@@ -9,7 +9,7 @@ Docs: 84
 
 ## Archive des Ephemeren (2017-2019)
 
-![Bild für Archive des Ephemeren](Archive des Ephemeren.gif)
+![Bild für Archive des Ephemeren](ArchivedesEphemeren.gif)
 
 Die Sammlung enthält Prozessunterlagen (Fotos) und Dokumentationen des Projektes "Archive des Ephemeren". 
 Unterstützt vom Bundesamt für Kultur, der Burgergemeinde, der Stadt und dem Kanton Bern, der Stiftung Corymbo, der H.E.M. Stiftung und der Scherbarth Stiftung, wurde es zwischen Herbst 2017 und Sommer 2019 realisiert, um eine gesellschaftliche Debatte zur Archivierung und Überlieferung der Performancekunst zu lancieren.
