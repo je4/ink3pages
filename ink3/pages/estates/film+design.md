@@ -19,7 +19,7 @@ Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen 
 **12 Filmsequenzen thematisch zusammengestellt:**
 
 - Grammatik – Phänomen der Bildvermischung 
-- Grammatik – Dimension Zeit (→ [Beispiele]()https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22zeit%22)
+- Grammatik – Dimension Zeit (→ [Beispiele](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22zeit%22))
 - Grammatik Phänomen – Animationseffekt 
 - Grammatik – Dimension Geschwindigkeit 
 - Interferenzen als Phänomen

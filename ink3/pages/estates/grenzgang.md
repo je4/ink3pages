@@ -23,9 +23,9 @@ Auswahl publizierter Inhalte / Selection of published material:
 ## Dokumentation
 - [Walk 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.QPSVJZYD)
 - Walk 2
-- [Walk 3](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.VNCJN3PN)
-- [Walk 4](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.PSSMPXG3)
-- [Walk 5](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.3A9T6FYM)
+- Walk 3
+- Walk 4
+- Walk 5
 - Walk 6
 - Walk 7
 - Walk 8
@@ -36,8 +36,8 @@ Auswahl publizierter Inhalte / Selection of published material:
 - [Balades-de-Bâle (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BZMJ8X2H)
 - Miniatures (Amadis Brugnoni)
 - [Nullmeterzeichnungen (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BQQIGAZ6)
-- [Raumklangskizzen (Daniel Brefin)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.6ZMQS5QV)
-- [Videos entlang (Simone Etter)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.73GBIEA5)
+- Raumklangskizzen (Daniel Brefin)
+- Videos entlang (Simone Etter)
 
 ## Projektabschluss
 - [Schlussbericht Schweizer Nationalfond](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.2XH6UNCD_enclosure/iframe)
