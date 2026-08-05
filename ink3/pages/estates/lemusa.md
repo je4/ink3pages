@@ -7,8 +7,11 @@ Collectionfield: Video Art and Culture; Open and Free Access; Creative Publishin
 Docs: 543
 ---
 
+
+
 # Lemusa - Mission Kaki
 
+![BIld für Lemusa Kaki](lemusa_kaki.gif)
 
 Das Netzkunstprojekt "Mission Kaki" entstand im Rahmen der Internetpublikation "Beam me up", die kulturtheoretische und naturwissenschaftliche Essays mit netzbasierten Kunstwerken zusammenführte.
 "Mission Kaki" ist eine Spionagegeschichte in zwanzig Episoden, die ursprünglich zwischen November 2008 und August 2011 im Netz publiziert wurde und seit 2026 als Buch vorliegt. Jede Episode besteht aus ungefähr zwanzig meist sehr kurzen Videoclips mit dazugehörigen Texten unterschiedlicher Länge. Diese Texte erläutern, was auf den Bildern geschieht, und stellen den Zusammenhang zur übergeordneten Erzählung her. Protagonist der Geschichte ist Hektor Maille, der beste Mann des lemusischen Geheimdienstes. Auf der Suche nach einem entführten Professor reist er kreuz und quer über den Planeten. In der Rolle des Geheimagenten tritt der Autor selbst auf, mit Hut, Hemd und schwarzer Brille. 

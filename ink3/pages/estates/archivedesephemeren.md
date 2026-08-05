@@ -7,20 +7,17 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 84
 ---
 
-## Archive des Ephemeren (2017-2019)
+# Archive des Ephemeren (2017-2019)
 
-<<<<<<< HEAD
 ![Bild für Archive des Ephemeren](ArchivedesEphemeren.gif)
-=======
 ![Bild für Archive des Ephemeren](Archive_des_Ephemeren.gif)
->>>>>>> 10a65d2b464ab6708d845f370bd946909eb3b30a
 
 Die Sammlung enthält Prozessunterlagen (Fotos) und Dokumentationen des Projektes "Archive des Ephemeren". 
 Unterstützt vom Bundesamt für Kultur, der Burgergemeinde, der Stadt und dem Kanton Bern, der Stiftung Corymbo, der H.E.M. Stiftung und der Scherbarth Stiftung, wurde es zwischen Herbst 2017 und Sommer 2019 realisiert, um eine gesellschaftliche Debatte zur Archivierung und Überlieferung der Performancekunst zu lancieren.
 Getragen von [PANCH - Performance Art Network CH](https://panch.li/2018-2019archive-des-ephemeren/) wurden fünf sog. Denkpools zu thematischen Schwerpunkten mit Künstler:innen, Expert:innen aus unterschiedlichen kulturellen Bereichen sowie der interessierten Öffentlichkeit realisiert. 
 Dabei wurde die künstlerische Sicht auf das Archiv auf Augenhöhe mit theoretischen Ansätzen diskutiert und das Archiv "von unten" als etwas "lebendiges" gedacht.
 
-### Denkpools
+## Denkpools
 I: [Digitale Plattformen und Datenbanken](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.F8KYBHNT)
 
 II: [Archive des Ephemeren und Policies](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.HTBXHIXI)
@@ -34,7 +31,7 @@ V: [Projektauswertung und kulturpolitische Strategie](https://mediathek.hgk.fhnw
 [Broschüre Deutsch](https://hdl.handle.net/20.500.11806/qr/ade_publ)
 [Brochure English](https://hdl.handle.net/20.500.11806/qr/ade_publ_en)
 
-### Präsentationen beim Symposium:
+## Präsentationen beim Symposium:
 
 [Barbara Büscher](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.2BT8FNXS)
 [Nicolas Brulhart](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2317722.ZIIGZ4EU)

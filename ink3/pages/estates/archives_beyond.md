@@ -7,8 +7,8 @@ Collectionfield: Performance Art; Open and Free Access; Practice Based Research
 Docs: 
 ---
 
-### ARCHIVES & BEYOND 
-#### Ein künstlerisches Forschungsprojekt zur Wiederaufführung 
+# ARCHIVES & BEYOND 
+## Ein künstlerisches Forschungsprojekt zur Wiederaufführung 
 
 
 Die Online-Sammlung zu ARCHIVES & BEYOND fasst eine Fülle an unterschiedlichen Recherche-, Produktions- und Dokumentationsmaterialien zum künstlerischen Performanceprojekt ARCHIVES & BEYOND (2025) von Pascale Grau und Dorothee Daphi zusammen.

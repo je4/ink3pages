@@ -3,11 +3,11 @@ Title: Doce en Diciembre
 Type: estate
 CollectionTitle: Doce en Diciembre
 Sourcetype: Special Collection
-Collectionfield: Performance Art; Open and Free Access
+Collectionfield: Collaborative Practices; Performance Art; Open and Free Access
 Docs: 18
 ---
 
-## Doce en Diciembre
+# Doce en Diciembre
 
 «Oceanic Issues - Mensajes Oceánicos»
 with/mit
@@ -38,7 +38,7 @@ Die kommende «Doce en Diciembre - Basel Edition» wird gefördert von: artlink 
 
 
 
-## Videos of the Program ##
+## Videos of the Program 
 
 - [Belén Romero Gunset: Mensajes Oceánicos](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.MQ2QP4JK)
 - [Maja Lascano: 12 Amuletos 13 Mujeres | 12 Amulets 13 Women](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZAUZH5J8)

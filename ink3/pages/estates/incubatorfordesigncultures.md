@@ -7,7 +7,7 @@ Collectionfield: Practice Based Research; Open and Free Access; Education
 Docs: 63
 ---
 
-## Incubator for Design Cultures 
+# Incubator for Design Cultures 
 
 
 Der Incubator for Design Cultures ist ein Förderprogramm für Mitarbeitende der gesamten FHNW. Die vorliegende Materialsammlung enthält die Publikation und Teile der Dokumentation der ersten Förderphase (2022-2025). Als Lehrressource lädt sie zur Inspiration und Nachnutzung ein.

@@ -7,7 +7,7 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 167
 ---
 
-## Performance Chronik Basel: Videosammlung 1987- 2006 
+# Performance Chronik Basel: Videosammlung 1987- 2006 
 
 
 Die Videosammlung der Performance Chronik Basel (1987- 2006) schafft Zugang zu Videodokumentationen von Live Performances, die während der Recherchen für die Publikation „Aufzeichnen und Erinnern. Performance Chronik Basel (1987-2006)“ von Muda Mathis und Sus Zwick zusammengetragen wurden. Die Publikation wurde 2016 von Sabine Gebhardt Fink, Muda Mathis und Margarit von Büren beim Diaphanes Verlag in Zürich herausgegeben. Als quasi zweite Dekade schloss die Publikation historisch an die bereits 2011 von den drei Herausgeberinnen publizierte Anthologie „Floating Gaps: Performance Chronik Basel (1968-1986)“ an.

@@ -8,8 +8,8 @@ Docs: 95
 ---
 
 
-### Grenzgang 
-#### Künstlerische Untersuchungen zur Wahrnehmung und Vermittlung von Raum im trinationalen Grenzgebiet (2014-2015) 
+# Grenzgang 
+## Künstlerische Untersuchungen zur Wahrnehmung und Vermittlung von Raum im trinationalen Grenzgebiet (2014-2015) 
 
 ![Bild für Grenzgang](grenzgang.jpg)
 
@@ -20,33 +20,33 @@ To demonstrate and discuss how knowledge is generated in a project that explicit
 
 Auswahl publizierter Inhalte / Selection of published material:
 
-#### Dokumentation
+## Dokumentation
 - [Walk 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.QPSVJZYD)
 - Walk 2
-- [Walk 3](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.VNCJN3PN)
-- [Walk 4](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.PSSMPXG3)
-- [Walk 5](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.3A9T6FYM)
+- Walk 3
+- Walk 4
+- Walk 5
 - Walk 6
 - Walk 7
 - Walk 8
 - Walk 9
 - Walk 10
 
-#### Fundus
+## Fundus
 - [Balades-de-Bâle (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BZMJ8X2H)
 - Miniatures (Amadis Brugnoni)
 - [Nullmeterzeichnungen (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BQQIGAZ6)
-- [Raumklangskizzen (Daniel Brefin)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.6ZMQS5QV)
-- [Videos entlang (Simone Etter)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.73GBIEA5)
+- Raumklangskizzen (Daniel Brefin)
+- Videos entlang (Simone Etter)
 
-#### Projektabschluss
+## Projektabschluss
 - [Schlussbericht Schweizer Nationalfond](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.2XH6UNCD_enclosure/iframe)
 - [Springer Text Grenzgang. When Promenadology Meets Library](https://link.springer.com/chapter/10.1007/978-3-319-76992-9_11)
 - [Ortszeit DE: Grenzgang. Vom Dreispitz in den trinationalen Raum](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.3WG4QMQU_enclosure/iframe)
 - [Ortszeit EN: Grenzgang. From Dreispitz to the space of the trinational region](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.5LZJ3Q26_enclosure/iframe)
 - [Grenzgang – Laying a Keyword Path. 15th ELIA Biennial Conference Rotterdam: Resilience and the City](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.FHAWAZ6M)
 
-#### Additional Output (im Projekt)
+## Additional Output (im Projekt)
 - Salon MondialTischgesprächeArbeit mit Schulklassen
 - Konzert HEKIBA
 - Talk I BA

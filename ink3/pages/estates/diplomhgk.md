@@ -13,7 +13,7 @@ Redirect:
 Next Generation ist der Titel der jährlich stattfindenden Diplom- bzw. Abschlussausstellung der HGK.
 Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen zu ihren Arbeiten. Sie zeigt die Vielfalt der künstlerischen und gestalterischen Praktiken und dokumentiert damit Wandel durch die Zeit. Enthalten sind Einträge der Diplome, BA, MA und MDS Arbeiten seit 2017.
 
-[Link zur Website] (https://nextgeneration.hgk.fhnw.ch/)
+[Link zur Website](https://nextgeneration.hgk.fhnw.ch/)
 
 ## Bachelor
 - [Hyperwerk](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22forms2%21%21diplom%21%21Hyperwerk%22)

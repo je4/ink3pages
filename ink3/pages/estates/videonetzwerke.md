@@ -9,7 +9,7 @@ Docs: 95
 
 
 
-## Videonetzwerke 
+# Videonetzwerke 
 
 
 Die Videogenossenschaft Basel (VGB, heute point de vue) war in ihrer 40-jährigen Geschichte wiederholt ein Kristallisationspunkt für übergreifende Verschiebungen in der Geschichte von Video. Die Akteur:innen der VGB und ihre Mitglieder haben mit dem Medium Video eigene Ästhetiken geschaffen, die im Kontext der gesellschaftspolitischen Auseinandersetzung, Vermittlungsarbeit und visuellen Kultur einen wichtigen Beitrag leisteten. Dabei wird noch heute Video als engagiertes Medium (Journalismus und Aktivismus, Jugendbewegung der 1980er Jahre), als dokumentierendes Medium (Gebrauchsfilm, aber auch videografische Umsetzungen von Neuer Musik und Werken der szenischen Künste etwa im Kontext der Kaserne Basel) und als generative Medium (Videokunst, Videowochen im Wenkenpark in den 1980er Jahren, künstlerische Experimente im Rahmen von Workshops und Videofachklassen) begreifbar.
