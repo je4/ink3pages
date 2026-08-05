@@ -38,41 +38,26 @@ Die kommende «Doce en Diciembre - Basel Edition» wird gefördert von: artlink 
 
 
 
-**Videos of the Program (please click on the links below)**:
+## Videos of the Program ##
 
-[Belén Romero Gunset: Mensajes Oceánicos](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.MQ2QP4JK)
-
-[Maja Lascano: 12 Amuletos 13 Mujeres | 12 Amulets 13 Women](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZAUZH5J8)
-
-[Gisela Hochuli: Nachmittags 14.30 Teil 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.MK3JMGKJ)
-
-[Luján Funes: Aquelarre](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.WWT84ATT)
-
-[Barbara Naegelin: Amar, Jugar, Luchar](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.RURK4NFC)
-
-[Paola Junqueira: Blimunda on the banks of the Tagus River](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.366WGT8V)
-
-[Paola Junqueira: Blimunda infected with Covid-19 in Terra Brasilis](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.HNMMZ6HU)
-
-[Gisela Hochuli: Nachmittags 14.30 Teil 2](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.XRKD4KWU)
-
-[Monika Dillier: Liegender Teppich](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.NB2JZPQI)
-
-[Jazmín Saidman: Educación Libre](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.8WPVG6KB)
-
-[Belén Romero Gunset: Dear Machine](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.IIWK5VV2)
-
-[Andrea Saemann: Boundary Boards](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.RVXQKHR9)
-
-[Luján Funes: Me veo muerta](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.T7MSRWF2)
-
-[Jazmín Saidman: Open Sesión AEIOU](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.AD6NCM8S)
-
-[Chris Regn: Trobadora Broll singing about Lady Goddesses at the Equator](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.SGARKE36)
-
+- [Belén Romero Gunset: Mensajes Oceánicos](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.MQ2QP4JK)
+- [Maja Lascano: 12 Amuletos 13 Mujeres | 12 Amulets 13 Women](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZAUZH5J8)
+- [Gisela Hochuli: Nachmittags 14.30 Teil 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.MK3JMGKJ)
+- [Luján Funes: Aquelarre](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.WWT84ATT)
+- [Barbara Naegelin: Amar, Jugar, Luchar](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.RURK4NFC)
+- [Paola Junqueira: Blimunda on the banks of the Tagus River](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.366WGT8V)
+- [Paola Junqueira: Blimunda infected with Covid-19 in Terra Brasilis](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.HNMMZ6HU)
+- [Gisela Hochuli: Nachmittags 14.30 Teil 2](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.XRKD4KWU)
+- [Monika Dillier: Liegender Teppich](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.NB2JZPQI)
+- [Jazmín Saidman: Educación Libre](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.8WPVG6KB)
+- [Belén Romero Gunset: Dear Machine](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.IIWK5VV2)
+- [Andrea Saemann: Boundary Boards](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.RVXQKHR9)
+- [Luján Funes: Me veo muerta](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.T7MSRWF2)
+- [Jazmín Saidman: Open Sesión AEIOU](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.AD6NCM8S)
+- [Chris Regn: Trobadora Broll singing about Lady Goddesses at the Equator](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.SGARKE36)
  
 
-////////////// Abbildung: Monika Dillier: Collage. DoceEnDiciembre 2019
+Abbildung: Monika Dillier: Collage. DoceEnDiciembre 2019
 
 
 ## Recherche

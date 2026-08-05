@@ -14,17 +14,17 @@ Just in time for the 50 year anniversary of 1968 and against the background of a
 
 Among other things, the following interviews were recorded between the 14th–28th of August 2018:
 
-Anita Fetz interviewed by Katha
-BaurKatha Baur interviewed by Anita Fetz
-Kathrin Ginggen interviewed by Muda Mathis
-Lena Rérat interviewed by Muda Mathis
-Patricia Purtschert interviewed by Muda Mathis
-Annemarie Pfister interviewed by Chis Regn
-Elisabeth Freivogel interviewed by Chris Regn
-Ingrid Rusterholtz interviewed by Chris Regn
-Lovis interviewed by Chris Regn
-Marianne Mattmüller interviewed by Chris Regn
-Line Boser & Lysan König interview each other
+- Anita Fetz interviewed by Katha
+- BaurKatha Baur interviewed by Anita Fetz
+- Kathrin Ginggen interviewed by Muda Mathis
+- Lena Rérat interviewed by Muda Mathis
+- Patricia Purtschert interviewed by Muda Mathis
+- Annemarie Pfister interviewed by Chis Regn
+- Elisabeth Freivogel interviewed by Chris Regn
+- Ingrid Rusterholtz interviewed by Chris Regn
+- Lovis interviewed by Chris Regn
+- Marianne Mattmüller interviewed by Chris Regn
+- Line Boser & Lysan König interview each other
 
 
 ## Recherche
