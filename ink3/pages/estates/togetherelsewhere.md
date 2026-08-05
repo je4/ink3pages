@@ -2,11 +2,13 @@
 Title: Together Elsewhere
 Type: estate
 CollectionTitle: Together Elsewhere
+Sourcetype: 
+Collectionfield: Collaborative Practices; Performance Art; Open & Free Access
 Docs: 65
 ---
 
 
-## TOGETHER ELSEWHERE
+# TOGETHER ELSEWHERE
 
 
 Together Elsewhere is a monthly performance series organized by Pavana Reid (PAB - Performance Art Bergen) and Gisela Hochuli (PANCH - Performance Art Network Switzerland). It is streamed live online by the Mediathek of the HGK FHNW Basel and then archived. The project started in July 2021.
@@ -14,11 +16,11 @@ Together Elsewhere is a monthly performance series organized by Pavana Reid (PAB
 
 Wir freuen uns über den regen Zuspruch, danken allen Teilnehmenden von Herzen und sind gespannt, wie sich das Projekt mit vielen neuen Ideen und Mikroformaten weiterentwickelt.
 
-###Upcoming Events 2026
+## Upcoming Events 2026
 
 Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm (CH) [(live here)](https://vimeo.com/event/6076790)
 
-###Past Events 2026
+## Past Events 2026
 
 [B AJAY SHARMA and BENDJI-ALBENA](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.8DD9TT63/de), July 9th: 11:00 am Zurich // 6:00 pm Korea
 [Mario Montoy and Regula Michell](https://vimeo.com/1200712009?), June 25th: 6:00 pm Zurich 
@@ -27,7 +29,7 @@ Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm
 [SueKi Yee and Markus Hensler](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.T93346CJ/de), February 19th, 18:00 Uhr
 [Trine Lyngsholm and Jorge Raka](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-2608904.MQ9SVIEE/de), January 30th, 17:00 Uhr
 
-###Past Events 2025
+## Past Events 2025
 
 [ieke Trinks and Geremia Mangione](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.4ZRJSHX3), Tuesday December 30, 2025, 4pm
 [Tone Bjordam and Ivan Röösli](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.R438MDM4), November 23rd, 4.00 pm Switzerland
@@ -42,7 +44,7 @@ Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm
 [Andriy Helytovych and Susanne Escher](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.UR46XW4Q), February 28th at 6:00 pm (Switzerland) /  7:00 pm (Ukraine)
 [Pattree Chimnok und Francesco Spedicato](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZGQ8E6PH), January 31st 2025 at 11:00 am (Switzerland / 5:00 pm Thailand)
 
-###Past Events 2024
+## Past Events 2024
 
 [Stein Henningsen and Irena Kulka](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.BKWQMB3U), December 21st 2024 at 2:00 pm
 [Franzisca Siegrist and Claudia Bucher](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.87W64NJB): November 22nd, 2024 at 7:00 pm
@@ -57,7 +59,7 @@ Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm
 [Ingeborg Blom Andersskog und Dorothea Rust](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.AC7ZSUZJ): Tuesday, February 27th, noon: 12:00 pm
 [Angela Hausheer and Alwynne Pritchard](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.WXZ8EMHJ): Tuesday, January 30th, noon: 12:00 pm
 
-###Events 2023
+## Events 2023
 
 [Kurt Johannessen and Leo Bachmann](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.QEHGE3DR): Wednesday, December 6th, 6 pm
 Kristen Rønnevik and Marie-Anne Lerjen was postponed in Nov. 2023 due to illness. The rescheduled date will be announced.
@@ -72,7 +74,7 @@ Kristen Rønnevik and Marie-Anne Lerjen was postponed in Nov. 2023 due to illnes
 [Sera Hanga and Mona Tahani](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.THP9F54P): Monday, February 27th, 6 pm
 [Marit Tunestveit Dyre and Parvez](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.D2P73CBZ): Wednesday, January 25th, 7 pm
 
-###Events 2022
+## Events 2022
 
 [Traci Kelly and Benjamin Sunarjo](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.92EEDSH5): Wednesday December 14th, 3 pm
 [Sigmund Skard and Pascale Grau](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.AHFCMRAC): Friday November 11th, 4 pm
@@ -87,7 +89,7 @@ Kristen Rønnevik and Marie-Anne Lerjen was postponed in Nov. 2023 due to illnes
 [Frauke Materlik und Daniel Häller](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.53SFQ2ZE): Tuesday 22. February 2022, at 5 pm
 [Jan-Egil Finne und Markus Goessi](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.FAWQFUS6): Sunday 23. January 2022, at 5 pm
 
-###Events 2021
+## Events 2021
 
 [Agnes Btffn (NO) and Sandra De los Santos (CH)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZEFB49BV/plain): Thursday 18. November 2021, 6 pm
 [Linnea Langfjord Kristensen (NO) and Lilian Frei (CH)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.3K8NB2MA): Thursday 21. Oktober 2021, 5 pm
@@ -95,7 +97,7 @@ Kristen Rønnevik and Marie-Anne Lerjen was postponed in Nov. 2023 due to illnes
 [Anette Friedrich Johannessen and Judith Huber](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.9J4UN6TZ): Thursday 5 August 2021, at 5 pm
 [Pavana Reid and Gisela Hochuli](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ZIT86JHZ): Friday 23 July 2021, at 8 pm
 
-##About the project
+## About the project
 
 Two artists, one from [PAB](https://www.performanceartbergen.no/en/) and one from [PANCH](https://panch.li/), perform at the same time in different places. For the performances they both choose the same kind of space. For example, it can be a space in a gallery (white cube), in an apartment building, on a terrace, by the water. It is important that both people have access to the Internet for streaming via Zoom. In addition, the two choose together six identical or as similar as possible materials that they will use during the performance. Furthermore, they determine the day (Monday - Friday) and the time of the performance.
 

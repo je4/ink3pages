@@ -3,11 +3,11 @@ Title: Doce en Diciembre
 Type: estate
 CollectionTitle: Doce en Diciembre
 Sourcetype: Special Collection
-Collectionfield: Performance Art; Open and Free Access
+Collectionfield: Collaborative Practices; Performance Art; Open and Free Access
 Docs: 18
 ---
 
-## Doce en Diciembre
+# Doce en Diciembre
 
 «Oceanic Issues - Mensajes Oceánicos»
 with/mit

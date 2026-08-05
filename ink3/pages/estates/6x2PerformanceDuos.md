@@ -7,20 +7,20 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 
 ---
 
-### 6 x 2 Performance Duos 
+# 6 x 2 Performance Duos 
 
 Mit dem Projekt 6x2 fragten die Initiantinnen Pascale Grau und Claudia Grimm spezifisch nach der Zusammenarbeit von 2 Künstler*Innen oder Künstlerpaaren, nach dem Verhältnis der individuellen künstlerischen Praxis zur gemeinsamen. Die Fokussierung auf die Zweierkonstellation gab einen überschaubaren Rahmen, um gezielt zu beobachten, um gemeinsam mit dem Publikum das Zuzweitsein als kleinstes „Kollektiv“ zu befragen. Zudem ging es auch darum, unterschiedliche Generationen zusammenzubringen.
 
-#### Dokumentation: 6  x 2 Performance-Duos
+## Dokumentation: 6  x 2 Performance-Duos
 
 6.- 8. 11. 2020 im Kaskadenkondensator Basel
 
 Zur Veranstaltung
 
 
-#### Programm:
+## Programm:
 
-#### Fr. 6.11.20 Block1: 18.30 h - ca. 20.30
+## Fr. 6.11.20 Block1: 18.30 h - ca. 20.30
 
 [Solo Regula Hurter JUNG BIS SEHR JUNG](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.VPRKSBMR)
 
@@ -39,7 +39,7 @@ Dauer insgesamt 2 Stunden ineinander fliessend ohne Pause
 
  
 
-#### Sa. 7.11.20 Block 2: 14.00 – 17.30 h
+## Sa. 7.11.20 Block 2: 14.00 – 17.30 h
 
 14.00 - [Soli + Duo: Jasminka Stenz und Katarzyna Brzezinska](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.XFQVQ4JM)
 
@@ -66,7 +66,7 @@ Dauer insgesamt ca. 3,5 h mit 30 Min. Pause
 
  
 
-#### Sa. 7.11.20 Block 3: 19.00 h – ca. 22.00 h
+## Sa. 7.11.20 Block 3: 19.00 h – ca. 22.00 h
 
 [Solo Claudia Grimm - DIE VOGELFRAGE](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.EX74UQVV)
 
@@ -88,7 +88,7 @@ ________________________________________________________________________________
 
  
 
-#### So. 8.11.20 Block 4: 12.00 – ca. 16.30
+## So. 8.11.20 Block 4: 12.00 – ca. 16.30
 
 [Reflexion in Zusammenarbeit mit PANCH (Performance Art Network CH): Irene Maag, Valerian Maly, Andrea Saemann](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.9RTR38MP)
 

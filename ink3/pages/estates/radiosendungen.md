@@ -7,7 +7,7 @@ Collectionfield: Contemporary Discourses; Open and Free Access
 Docs: 
 ---
 
-### Radiosendungen - Texte aus dem Dunstkreis nun gehört! (2018)
+# Radiosendungen - Texte aus dem Dunstkreis nun gehört! (2018)
 
 Die Sammlung ist als performatives Radio gedacht. Sie enthält 12 Audioaufzeichnungen, in denen im Sommer 2018 ausgewählte Texte von lesefreudigen Künstler*innen für das Publikum im KASKO und die Digitale See vorgelesen wurden. Die Initiatorinnen Muda Mathis und Chris Regn erklären hierzu: „In unseren Kreisen werden viele Texte geschrieben, Bücher produziert doch viel zu selten und von zu wenigen gelesen. Wir aber wollen unsere Aufmerksamkeit gerade auf diese Textproduktion richten. Warum sollen diese Texte einsam bleiben? Denn vorgelesene Texte sind deshalb so schön, weil man beim Zuhören so gut denken kann.“
 The collection is intended as a performative radio broadcast. It contains 12 audio recordings from summer 2018, in which selected texts were read to the public at KASKO and the Digital Sea by enthusiastic artists*.

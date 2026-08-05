@@ -8,8 +8,8 @@ Docs: 62
 ---
 
 
-### Memory Full? 
-#### Digital Legacy 2021 DHS Annual Conference
+# Memory Full? 
+## Digital Legacy 2021 DHS Annual Conference
 
 
 Welcome to the digital legacy of the 2021 DHS Annual Conference «Memory full? Reimagining the relations between design and history», which took place fully online, hosted by the FHNW Academy of Art and Design, Basel, Switzerland, 2-4 September 2021.

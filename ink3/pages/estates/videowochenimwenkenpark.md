@@ -8,7 +8,7 @@ Docs: 41
 ---
 
 
-## Videowochen im Wenkenpark (1984 / 1986 / 1988)
+# Videowochen im Wenkenpark (1984 / 1986 / 1988)
 
 
 Die Videowochen im Wenkenpark bildeten in den achtziger Jahren ein internationales Forum für die Videokunst. Mit den Schwerpunkten Produktion, Ausbildung, Vermittlung und Präsentation von Videoarbeiten, Installationen sowie Performances entsprach es den damaligen Bedürfnissen. Die Veranstaltungen setzten massgebliche Impulse und trugen zur Etablierung des Mediums im Kunstkontext bei. Die Videowochen im Wenkenpark fanden 1984, 1986 und 1988 statt. Die eingeladenen Künstlerinnen und Künstlern realisierten in unterschiedlichen Workshops vielfältige Videoproduktionen und -ereignisse, von denen Dokumentationen zu Workshop-Prozessen und Video-Live-Auftritten sowie fünf ausführliche Interviews mit Gastkünstlerinnen und -künstlern überliefert sind. Der historische Bandbestand umfasst 79 Originalbänder mit 42 Werken. Die Anzahl variiert, da auch die Originalbänder von Mehrkanal-Installationen und Performanceauftritten enthalten sind, die nun als Werk zusammengeführt und dokumentiert wurden. Sofern dies die Rechtesituation zulässt, sind die Quellen frei hier im Internet verfügbar. Gesperrte Quellen können in der Mediathek nach Absprache konsultiert werden. Das Projekt wurde von Memoriav gefördert.
