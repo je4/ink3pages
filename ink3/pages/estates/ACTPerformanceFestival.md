@@ -1,13 +1,11 @@
 ---
-Title: ACT Perfprmance Festival
+Title: ACT Performance Festival
 Type: estate
-CollectionTitle:  ACT Perfprmance Festival
+CollectionTitle:  ACT Performance Festival
 Sourcetype: Educational Resources
 Collectionfield: Education; Collaborative Practices; Performance
 Docs: 
 ---
-
-#  ACT Perfprmance Festival 
 
 Act versteht sich als offenes Laboratorium zur Erprobung performativer Projekte und künstlerischer Strategien. Das Festival bietet seit 2003 eine Plattform für Kunststudierende an Schweizerischen Hochschulen. Es findet jeweils verteilt in Basel, Bern, Genf, Luzern und Sierre (je abwechselnd) sowie Zürich statt. Aus der ganzen Schweiz reisen die Studierenden jeweils an einen Austragungsort, wo sie sich gemeinsam und konzentriert ihrer künstlerischen Praxis widmen und dabei ihre performativen Strategien oder Werke weiterentwickeln.
 Das Festival ist weitgehend von Studierenden organisiert, sodass die Teilnehmenden die unterschiedlichen Kulturen und Gegebenheiten der Hochschulen, Austragungsorte und natürlich auch der andere Studierende kennenlernen. Sie treten sie aus dem eigenen Umfeld heraus und erweitern ihren Horizont, da Performancekunst immer auch auf die lokalen Strukturen reagiert und zum Gegenstand der jeweiligen Arbeiten macht.
