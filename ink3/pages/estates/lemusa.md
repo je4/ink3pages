@@ -8,9 +8,6 @@ Docs: 543
 ---
 
 
-
-# Lemusa - Mission Kaki
-
 ![BIld für Lemusa Kaki](lemusa_kaki.gif)
 
 Das Netzkunstprojekt "Mission Kaki" entstand im Rahmen der Internetpublikation "Beam me up", die kulturtheoretische und naturwissenschaftliche Essays mit netzbasierten Kunstwerken zusammenführte.
