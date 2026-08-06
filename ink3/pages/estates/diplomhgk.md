@@ -4,7 +4,7 @@ Type: estate
 CollectionTitle: Diplom HGK
 Docs: 1285
 Sourcetype: Educational Resources
-Collectionfield: Education; Collaborative Practices; Graduation
+Collectionfield: Education; Graduation
 Redirect:
 ---
 
