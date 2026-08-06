@@ -1,6 +1,8 @@
 ﻿---
-Title: Institut Industrial Design
+Title: Archiv Institut Industrial Design
 Type: estate
-CollectionTitle: Institut Industrial Design
+CollectionTitle: Archiv Institut Industrial Design
+Sourcetype: Educational Resources
+Collectionfield: Graduation
 Docs: 472
 ---
