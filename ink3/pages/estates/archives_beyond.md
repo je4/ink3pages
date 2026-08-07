@@ -7,7 +7,7 @@ Collectionfield: Performance Art; Open and Free Access; Practice Based Research
 Docs: 
 ---
 
-# ARCHIVES & BEYOND 
+
 ## Ein künstlerisches Forschungsprojekt zur Wiederaufführung 
 
 

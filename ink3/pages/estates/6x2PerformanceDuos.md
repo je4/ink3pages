@@ -7,7 +7,7 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 
 ---
 
-# 6 x 2 Performance Duos 
+
 
 Mit dem Projekt 6x2 fragten die Initiantinnen Pascale Grau und Claudia Grimm spezifisch nach der Zusammenarbeit von 2 Künstler*Innen oder Künstlerpaaren, nach dem Verhältnis der individuellen künstlerischen Praxis zur gemeinsamen. Die Fokussierung auf die Zweierkonstellation gab einen überschaubaren Rahmen, um gezielt zu beobachten, um gemeinsam mit dem Publikum das Zuzweitsein als kleinstes „Kollektiv“ zu befragen. Zudem ging es auch darum, unterschiedliche Generationen zusammenzubringen.
 

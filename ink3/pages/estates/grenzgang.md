@@ -7,8 +7,6 @@ Collectionfield: Practice Based Research; Open and Free Access; Education; Colla
 Docs: 95
 ---
 
-
-# Grenzgang 
 ## Künstlerische Untersuchungen zur Wahrnehmung und Vermittlung von Raum im trinationalen Grenzgebiet (2014-2015) 
 
 ![Bild für Grenzgang](grenzgang.jpg)

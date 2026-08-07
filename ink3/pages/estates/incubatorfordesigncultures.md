@@ -7,7 +7,6 @@ Collectionfield: Practice Based Research; Open and Free Access; Education
 Docs: 63
 ---
 
-# Incubator for Design Cultures 
 
 
 Der Incubator for Design Cultures ist ein Förderprogramm für Mitarbeitende der gesamten FHNW. Die vorliegende Materialsammlung enthält die Publikation und Teile der Dokumentation der ersten Förderphase (2022-2025). Als Lehrressource lädt sie zur Inspiration und Nachnutzung ein.
@@ -23,6 +22,7 @@ Der Incubator for Design Cultures fördert Mitarbeitende aller Disziplinen, die 
 **Ressourcen**
 
 Website: https://incubator.fhnw.ch/
+
 [Personenübersicht](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.FSW6VEZ7)
 
 **Ausstellungen**:
@@ -35,7 +35,8 @@ Website: https://incubator.fhnw.ch/
 [Einzelbeiträge](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22incubator+for+design+cultures%22)
 
 **Lehrressourcen**:
-[Semesterplan 2022-2025](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.F3VQ3UAP) mit [Bildern](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.AFWQP3GH) zum Kursprogramm 
+[Semesterplan 2022-2025](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.F3VQ3UAP) mit [Bildern](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.AFWQP3GH) zum Kursprogramm
+ 
 [Methodenkarten](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.PX7WT7BM)
 
 

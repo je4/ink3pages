@@ -7,7 +7,7 @@ Collectionfield: Collaborative Practices; Performance Art; Open and Free Access
 Docs: 18
 ---
 
-# Doce en Diciembre
+
 
 «Oceanic Issues - Mensajes Oceánicos»
 with/mit

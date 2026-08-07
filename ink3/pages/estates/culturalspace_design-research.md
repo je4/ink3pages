@@ -8,8 +8,6 @@ Docs: 44
 ---
 
 
-# Cultural Spaces and Design - Prospects of Design Education
-
 ## Cultural Spaces and Design - Prospects of Design Education
 ![Bild für Cultural Spaces and Design](CulturalSpaces.jpg)
 

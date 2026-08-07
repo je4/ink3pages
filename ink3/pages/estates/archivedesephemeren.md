@@ -7,7 +7,6 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 84
 ---
 
-# Archive des Ephemeren (2017-2019)
 
 ![Bild für Archive des Ephemeren](ArchivedesEphemeren.gif)
 ![Bild für Archive des Ephemeren](Archive_des_Ephemeren.gif)

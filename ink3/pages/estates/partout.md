@@ -8,7 +8,7 @@ Docs: 32
 ---
 
 
-# PARTOUT
+
 
 PARTOUT is a project of d PANCH – Performance Art Network CH and the closing project of [PANCH EUROVISION] (https://panch.li/2018-2020eurovision/). 
 the estate contains interviews and broad documentation of LIVE ART WORKSHOPs and ACTS OF TRANSMISSION.
