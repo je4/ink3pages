@@ -9,7 +9,7 @@ Docs: 304
 
 ![GIf für Erinnerungsraum](Erinerrungsraum.gif)
 
-Erinnerungsraum heisst ein Modul des Studiengangs Innenarchitektur und Szenografie am ICDP der HGK Basel FHNW. Das Modul ist als kurzer Input für das jeweils erste Studienjahr gedacht. Es verbindet das räumlich-imaginäre Denken der Teilnehmenden mit einem Kennenlernen der Werkstatt und den ästhetischen Qualitäten verschiedener Materialien. Zudem wird die eigene Dokumentationskompetenz gestärkt. Das Modul endet mit einer Ausstellung der entstandenen Modelle und einer digitalen Publikation des Entstehungsprozesses.
+Die Sammlung beinhaltet studentische Arbeiten, die im Modul Erinnerungsraum des Studiengangs Innenarchitektur und Szenografie am ICDP der HGK Basel FHNW entstanden sind. Als kurzer Input für das jeweils erste Studienjahr, verbindet das Modul das räumlich-imaginäre Denken der Teilnehmenden mit einem Kennenlernen der Werkstatt und den ästhetischen Qualitäten verschiedener Materialien. Zudem wird die eigene Dokumentationskompetenz gestärkt. Das Modul endet mit einer Ausstellung der entstandenen Modelle und einer digitalen Publikation des Entstehungsprozesses.
 Der Workshop Raum beginnt mit dem Analysieren eines ganz persönlichen Raumes, dem Erinnerungsraum. Dieser wird in Kontext gebracht durch das Hinzufügen weiterer Räume (Raumsequenz) und das Betrachten ihrer Bezüge untereinander.
 [Link zur Website](https://erinnerungsraum.in3.campusderkuenste.ch/)
 
