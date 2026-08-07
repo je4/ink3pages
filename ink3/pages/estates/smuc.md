@@ -13,9 +13,13 @@ Docs: 14
 
 Scaling Material Urban Commons is a speculative city-making project investigating automated logistics for commoning material urban commons, such as rescued food. It postulates that some forms of material commons require different forms of beyond-hyperlocal scale commoning. The project critically investigates and prototypes technological and sociotechnical conditions for city-wide commoning of material urban commons, using a predictive-algorithm-based system emulator that orchestrates pickup and drop-off of rescued food in Basel and London. Introducing predictive technology shifts the site of commoning closer towards an algorithm-driven platform, which raises following key questions: What frictions emerge from changing scale in commoning? How to reconcile predictive technologies with local, idiosyncratic food cultures? How to engage in commoning with algorithmic agents in participatory settings? By addressing these questions, the project aims at creating imaginaries of commoning-based smart city alternatives.
 
+- [Viktor Bedö](https://criticalmedialab.ch/people/viktor-bedoe/)      
+- [Yann Martins](https://criticalmedialab.ch/people/yann-martins/)
+- [Ozan Güngör](https://criticalmedialab.ch/people/ozan-gungor/)
+
 ## SMUC.kitchen 
-[Project Website](https://smuc.kitchen/)
-[Instagram account](https://www.instagram.com/smuckitchen/)
+- [Project Website](https://smuc.kitchen/)
+- [Instagram account](https://www.instagram.com/smuckitchen/)
 
 ## [Curated research bookmarks](https://www.are.na/viktor-bedo/scaling-material-urban-commons)
 
