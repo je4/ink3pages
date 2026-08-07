@@ -7,7 +7,7 @@ Collectionfield: Performance Art; Open and Free Access
 Docs: 1839
 ---
 
-# Revolving Histories – translokale Performance Geschichte:n (2022)
+# Translokale Performance Geschichte:n (2022)
 
 REVOLVING* HISTORIES ist ein dreiteiliges Projekt zur Performance Kunst Schweiz: Recherche, Ausstellung, Publikation. Die Recherche ereignete sich mit kollektiven Mappings und Interviews an unterschiedlichen Orten in der Schweiz. Die Ausstellung BANG BANG – translokale Performance Geschichte:n fand im Sommer 2022 im Museum Tinguely Basel statt. Publikationen sollen den Prozess und die Ergebnisse längerfristig zugänglich machen.
 Die Geschichte der Performance Kunst ist nicht einheitlich. Sie setzt sich aus verschiedenen Geschichten zusammen, wird von pluralen Konzepten umfasst, durchquert verschiedene Sprachen, Orte und disziplinäre Rahmungen. Viele dieser Geschichten sind heute sichtbar und werden noch weiter erzählt. Diese Geschichten sind aber nicht einfach disparat, sondern haben Berührungspunkte, Vernetzungspunkte, Momente der Verbindung. Die Geschichte:n der Performance Kunst zu erzählen heißt, diese Momente nachzuzeichnen, diese translokalen Netzwerke und Konstellationen sichtbar zu machen.

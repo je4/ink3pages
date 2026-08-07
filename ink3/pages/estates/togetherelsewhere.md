@@ -8,9 +8,6 @@ Docs: 65
 ---
 
 
-
-
-
 Together Elsewhere is a monthly performance series organized by Pavana Reid (PAB - Performance Art Bergen) and Gisela Hochuli (PANCH - Performance Art Network Switzerland). It is streamed live online by the Mediathek of the HGK FHNW Basel and then archived. The project started in July 2021.
 2025 beginnt für *Together Elsewhere* eine neue Staffel: Neu erweitert sich der Rahmen der teilnehmenden Künstler:innen auf die ganze Performance-Welt: *Together Elsewhere. Vol. 2: Global*.
 

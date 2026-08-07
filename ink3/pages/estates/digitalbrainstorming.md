@@ -7,6 +7,10 @@ Collectionfield: Contemporary Discourses; Video Art and Culture; Open and Free A
 Docs: 496
 ---
 
+## Ein Projekt des Migros Cultural Project
+
+
+![Bild für Digital Brainstorming](digitalbrianstormin.gif)
 
 
 Dem digitalen Wandel auf der Spur. Das war das Thema einer Veranstaltungsreihe, die das Migros-Kulturprozent im Jahr 1998 bis 2019 betrieb. Im Zentrum standen zunächst Veranstaltungen in verschiedenen Formaten, namentlich Performances, Vorträge und Workshop. Das Projekt Digital Brainstorming entwickelte sich im Lauf der Zeit zu einer eigentlichen Plattform und integrierte namentlich auch multimediale Elemente. Zwischen 1998 und 2019 entstanden rund 220 Audiopodcasts und 80 Videobeiträge. Sie beschäftigen sich mehrheitlich mit kulturellen Fragen und Projekten, die vom Migros-Kulturprozent während dieser Periode gefördert wurden. Der Schwerpunkt liegt dabei auf Schweizer Persönlichkeiten aus dem Bereich Kultur und Gesellschaft, aber auch Politik und Wissenschaft. Der enge Begriff der Medienkunst wurde im Lauf der Zeit durch den weiteren Begriff der digitalen Kultur ersetzt. Die Verantwortung für das Projekt Digital Brainstorming oblag in dieser Zeit dem Medien- und Kulturwissenschaftler Dominik Landwehr (*1958). Der Journalist hat 1983 ein Lizenziat (heute Master) an der Universität Zürich erworben und 2007 an der Universität Basel mit einer Arbeit zur Chiffriermaschine Enigma promoviert.

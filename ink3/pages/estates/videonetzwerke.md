@@ -14,28 +14,28 @@ Auszüge des digitalisierten Bestandes wurden der Mediathek 2023 übergeben, um 
 
 Die Gliederung entspricht den ursprünglichen Benennungen. Unterhalb der verlinkten Einstiegspunkte zu einem Bereich finden sich jeweils weitere Werke des gleichen Bestandssegments:
 
-[*Auftrag*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.4CGHZTWT)
+- [*Auftrag*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.4CGHZTWT)
 Im Unterschied zu kommerziellen Auftragsfilmen haben diese Produktionen bspw. das ebenfalls selbstorganisierte Theater der Kaserne Basel aber auch Krankenhäuser als Auftragsgebende. Neben diesen dokumentarisch angelegten Arbeiten finden sich Videowerke, die in Installationen im Ausstellungszusammenhang präsentiert wurden.
 
-[*Dokumentarfilm*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.ZT4JIDPN)
+- [*Dokumentarfilm*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.ZT4JIDPN)
 Im Bereich Dokumentarfilm finden sich Videoproduktionen mit einer deutlich künstlerischen Intention, soziale und kulturelle Themen der damaligen Gegenwart aufzugreifen.
 
-[*Fiktion*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.UXR5AUHD)
+- [*Fiktion*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.UXR5AUHD)
 Auch die Sektion Fiktion enthält Kunstfilme, die im Unterschied zum Dokumentarischen fiktionale Inhalte haben, die ebenfalls dem Zeitgeist entsprechend formuliert sind.
 
-[*Gesellschaftspolitik*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.CPGWVH33)
+- [*Gesellschaftspolitik*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.CPGWVH33)
 In diesem Sammlungssegment finden sich Arbeiten, die frei gewählt sind und als politisches Statement und/oder Idee verstanden werden können. Sie haben einen explorierenden Ansatz, parodieren mitunter die Berichterstattung des öffentlich-rechtlichen Fernsehens und machen die Autonomie des Genossenschaftlichen erfahrbar.
 
-[*Kunstvideo/Experimentalfilm*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.9HJHTGEC)
+- [*Kunstvideo/Experimentalfilm*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.9HJHTGEC)
 Es ist bezeichnend für das Profil der Videogenossenschaft, das der Bereich Kunstvideo/Experimentalfilm das grösste Sammlungssegment darstellt.
 
-[*Musik*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.AH4BI259)
+- [*Musik*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.AH4BI259)
 Das Segment dokumentiert die musikalische Produktion und Kooperationen mit Musiker*innen.
 
-[*ohne Auftrag*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.HETZ3ADZ)
+- [*ohne Auftrag*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.HETZ3ADZ)
 Dieses Segment enthält ebenfalls häufig gesellschaftspolitische Themen, die ohne explizite Auftragsvergabe von den Kunstschaffenden gewählt und umgesetzt wurden.
 
-[*Theater*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.Z95KCTDR)
+- [*Theater*](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-4820753.Z95KCTDR)
 Dieser Bereich dokumentiert Produktionen des Theaters Kaserne.
 
 

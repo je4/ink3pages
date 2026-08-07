@@ -7,6 +7,8 @@ Collectionfield: Education; Collaborative Practices
 Docs: 304
 ---
 
+## Workshop Raum 
+
 ![GIf für Erinnerungsraum](Erinerrungsraum.gif)
 
 Die Sammlung beinhaltet studentische Arbeiten, die im Modul Erinnerungsraum des Studiengangs Innenarchitektur und Szenografie am ICDP der HGK Basel FHNW entstanden sind. Als kurzer Input für das jeweils erste Studienjahr, verbindet das Modul das räumlich-imaginäre Denken der Teilnehmenden mit einem Kennenlernen der Werkstatt und den ästhetischen Qualitäten verschiedener Materialien. Zudem wird die eigene Dokumentationskompetenz gestärkt. Das Modul endet mit einer Ausstellung der entstandenen Modelle und einer digitalen Publikation des Entstehungsprozesses.

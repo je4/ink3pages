@@ -8,6 +8,8 @@ Collectionfield: Education; Graduation
 Redirect:
 ---
 
+## Die Jahresaustellung der HGK Basel FHNW
+
 ![animated GIf für NextGen](NextGen.gif)
 
 Next Generation ist der Titel der jährlich stattfindenden Diplom- bzw. Abschlussausstellung der HGK.

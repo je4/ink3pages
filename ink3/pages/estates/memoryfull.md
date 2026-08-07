@@ -8,7 +8,6 @@ Docs: 62
 ---
 
 
-
 ## Digital Legacy 2021 DHS Annual Conference
 
 ![Bild für Memory Full](MemoryFull.png)
