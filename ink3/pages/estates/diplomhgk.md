@@ -8,6 +8,9 @@ Collectionfield: Education; Graduation
 Redirect:
 ---
 
+## Die Jahresaustellung der HGK Basel FHNW
+
+![animated GIf für NextGen](NextGen.gif)
 
 Next Generation ist der Titel der jährlich stattfindenden Diplom- bzw. Abschlussausstellung der HGK.
 Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen zu ihren Arbeiten. Sie zeigt die Vielfalt der künstlerischen und gestalterischen Praktiken und dokumentiert damit Wandel durch die Zeit. Enthalten sind Einträge der Diplome, BA, MA und MDS Arbeiten seit 2017.

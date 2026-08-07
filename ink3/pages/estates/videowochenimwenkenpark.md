@@ -8,7 +8,9 @@ Docs: 41
 ---
 
 
-# Videowochen im Wenkenpark (1984 / 1986 / 1988)
+## 1984 / 1986 / 1988
+
+![Gif zur Videowoche im Wenkenpark](Wenkenpark.gif)
 
 
 Die Videowochen im Wenkenpark bildeten in den achtziger Jahren ein internationales Forum für die Videokunst. Mit den Schwerpunkten Produktion, Ausbildung, Vermittlung und Präsentation von Videoarbeiten, Installationen sowie Performances entsprach es den damaligen Bedürfnissen. Die Veranstaltungen setzten massgebliche Impulse und trugen zur Etablierung des Mediums im Kunstkontext bei. Die Videowochen im Wenkenpark fanden 1984, 1986 und 1988 statt. Die eingeladenen Künstlerinnen und Künstlern realisierten in unterschiedlichen Workshops vielfältige Videoproduktionen und -ereignisse, von denen Dokumentationen zu Workshop-Prozessen und Video-Live-Auftritten sowie fünf ausführliche Interviews mit Gastkünstlerinnen und -künstlern überliefert sind. Der historische Bandbestand umfasst 79 Originalbänder mit 42 Werken. Die Anzahl variiert, da auch die Originalbänder von Mehrkanal-Installationen und Performanceauftritten enthalten sind, die nun als Werk zusammengeführt und dokumentiert wurden. Sofern dies die Rechtesituation zulässt, sind die Quellen frei hier im Internet verfügbar. Gesperrte Quellen können in der Mediathek nach Absprache konsultiert werden. Das Projekt wurde von Memoriav gefördert.
@@ -18,62 +20,62 @@ The Video Weeks at Wenkenpark took place in 1984, 1986 and 1988. Invited artists
 
 The project was funded by [Memoriav](https://memoriav.ch/de/start): [Memobase Description](https://memoriav.ch/de/projekt/videowochen-im-wenkenpark), [Memobase Entries](https://memobase.ch/de/search). 
 
-[Mediatheks-Entries:](https://mediathek.hgk.fhnw.ch/ink/search??q=ec48b80f76f836bd0c36b9e7fa770116&page=0&pagesize=25)
+## [Mediatheks-Entries:](https://mediathek.hgk.fhnw.ch/ink/search??q=ec48b80f76f836bd0c36b9e7fa770116&page=0&pagesize=25)
 
-**1984**
+### 1984
 
-Belz, Gerd
-Bielz, Gudrun
-Bonk, Ecke
-Clerc, Charles
-Die Tödliche Doris
-Gysin, Hansruedi
-Hoffmann, Peter Gerwin
-Hoover, Nan
-Kriesche, Richard
-Kruse, Käthe
-Müller, Wolfgang
-Odenbach, Marcel
-Scheffknecht, Romana
-[Seibt, Torsten](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Seibt%2C+Torsten%22)
-[Silber, Alex](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Silber%2C+Alex%22)
-Utermöhlen, Nikolaus
-Vogel, Hannes
-Wentscher, Herbert
+- Belz, Gerd
+- Bielz, Gudrun
+- Bonk, Ecke
+- Clerc, Charles
+- Die Tödliche Doris
+- Gysin, Hansruedi
+- Hoffmann, Peter Gerwin
+- Hoover, Nan
+- Kriesche, Richard
+- Kruse, Käthe
+- Müller, Wolfgang
+- Odenbach, Marcel
+- Scheffknecht, Romana
+- [Seibt, Torsten](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Seibt%2C+Torsten%22)
+- [Silber, Alex](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Silber%2C+Alex%22)
+- Utermöhlen, Nikolaus
+- Vogel, Hannes
+- Wentscher, Herbert
 
-**1986**
+### 1986
 
-Ammann, Hanspeter
-Birnbaum, Dara
-Dercon, Chris
-Fox, Terry
-[Gfeller, Johannes](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Gfeller%2C+Johannes%22)
-Graham, Dan
-Lamunière, Simone
-Lanz, Eric
-[Manz, Reinhard](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Manz%2C+Reinhard%22)
-Mark, Helmut
-Nauman, Bruce
-Smith, Michael
-Theuws, Roos
-[Winteler, Anna](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Winteler%2C+Anna%22)
+- Ammann, Hanspeter
+- Birnbaum, Dara
+- Dercon, Chris
+- Fox, Terry
+- [Gfeller, Johannes](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Gfeller%2C+Johannes%22)
+- Graham, Dan
+- Lamunière, Simone
+- Lanz, Eric
+- [Manz, Reinhard](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Manz%2C+Reinhard%22)
+- Mark, Helmut
+- Nauman, Bruce
+- Smith, Michael
+- Theuws, Roos
+- [Winteler, Anna](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Winteler%2C+Anna%22)
 
-**1988**
+### 1988
 
-Bauermeister, René
-[Beuys, Joseph](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Beuys%2C+Joseph%22)
-Bruszewski, Wojciech
-Christiansen, Henning
-[Froese, Dieter](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Froese%2C+Dieter%22)
-[Graf, Franz](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Graf%2C+Franz%22)
-[Hahn, Alexander](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Hahn%2C+Alexander%22)
-Hill, Gary
-Kasic, Kaspar
-[Manz, Reinhard](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Manz%2C+Reinhard%22)
-[Pulfer, René](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Pulfer%2C+Ren%C3%A9%22)
-Spirk, Arthur
-Wegman, William
-[Zaugg, Rémy](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Zaugg%2C+R%C3%A9my%22)
+- Bauermeister, René
+- [Beuys, Joseph](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Beuys%2C+Joseph%22)
+- Bruszewski, Wojciech
+- Christiansen, Henning
+- [Froese, Dieter](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Froese%2C+Dieter%22)
+- [Graf, Franz](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Graf%2C+Franz%22)
+- [Hahn, Alexander](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Hahn%2C+Alexander%22)
+- Hill, Gary
+- Kasic, Kaspar
+- [Manz, Reinhard](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Manz%2C+Reinhard%22)
+- [Pulfer, René](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Pulfer%2C+Ren%C3%A9%22)
+- Spirk, Arthur
+- Wegman, William
+- [Zaugg, Rémy](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=author%3A%22Zaugg%2C+R%C3%A9my%22)
 
 
 ## Recherche

@@ -7,7 +7,6 @@ Collectionfield: Performance Art
 Docs: 49
 ---
 
-# Albena Mihaylova (Bendji)
 
 Albena Mihaylova (geboren 1959 in Bulgarien) ist als Videokünstlerin, Filmemacherin, Performerin und Kunstvermittlerin tätig. Sie besuchte von 1974 bis 1978 das College of Fine Arts in Cazanluk und absolvierte 1984 ihren Master in Art an der Hochschule der Bildenden Künste in Sofia. Ihr Interesse an bewegten Bildern führte sie 1995 nach Basel, wo sie an der HGK (SfG) bis 1998 die Videoklasse besuchte.
 
