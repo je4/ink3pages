@@ -11,13 +11,12 @@ Docs: 44
 ## Cultural Spaces and Design - Prospects of Design Education
 ![Bild für Cultural Spaces and Design](CulturalSpaces.jpg)
 
-
 In den Diskussionen zum Thema Globalisierung und Design fehlen bisher Überlegungen zu notwendigen Veränderungen in der Designausbildung, die gestalterisches Handeln in den Kontext globaler Entwicklungen und Problemlagen stellt.
-Das von der Gebert Rüf Stiftung in Basel geförderte Forschungsprojekt Cultural Spaces and Design. Prospects of Design Education ist im Feld der angewandten interkulturellen Designforschung angesiedelt. Das Projektteam – Regine Halter, Catherine Walthard, Anka Falk – konzentrierte sich auf die Auswirkungen von Globalisierungsprozessen auf das Design und befasste sich mit den daraus folgenden Konsequenzen für die Designausbildung.
+Das von der Gebert Rüf Stiftung in Basel geförderte Forschungsprojekt Cultural Spaces and Design - Prospects of Design Education ist im Feld der angewandten interkulturellen Designforschung angesiedelt. Das Projektteam – Regine Halter, Catherine Walthard, Anka Falk – konzentrierte sich auf die Auswirkungen von Globalisierungsprozessen auf das Design und befasste sich mit den daraus folgenden Konsequenzen für die Designausbil-dung.
 
-Dem Forschungskonzept liegt ein Verständnis von Design als kultureller Praxis, als Bündelung expliziter Traditionen, kultureller Bindungen und latent wirksamer Formen des tacit knowledge zugrunde. Dabei wird die lokale Ebene – der jeweilige cultural space – als der tatsächliche hot spot der Globalisierung verstanden.
+Dem Forschungskonzept liegt ein Verständnis von Design als kultureller Praxis, als Bündelung expliziter Traditionen, kultureller Bindungen und latent wirksamer Formen des tacit knowledge zugrunde. Dabei wird die lokale Ebene – der jeweilige cultural space – als der tatsächliche hot spot der Glo-balisierung verstanden.
 
-In der internationalen Zusammenarbeit mit Dozierenden und Studierenden anderer Hochschulen in Australien, New Zealand, Botswana, Indien, Kanada und den USA sowie mit Designpraktiker*innen wurden im Rahmen des Forschungsprojekts beispielhaft Ausbildungsinhalte und -formate entwickelt, erprobt und evaluiert. Dabei sind Werkzeuge und Methoden für die Auseinandersetzung mit verschiedenen Designkulturen entstanden, zur Diskussion gestellt und in Ausbildungsmodule übersetzt worden.
+In der internationalen Zusammenarbeit mit Dozierenden und Studierenden anderer Hochschulen in Australien, Neuseeland, Botswana, Indien, Kana-da und den USA sowie mit Designpraktiker*innen wurden im Rahmen des Forschungsprojekts beispielhaft Ausbildungsinhalte und -formate entwi-ckelt, erprobt und evaluiert. Dabei sind Werkzeuge und Methoden für die Auseinandersetzung mit verschiedenen Designkulturen entstanden, zur Diskussion gestellt und in Ausbildungsmodule übersetzt worden.
 
 Eine gleichnamige Publikation ist Im Herbst 2019 in englischer Sprache erschienen.
 
