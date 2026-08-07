@@ -7,6 +7,9 @@ Collectionfield: Video Art and Culture; Open and Free Access; Practice Based Res
 Docs: 95
 ---
 
+## Ein Forschungsprojekt zur Erforschung der frühen Videokulturen in und um Basel
+
+![Bild für Video Netzwerke](Videonetzwerke.jpg)
 
 Die Videogenossenschaft Basel (VGB, heute point de vue) war in ihrer 40-jährigen Geschichte wiederholt ein Kristallisationspunkt für übergreifende Verschiebungen in der Geschichte von Video. Die Akteur:innen der VGB und ihre Mitglieder haben mit dem Medium Video eigene Ästhetiken geschaffen, die im Kontext der gesellschaftspolitischen Auseinandersetzung, Vermittlungsarbeit und visuellen Kultur einen wichtigen Beitrag leisteten. Dabei wird noch heute Video als engagiertes Medium (Journalismus und Aktivismus, Jugendbewegung der 1980er Jahre), als dokumentierendes Medium (Gebrauchsfilm, aber auch videografische Umsetzungen von Neuer Musik und Werken der szenischen Künste etwa im Kontext der Kaserne Basel) und als generative Medium (Videokunst, Videowochen im Wenkenpark in den 1980er Jahren, künstlerische Experimente im Rahmen von Workshops und Videofachklassen) begreifbar.
 
@@ -41,7 +44,7 @@ Dieser Bereich dokumentiert Produktionen des Theaters Kaserne.
 
 ## Interviews 
 
-2021/22 führten Stefanie Bräuer (Interviewerin) und Piet Esch (Interviewer/Kamera) kontextualisierende Videointerviews mit Akteur:innen der lokalen Videoszene durch. Diese Gespräche gehen über die Videogenossenschaft Basel hinaus und thematisieren auch benachbarte Initiativen, wie die VIA, die 1988 von Absolvent:innen der zweiten Basler Videofachklasse gegründet wurde und sich als wichtiger Katalysator für das künstlerische Videoschaffen in der Region erwies. Auch lokale Förderstrukturen, Unterrichtskontexte wie an der Schule für Gestaltung Basel und andernorts sowie Video-Festivals wie die Videowochen im Wenkenpark oder die Basler Film- und Videotage wurden thematisiert.
+2021/22 führten Stefanie Bräuer (Interviewerin) und Piet Esch (Interviewer/Kamera) kontextualisierende Videointerviews mit Akteur:innen der lokalen Videoszene durch. Diese Gespräche gehen über die Videogenossenschaft Basel hinaus und thematisieren auch benachbarte Initiativen, wie die VIA, die 1988 von Absolvent:innen der zweiten Basler Videofachklasse gegründet wurde und sich als wichtiger Kataly-sator für das künstlerische Videoschaffen in der Region erwies. Auch lokale Förderstrukturen, Unterrichtskontexte wie an der Schule für Gestaltung Basel und andernorts sowie Video-Festivals wie die Videowochen im Wenkenpark oder die Basler Film- und Videotage wur-den thematisiert.
 
 Die Interviewpartner:innen waren:
 
