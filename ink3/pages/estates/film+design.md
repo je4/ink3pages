@@ -7,14 +7,15 @@ Collectionfield: Video Art and Culture; Open and Free Access; Education
 Docs: 341
 ---
 
+## Struktureller Film im gestalterischen Unterricht an der Schule für Gestaltung Basel (1968-1997).
 
+![Bild für Film + Design](film-design_sammlungsbild_1920.gif)
 
-Struktureller Film im gestalterischen Unterricht an der Schule für Gestaltung Basel (1968-1997)
-1968 begann der Grafiker und Filmschaffende Peter von Arx an der Schule für Gestaltung in Basel mit einem Filmkurs für angehende Grafikerinnen und Grafiker. Der Unterricht ging von den strukturellen Eigenschaften des Films aus: Dem Einzelbild, der Bildvermischung, der Dimension Zeit und der Geschwindigkeit als gestaltbare Elemente. Es wurden keine Geschichten erzählt, sondern vielmehr wurde durch präzis geplante Partituren, mit denen der Einsatz der filmischen Mittel festgelegt wurde, ein gestalterischer Variationsreichtum erreicht, der neue optische Phänomene erlebbar machte. Der Filmunterricht, mit seinem planerischen Entwurfsansatz, bildete im damaligen Ausbildungskonzept einen Gegenpol zum intuitiven Entwurfsprozess, wie er zum Beispiel im zeichnerischen Unterricht vermittelt wurde. Die systematische Beschreibung der Herstellung der filmischen Bildsequenzen durch die Partitur lässt sich mit der Programmierung im digitalen Kontext vergleichen. In beiden Verfahren wird ein technischer Vorgang beschrieben, der ein visuell wahrnehmbares Phänomen erzeugt, das nach der Evaluation durch die Anpassung der Partitur oder Programmierung zu einem verbesserten, oft überraschenden Resultat führt. Bei der analogen Technik mit 16 mm Film bedeutete jede neue Aufnahme eine oft tagelange, konzentrierte Arbeit an der Bolex-Kamera, oder am Crass-Tricktisch mit Rückprojektionseinrichtung.
+1968 begann der Grafiker und Filmschaffende Peter von Arx an der Schule für Gestaltung in Basel mit einem Filmkurs für angehende Grafikerinnen und Grafiker. Der Unterricht ging von den strukturellen Eigenschaften des Films aus: Dem Ein-zelbild, der Bildvermischung, der Dimension Zeit und der Geschwindigkeit als gestaltbare Elemente. Es wurden keine Ge-schichten erzählt, sondern vielmehr wurde durch präzis geplante Partituren, mit denen der Einsatz der filmischen Mittel festgelegt wurde, ein gestalterischer Variationsreichtum erreicht, der neue optische Phänomene erlebbar machte. Der Filmunterricht, mit seinem planerischen Entwurfsansatz, bildete im damaligen Ausbildungskonzept einen Gegenpol zum in-tuitiven Entwurfsprozess, wie er zum Beispiel im zeichnerischen Unterricht vermittelt wurde. Die systematische Be-schreibung der Herstellung der filmischen Bildsequenzen durch die Partitur lässt sich mit der Programmierung im digita-len Kontext vergleichen. In beiden Verfahren wird ein technischer Vorgang beschrieben, der ein visuell wahrnehmbares Phänomen erzeugt, das nach der Evaluation durch die Anpassung der Partitur oder Programmierung zu einem verbesserten, oft überraschenden Resultat führt. Bei der analogen Technik mit 16 mm Film bedeutete jede neue Aufnahme eine oft tage-lange, konzentrierte Arbeit an der Bolex-Kamera, oder am Crass-Tricktisch mit Rückprojektionseinrichtung.
 
-Dieser Filmunterricht wurde vom damaligen Direktor Emil Ruder und dem Fachklassenleiter Armin Hoffmann angeregt. Erstmals in der Schweiz wurde so das Fach Film fester Bestandteil einer gestalterischen Ausbildung. Über dreissig Jahre lang lehrte Peter von Arx, unterstützt durch Peter Olpe, Gregory Vines, Reinhard Manz und Fabian Kempter an der Schule für Gestaltung Basel.
+Dieser Filmunterricht wurde vom damaligen Direktor Emil Ruder und dem Fachklassenleiter Armin Hoffmann angeregt. Erst-mals in der Schweiz wurde so das Fach Film fester Bestandteil einer gestalterischen Ausbildung. Über dreissig Jahre lang lehrte Peter von Arx, unterstützt durch Peter Olpe, Gregory Vines, Reinhard Manz und Fabian Kempter an der Schule für Gestaltung Basel.
 
-Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen mit einer Gesamtlaufzeit von 14 Stunden zusammengestellt und konnte dank diesem Restaurierungsprojekt der Hochschule für Gestaltung und Kunst FHNW in Basel, das von Memoriav unterstützt wurde, digitalisiert werden. 330 Filmclips bilden nun die Sammlung *Film und Design* und sind in der Mediathek der HGK FHNW öffentlich online zugänglich. Um die Arbeitsmethoden des Filmunterrichts besser verständlich zu machen, haben wir hier zusätzlich
+Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen mit einer Gesamtlaufzeit von 14 Stunden zusammengestellt und konnte dank diesem Restaurierungsprojekt der Hochschule für Gestaltung und Kunst FHNW in Basel, das von Memoriav unterstützt wurde, digitalisiert werden. 330 Filmclips bilden nun die Sammlung *Film und Design* und sind in der Mediathek der HGK FHNW öffentlich online zugänglich. Um die Arbeitsmethoden des Filmunterrichts besser ver-ständlich zu machen, haben wir hier zusätzlich
 
 **12 Filmsequenzen thematisch zusammengestellt:**
 
@@ -30,7 +31,6 @@ Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen 
 - Klassen- und Selbstportraits 
 - Partituren 
 - Steigerungen, Themen, Ausnahme 
-
 
 ## Recherche
 [Bestand ansehen](../../grid/de?searchtype=estate&search=Film%20+%20Design)
