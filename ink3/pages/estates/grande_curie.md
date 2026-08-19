@@ -95,11 +95,15 @@ Institut de recherche sur le patrimoine musical de France, Paris
   D-80538 München
 
 ## Texte 
-- [Die «Écuries» von Versailles]()(T. Hirsch)
-- [Un essai de reconstruction des Cromornes de la Grande Écurie à la cour de Louis XIV]()(V. Robin)
-- [Schalmey, Bombardino, Piffaro - Die hohen Doppelrohrblattinstrumente des ausgehenden 17. und beginnenden 18. Jhs. im deutschsprachigen Raum]()(K. Andres)
-- 
-- 
+- [Die «Écuries» von Versailles](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/hirsch-ecuries-versailles.html)(T. Hirsch)
+- [Un essai de reconstruction des Cromornes de la Grande Écurie à la cour de Louis XIV](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/robin-cromornes.html)(V. Robin)
+- [Schalmey, Bombardino, Piffaro - Die hohen Doppelrohrblattinstrumente des ausgehenden 17. und beginnenden 18. Jhs. im deutschsprachigen Raum](https://www.forschung.schola-cantorum-basiliensis.ch/dam/jcr:33cd9148-49a4-40d0-b135-cfa7039865d0/Andres_SchalmeyBombardinoPiffaro_2010.pdf)(K. Andres)
+- [Wiederentdeckung einer Trompette marine von F. Saraillac nach Plänen J.-B. Prins](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/hirsch-trompette-marine.html)(T. Hirsch)
+- [Jean-Baptiste Prin, Traité sur la trompette marine, 1742. Transkription und deutsche Übersetzung von Thilo Hirsch](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/prin-trompette-marine-1742.html)
+- [Reconstructing the "fifres" of the Grande Écurie](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/berney-fifres.html)(B. Berney)
+- [Les fifres dans les compagnies entre 1660 et 1761](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/van-cornewal-fifres-et-compagnies.html)(S. van Cornewal)
+- [Die "Tambours" am Hof Ludwigs XIV. und XV.](https://www.forschung.schola-cantorum-basiliensis.ch/de/forschung/grande-ecurie/hirsch-tambours.html)(T. Hirsch)
+
 
 
 ## Bibliographie & weitere Materialien 
