@@ -1,5 +1,5 @@
 ﻿---
-Title: Grande Ã‰curie
+Title: Grande Ecurie
 Type: estate
 CollectionTitle: GrandeEcurie
 Docs: 1285
