@@ -1,7 +1,7 @@
 ﻿---
 Title: Grande Ã‰curie
 Type: estate
-CollectionTitle:Grande Écurie
+CollectionTitle:Grande Ã‰curie
 ---
 
 
