@@ -1,7 +1,7 @@
 ﻿---
 Title: Grande Ã‰curie
 Type: estate
-CollectionTitle:GrandeEcurie
+CollectionTitle: GrandeEcurie
 Docs: 1285
 Sourcetype: Educational Resources
 Collectionfield: Education; Graduation
