@@ -11,9 +11,6 @@ Redirect:
 
 ## Projekt zur Erforschung und Rekonstruktion der Instrumente und ihres Repertoires am Hof Ludwigs XIV. und XV.
 
-![Bild zu Grand Ecurie]()
-
-
 01.05.2007 – 30.04.2009
 
 Die "Grande Écurie" war zu Lebzeiten der französischen Könige Ludwig XIV. und Ludwig XV. im 17. und 18. Jahrhundert eine der wichtigsten Abteilungen des königlichen Hofs. Es gab innerhalb der Écurie fünf musikalische Gruppierungen, die nach den benutzten Instrumenten eingeteilt waren: "Trompettes", "Violons, hautbois, saqueboutes et cornets", "Hautbois et musettes du Poitou", "Fifres et tambours", "Cromornes et Trompettes marines".
