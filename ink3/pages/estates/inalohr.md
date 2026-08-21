@@ -1,7 +1,7 @@
 ﻿---
 Title: Ina_Lohr
 Type: estate
-CollectionTitle: Ina_Lohr
+CollectionTitle: Ina Lohr
 Docs: 8
 ---
 

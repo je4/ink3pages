@@ -1,7 +1,7 @@
 ﻿---
 Title: FrÃ¼he Streichinstrumente um 1500
 Type: estate
-CollectionTitle: FrÃ¼he Streichinstrumente um 1500
+CollectionTitle: Frühe Streichinstrumente um 1500
 ---
 
 ## Die Entwicklung der Streichinstrumente im Übergang vom Spätmittelalter zur frühen Neuzeit am Beispiel der frühen italienischen Viola da gamba
