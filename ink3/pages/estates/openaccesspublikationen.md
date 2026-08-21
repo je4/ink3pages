@@ -4,3 +4,241 @@ Type: estate
 CollectionTitle: Open Access Publikationen
 Docs: 75
 ---
+
+
+Hier finden Sie Open Access-Publikationen – Texte, Audio- oder Videodateien –, die aus den Forschungsprojekten der Schola Cantorum Basiliensis hervorgegangen sind. Auch bietet das Forschungsportal Zugang zu ausgewählten Texten aus dem breiten Kontext unserer Forschungsaktivitäten: Freie Beiträge, Master-Arbeiten, Materialien und Dokumentationen aus Veranstaltungen etc.
+
+Alle Textbeiträge sind zudem als PDF-Download verfügbar.
+
+## Publikationen
+
+- [Learning an Indian raga in Dorian mode. Video recording of a lesson](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=a07b609f-a038-4cfc-8df4-ad0fa1b61471&type=ao-publications&title=Learning+an+Indian+raga+in+Dorian+mode.+Video+recording+of+a+lesson)
+    - Autor/in: Ken Zuckerman
+    - Jahr: 2026
+    - Typ: Video
+- [Nicola Vicentino vs. Ghiselin Danckerts](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=e51ecccf-accc-452f-b9dc-6f054c4c93fb&type=ao-publications&title=Nicola+Vicentino+vs.+Ghiselin+Danckerts) Or: The Heresy of the Ascending Major Semitone
+    - Autor/in: Anne Smith
+    - Jahr: 2026
+    - Typ: Artikel
+- [Raga Bhimpalashree – Alap, Jor & Jhalla. Ken Zuckerman (Sarod)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=07fac7c2-1eca-4acf-afbb-b11184f0dd9e&type=ao-publications&title=Raga+Bhimpalashree+%E2%80%93+Alap%2C+Jor+%26+Jhalla.+Ken+Zuckerman+%28Sarod%29)
+    - Video recording of a performance
+    - Jahr: 2026
+    - Typ: Video
+- [Die MBB an der Abschlussausstellung des Incubator for Design Cultures](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=fbab0ae9-5756-4653-aae8-bc67a6a83630&type=ao-publications&title=+Die+MBB+an+der+Abschlussausstellung+des+Incubator+for+Design+Cultures) - Basel, Hochschule für Gestaltung und Kunst, 9.-22. Mai 2025
+    - Autor/in: Martina Papiro
+    - Jahr: 2025
+    - Typ: Artikel
+- [Die Tonträgeraufnahmen der Schola Cantorum Basiliensis 1980–2025](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=9cae54c8-dc5e-4725-bb1d-3e936481ccfe&type=ao-publications&title=Die+Tontr%C3%A4geraufnahmen+der+Schola+Cantorum+Basiliensis+1980%E2%80%932025)
+    - Autor/in: Thomas Drescher
+    - Jahr: 2025
+    - Typ: Artikel
+- [Direktions- und Generalbasspraxis in Händels Oratorien](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=f3a0b8ee-bed8-41b7-8d84-fab71cfcf8e4&type=ao-publications&title=Direktions-+und+Generalbasspraxis+in+H%C3%A4ndels+Oratorien) - Die Orgelstimmen zum «Alexanderfest»
+    - Autor/in: Thomas Leininger
+    - Jahr: 2025
+    - Typ: Artikel
+- [Projekt «Mobile Barock-Bühne», 21.08.2023 – 30.06.2025](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=02f5a5dc-d196-4aad-b0a4-7f40a87fecc6&type=ao-publications&title=Projekt+%C2%ABMobile+Barock-B%C3%BChne%C2%BB%2C+21.08.2023+%E2%80%93+30.06.2025) - Dokumentation und Anleitungen
+    - Autor/in: Tanja Chumira Lüscher, Samia Graf & Fabienne Orsinger
+    - Jahr: 2025
+    - Typ: Artikel
+- [A sequence of passionate attitudes after Jelgerhuis](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=818520b9-cebb-4bdb-809d-9ca3f45bbee5&type=ao-publications&title=A+sequence+of+passionate+attitudes+after+Jelgerhuis)
+    - Autor/in: Laila Cathleen Neuman
+    - Jahr: 2023
+    - Typ: Video
+- [Collection and Comparisons of Measurement Data of Historical Small-Sized Bassoons](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=821b8e00-dcea-4046-9c1c-fbd2f91f6c7a&type=ao-publications&title=Collection+and+Comparisons+of+Measurement+Data+of+Historical+Small-Sized+Bassoons)
+    - Autor/in: Donna Agrell, Áurea Domínguez, Giovanni Battista Graziadio
+    - Jahr: 2023
+    - Typ: Artikel
+- [Entrée grave from Lully’s “Persée”](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=46b1c23c-c381-4cdd-9ee3-0b66a7969740&type=ao-publications&title=Entr%C3%A9e+grave+from+Lully%E2%80%99s+%E2%80%9CPers%C3%A9e%E2%80%9D) - Video recording of the dance
+    - Autor/in: Mojca Gal
+    - Jahr: 2023
+    - Typ: Video
+- [Holy Week traditional chant from Dalmatia](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=c976c385-f7fd-4374-af3d-a67dca667e75&type=ao-publications&title=Holy+Week+traditional+chant+from+Dalmatia) - Zagreb, 2009 & 2014
+    - Jahr: 2023
+    - Typ: Video
+- [I poyde Barlaam na urata od Palaca](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=eb821eda-a2fe-4896-975e-b7482b78f214&type=ao-publications&title=I+poyde+Barlaam+na+urata+od+Palaca) - Excerpt from “Barlaam and Josaphat”
+    - Autor/in: performed by Ensemble Dialogos
+    - Jahr: 2023
+    - Typ: Video
+- [Petrus dictus Palma ociosa: Compendium de discantu mensurabili (Amiens, 1336)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=b1549ce1-4124-40b6-9862-fc1a995f89c8&type=ao-publications&title=Petrus+dictus+Palma+ociosa%3A+Compendium+de+discantu+mensurabili+%28Amiens%2C+1336%29) - Übertragung des lateinischen Originaltexts, mit deutscher und englischer Übersetzung und Übertragung der Notenbeispiele
+    - Autor/in: Petrus dictus Palma ociosa; Markus Schwenkreis (ed.); Rob C. Wegman; Karin Paulsmeier
+    - Jahr: 2023
+    - Typ: Buch
+- [Semi-improvised trumpet sonata played by a natural trumpet ensemble](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=814ef32a-8583-493e-bac0-8bd327a94503&type=ao-publications&title=Semi-improvised+trumpet+sonata+played+by+a+natural+trumpet+ensemble) - after Cesare Bendinelli’s “Volume di Tutta l’arte della trombetta” (1614)
+    - Jahr: 2023
+    - Typ: Video
+- [The secret behind Cesare Bendinelli’s (1542–1617) “Volume di Tutta l’arte della trombetta” (1614)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=98bd874d-4cfb-41ee-835b-4d4ec795a0c2&type=ao-publications&title=The+secret+behind+Cesare+Bendinelli%E2%80%99s+%281542%E2%80%931617%29+%E2%80%9CVolume+di+Tutta+l%E2%80%99arte+della+trombetta%E2%80%9D+%281614%29)
+    - Autor/in: Jean-François Madeuf, Igino Conforzi, Julian Zimmermann and Philipp Tarr
+    - Jahr: 2023
+    - Typ: Video
+- [“Aimable vainqueur” – version 1 with “musica antigua”](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=cea08b33-17a2-4d56-a304-6e31ab45d99e&type=ao-publications&title=%E2%80%9CAimable+vainqueur%E2%80%9D+%E2%80%93+version+1+with+%E2%80%9Cmusica+antigua%E2%80%9D) - Recording of the music
+    - Autor/in: Mojca Gal (violin); Thys Grobelnik (harpsichord)
+    - Jahr: 2023
+    - Typ: Video
+- [“Aimable vainqueur” – version 2 with “musica moderna”](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=636c8ca9-e84e-460d-806e-080cace9fb5e&type=ao-publications&title=%E2%80%9CAimable+vainqueur%E2%80%9D+%E2%80%93+version+2+with+%E2%80%9Cmusica+moderna%E2%80%9D) - Video recording of the ballroom dance
+    - Autor/in: Mojca Gal (violin, dance); Thys Grobelnik (harpsichord)
+    - Jahr: 2023
+    - Typ: Video
+- [Die Basso continuo-Orgel im Kleinen Saal der Musik-Akademie Basel / Hochschule für Musik FHNW (2020)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=d5d31678-1cc4-46e8-87d5-bd41abdb3bf5&type=ao-publications&title=Die+Basso+continuo-Orgel+im+Kleinen+Saal+der+Musik-Akademie+Basel+%2F+Hochschule+f%C3%BCr+Musik+FHNW+%282020%29) 
+    - Autor/in: Thomas Drescher
+    - Jahr: 2022
+    - Typ: Artikel
+- [Keyboard Accompaniment in Italy around 1600](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=53663363-5472-4d5c-8d02-6e3600b9ed7a&type=ao-publications&title=Keyboard+Accompaniment+in+Italy+around+1600) - Intabulations, Scores and Basso Continuo
+    - Autor/in: Augusta Campagne and Elam Rotem
+    - Jahr: 2022
+    - Typ: Buch
+- [Aspects of English Song](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=0366aff2-9e7c-415a-a1b0-1075689fed01&type=ao-publications&title=Aspects+of+English+Song) - Essays by Anthony Rooley
+    - Autor/in: Antony Rooley; edited by Giovanna Baviera & Martin Kirnbauer; introduction by Tess Knighton
+    - Jahr: 2021
+    - Typ: Buch
+- [Basso Continuo on the Harp for “Alma che ti sollievi” (Orazio Michi)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=4aa1c256-b1fc-42a2-8c7d-80165a5e55fa&type=ao-publications&title=Basso+Continuo+on+the+Harp+for+%E2%80%9CAlma+che+ti+sollievi%E2%80%9D+%28Orazio+Michi%29)
+    - Jahr: 2021
+    - Typ: Video
+- [Basso Continuo on the Harp for “Sola fra’ suoi più cari” (Orazio Michi)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=08d7909c-3c6f-44f7-9301-ad7f5399f8f5&type=ao-publications&title=Basso+Continuo+on+the+Harp+for+%E2%80%9CSola+fra%E2%80%99+suoi+pi%C3%B9+cari%E2%80%9D+%28Orazio+Michi%29)
+    - Jahr: 2021
+    - Typ: Video
+- [Improvisation, diminution et ornementation](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=c40b34bd-327c-495f-b0de-aeab3d984f83&type=ao-publications&title=Improvisation%2C+diminution+et+ornementation) - Pour une autre esthétique de la pratique des musiques anciennes
+    - Autor/in: William Dongois
+    - Jahr: 2021
+    - Typ: Artikel
+- [The Shawm and the Alta Ensemble during the “Slide Trumpet Years”](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=274bc469-e48e-417a-9d85-2c25baed69a3&type=ao-publications&title=The+Shawm+and+the+Alta+Ensemble+during+the+%E2%80%9CSlide+Trumpet+Years%E2%80%9D)
+    - Autor/in: Adam Knight Gilbert
+    - Jahr: 2021
+    - Typ: Artikel
+- [Trompeterensembles und ihre Musik im Spätmittelalter](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=fecf57fe-a9ae-4299-a734-2f0179d1f59b&type=ao-publications&title=Trompeterensembles+und+ihre+Musik+im+Sp%C3%A4tmittelalter)
+    - Autor/in: Lorenz Welker
+    - Jahr: 2021
+    - Typ: Artikel
+- [Understanding the Italian Trumpeters’ Method](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=dfc43517-529b-4605-aa59-e6cf988a436d&type=ao-publications&title=Understanding+the+Italian+Trumpeters%E2%80%99+Method+) - The Trumpet Ensemble Contribution to Schütz’s Psalm Settings
+    - Autor/in: Peter Downey
+    - Jahr: 2021
+    - Typ: Artikel
+- [Französische Satzmodelle des Grand Siècle](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=b7b08343-c1fe-4f24-b3e5-4f0633163332&type=ao-publications&title=Franz%C3%B6sische+Satzmodelle+des+Grand+Si%C3%A8cle) 
+    - Autor/in: Johannes Menke
+    - Jahr: 2020
+    - Typ: Artikel
+- [Singing upon the (Note-)book](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=c41a0a1b-4294-4c2a-9586-7edc76ec834a&type=databases&title=Singing+upon+the+%28Note-%29book) - www.contrapunto.ch
+    - Autor/in: Florian Vogt; David Mesquita
+    - Jahr: 2020
+    - Typ: Datenbank
+- [The Curious Story of Low Pitch at the Schola Cantorum Basiliensis](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=1011edeb-386a-452d-9408-91644347c2fd&type=ao-publications&title=The+Curious+Story+of+Low+Pitch+at+the+Schola+Cantorum+Basiliensis) 
+    - Autor/in: Anne Smith
+    - Jahr: 2020
+    - Typ: Artikel
+- [Basler Bibliographie zur Historischen Musikpraxis 1974–2017](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=d1e21cc3-43c9-4f83-91cd-012f1243e646&type=databases&title=Basler+Bibliographie+zur+Historischen+Musikpraxis+1974%E2%80%932017) - Bibliographical database for historical performance practice 1974–2017
+    - Jahr: 2019
+    - Typ: Datenbank
+- [Bauplan einer Viola da gamba nach Ganassi](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=7bf1529f-9d53-497b-b42f-e9abdee41597&type=ao-publications&title=Bauplan+einer+Viola+da+gamba+nach+Ganassi) 
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2019
+    - Typ: Artikel
+- [Gaffurius Codices Online](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=8456dfed-d836-4c8f-86e0-6d4218cc29e7&type=databases&title=Gaffurius+Codices+Online) 
+    - Autor/in: Agnese Pavanello; Cristina Cassia; Daniele V. Filippi; Rolf Wissmann; Eva Ferro; Martina Pantarotto
+    - Jahr: 2019
+    - Typ: Datenbank
+- [Generalbass-Compendium](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=b98d3fa5-102f-4414-945f-d56469de5097&type=ao-publications&title=Generalbass-Compendium) - Eine Art Vokabular, für den Gehörbildungsunterricht zusammengestellt
+    - Autor/in: Hans-Peter Weber; english translation: Maria Raffaele
+    - Jahr: 2018
+    - Typ: Buch
+- [Motet Cycles Database](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=4c3e61f0-1612-45fe-ad0e-db49686410f0&type=databases&title=Motet+Cycles+Database) - An online research tool for musicologists, musicians, and interdisciplinary scholars
+    - Autor/in: Cristina Cassia; Daniele V. Filippi; Hanna Marti; Agnese Pavanello (director); Marie Verstraete
+    - Jahr: 2017
+    - Typ: Datenbank
+- [H.R. and the Formation of an Early Music Aesthetic in The Netherlands (1916–1921)](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=6f702b93-bfa7-4318-a041-a06734603002&type=ao-publications&title=H.R.+and+the+Formation+of+an+Early+Music+Aesthetic+in+The+Netherlands+%281916%E2%80%931921%29) 
+    - Autor/in: Jed Wentz
+    - Jahr: 2016
+    - Typ: Artikel
+- [Hubert Cuypers: A Self-Assertive Musician](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=9d415695-1a96-4b27-a2f8-54e477c6cd9c&type=ao-publications&title=Hubert+Cuypers%3A+A+Self-Assertive+Musician) 
+    - Autor/in: Petra van Langen
+    - Jahr: 2016
+    - Typ: Artikel
+- [Ina Lohr – Early Compositions](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=bf9e8310-0d84-4fc6-bfd2-5d183793b144&type=ao-publications&title=Ina+Lohr+%E2%80%93+Early+Compositions) - Recording of the Concert on 10 November 2017, with Commentary
+    - Jahr: 2016
+    - Typ: Audio Aufnahme
+- [Ina Lohr – Seele der Schola Cantorum Basiliensis](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=bbf6c8ed-76aa-4b9f-aedd-20919cef0255&type=ao-publications&title=Ina+Lohr+%E2%80%93+Seele+der+Schola+Cantorum+Basiliensis)
+    - Autor/in: Anne Smith
+    - Jahr: 2016
+    - Typ: Artikel
+- [Ina Lohr: A Link between the Swiss and Dutch Early Music Movements](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=e537c612-8cc1-4a6b-81c3-4d33c92748e1&type=ao-publications&title=Ina+Lohr%3A+A+Link+between+the+Swiss+and+Dutch+Early+Music+Movements)
+    - Autor/in: Anne Smith
+    - Jahr: 2016
+    - Typ: Artikel
+- [The Musical Aesthetic of the Singbewegung](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=11d6e6b7-3038-44a6-a5c4-48784abbdc30&type=ao-publications&title=The+Musical+Aesthetic+of+the+Singbewegung)
+    - Autor/in: Anne Smith
+    - Jahr: 2016
+    - Typ: Artikel
+- [Die Groß Geige in der Kunst am Oberrhein](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=8152427e-9685-4cba-add1-9cff4a8840d6&type=ao-publications&title=Die+Gro%C3%9F+Geige+in+der+Kunst+am+Oberrhein) - (Urs Graf, Matthias Grünewald, Hans Holbein d. J.)
+    - Autor/in: Martina Papiro
+    - Jahr: 2015
+    - Typ: Artikel
+- [Groß Geigen und Rybeben](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=560ce122-70ff-4410-87e9-2d9c7198f0ef&type=ao-publications&title=Gro%C3%9F+Geigen+und+Rybeben) - Nordalpine Viola da gamba-Ensembles im frühen 16. Jahrhundert
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2015
+    - Typ: Artikel
+- [Rybeben am Hof Maximilians I.](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=5f4822f5-6384-4ad6-b71a-2a7459f3a505&type=ao-publications&title=Rybeben+am+Hof+Maximilians+I.)
+    - Autor/in: Martin Kirnbauer
+    - Jahr: 2015
+    - Typ: Artikel
+- [Bau einer Gambe nach Ganassi](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=16d73723-b80b-4a0f-a7c0-a8b6817654b5&type=ao-publications&title=Bau+einer+Gambe+nach+Ganassi) 
+    - Autor/in: Günter Mark
+    - Jahr: 2014
+    - Typ: Artikel
+- [Building a Ganassi Viol](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=7678cc65-45b8-45d3-a134-1c0d0e0c9d88&type=ao-publications&title=Building+a+Ganassi+Viol) 
+    - Autor/in: Judith Kraft
+    - Jahr: 2014
+    - Typ: Artikel
+- [Ganassi – Arbeitstagebuch](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=b7ab98c9-75b2-4223-bedb-7b12f13193ee&type=ao-publications&title=Ganassi+%E2%80%93+Arbeitstagebuch)
+    - Autor/in: Stephan Schürch
+    - Jahr: 2014
+    - Typ: Artikel
+- [La guitare en France vers 1800](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=7c71f64c-323b-4084-9442-2e36bff41ca4&type=ao-publications&title=La+guitare+en+France+vers+1800) - Textes du projet de recherche
+    - Autor/in: Pascal Valois
+    - Jahr: 2014
+    - Typ: Artikel
+- [Ganassi und die Gambe](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=890b3d42-e26f-48a2-9c01-a8cb3dd219f0&type=ao-publications&title=Ganassi+und+die+Gambe) - Anmerkungen zu Konstruktionselementen erhaltener Instrumente
+    - Autor/in: Kathrin Menzel
+    - Jahr: 2013
+    - Typ: Artikel
+- [Nachweisorientierte Rekonstruktion einer Viola da gamba nach Silvestro Ganassi](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=2de5c43b-17de-487b-b3d7-ca466b8b9658&type=ao-publications&title=Nachweisorientierte+Rekonstruktion+einer+Viola+da+gamba+nach+Silvestro+Ganassi) 
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2013
+    - Typ: Artikel
+- [Silvestro Ganassis «viola d’arco tastada»](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=a56fdae2-382d-4eb7-a917-5568a47628d6&type=ao-publications&title=Silvestro+Ganassis+%C2%ABviola+d%E2%80%99arco+tastada%C2%BB) - Bericht über ein Forschungsprojekt zu ihrer Kontextualisierung und Rekonstruktion
+    - Autor/in: Martin Kirnbauer
+    - Jahr: 2013
+    - Typ: Artikel
+- [Zur Ikonographie der Viola da gamba im Umfeld Ganassis](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=2b3b6e09-cbf2-43ee-bd59-9fab66a3d9d2&type=ao-publications&title=Zur+Ikonographie+der+Viola+da+gamba+im+Umfeld+Ganassis) 
+    - Autor/in: Martina Papiro
+    - Jahr: 2013
+    - Typ: Artikel
+- [Schalmey Bombardino Piffaro](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=645560ef-398e-410d-99c6-3fe038fd830b&type=ao-publications&title=Schalmey+Bombardino+Piffaro) - Die hohen Doppelrohrblattinstrumente des ausgehenden 17. und beginnenden 18. Jahrhunderts im deutschsprachigen Raum
+    - Autor/in: Katharina Andres
+    - Jahr: 2010
+    - Typ: Master Arbeit
+- [Die «Tambours» am Hof Ludwigs XIV. und Ludwigs XV.](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=b516d987-ebf7-4d63-b17d-1f34da4a9018&type=ao-publications&title=Die+%C2%ABTambours%C2%BB+am+Hof+Ludwigs+XIV.+und+Ludwigs+XV.) 
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2009
+    - Typ: Artikel
+- [Die «Écuries» von Versailles](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=bf3dbb1c-c90a-4b04-8072-85908ce1947b&type=ao-publications&title=Die+%C2%AB%C3%89curies%C2%BB+von+Versailles) 
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2009
+    - Typ: Artikel
+- [Jean-Baptiste Prin, Traité sur la trompette marine, 1742](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=a95f771a-3b00-4a9c-835b-096fc55c0d07&type=ao-publications&title=Jean-Baptiste+Prin%2C+Trait%C3%A9+sur+la+trompette+marine%2C+1742) - Transkription und deutsche Übersetzung von Thilo Hirsch
+    - Autor/in: Jean-Baptiste Prin; Thilo Hirsch
+    - Jahr: 2009
+    - Typ: Artikel
+- [Les fifres dans les compagnies entre 1660 et 1761](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=a95f771a-3b00-4a9c-835b-096fc55c0d07&type=ao-publications&title=Jean-Baptiste+Prin%2C+Trait%C3%A9+sur+la+trompette+marine%2C+1742) 
+    - Autor/in: Sarah van Cornewal
+    - Jahr: 2009
+    - Typ: Artikel
+- [Reconstructing the “fifres” of the Grande Écurie](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=d44cc77f-8827-4beb-be17-c4321f92ad66&type=ao-publications&title=Reconstructing+the+%E2%80%9Cfifres%E2%80%9D+of+the+Grande+%C3%89curie) 
+    - Autor/in: Boaz Berney
+    - Jahr: 2009
+    - Typ: Artikel
+- [Un essai de reconstruction des Cromornes de la Grande Écurie à la cour de Louis XIV](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=fb02a6ab-c266-491e-9233-21af586eadbd&type=ao-publications&title=Un+essai+de+reconstruction+des+Cromornes+de+la+Grande+%C3%89curie+%C3%A0+la+cour+de+Louis+XIV)
+    - Autor/in: Vincent Robin
+    - Jahr: 2009
+    - Typ: Artikel
+- [Wiederentdeckung einer Trompette marine von F. Saraillac nach Plänen J.-B. Prins](https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=7772bbde-a807-4af0-a295-28c9e76a5386&type=ao-publications&title=Wiederentdeckung+einer+Trompette+marine+von+F.+Saraillac+nach+Pl%C3%A4nen+J.-B.+Prins) 
+    - Autor/in: Thilo Hirsch
+    - Jahr: 2009
+    - Typ: Artikel
