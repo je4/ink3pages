@@ -1,7 +1,7 @@
 ---
 Title: Radiosendungen 
 Type: estate
-CollectionTitle: Radiosendungen  
+CollectionTitle: Konvolute  
 Sourcetype: Special Collection
 Collectionfield: Contemporary Discourses; Open and Free Access
 Docs: 
