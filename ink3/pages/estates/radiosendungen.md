@@ -1,7 +1,8 @@
 ---
 Title: Radiosendungen 
 Type: estate
-CollectionTitle: Konvolute  
+CollectionTitle: 
+SubcollectionPath: "cat:\"zotero2!!Konvolute!!Radiosendungen\""
 Sourcetype: Special Collection
 Collectionfield: Contemporary Discourses; Open and Free Access
 Docs: 
