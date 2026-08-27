@@ -1,5 +1,5 @@
 ﻿---
-Title: FrÃ¼he Streichinstrumente um 1500
+Title: Frühe Streichinstrumente um 1500
 Type: estate
 CollectionTitle: Frühe Streichinstrumente um 1500
 ---
