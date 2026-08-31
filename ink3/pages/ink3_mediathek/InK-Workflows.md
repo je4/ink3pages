@@ -17,7 +17,7 @@ Zu den wichtigsten Standardworkflows gehören:
     Die Erschliessung der Sonderbestände erfolgt i.d.R. mithilfe eines spezifischen Zotero-Clients sowie einem für die Mediathek angepassten NEOs-Formularsystem.
     Hinzu kommt die Erschliessungsoption via Bibliothekssystem ALMA, welche insb. für die Normdatenanreicherung von Bedeutung ist.
 
-![Bild für Ink Workflows]()
+![Bild für Ink Workflows](workflows1.png)
 
 -  **Medienvereinnahmung**
     Bei der Medienvereinnahmung wird für jede Datei zunächst ein Datenbankeintrag erzeugt, der die Datei einer bestimmten Sammlung zuweist. Weitere technische sowie semantische Informationen werden durch die folgenden Bearbeitungsschritte weitgehend automatisiert angereichert. Bei Medien, die nicht im Zuge eines Uploads automatisiert in einen beschreibenden Metadatensatz referenziert wurden, erfolgt zuletzt die Verknüpfung.
@@ -29,7 +29,7 @@ Zu den wichtigsten Standardworkflows gehören:
 - **FDM Support / Unterstützung im Umgang mit Forschungsdaten**
     Das Forschungsdatenmanagement (FDM) fokussiert auf Kuratierungshandlungen, die als integraler Bestandteil des Forschungsprojektes sowie an dessen Ende besonders deutlich spürbar sind.
 
-![Bild für Ink Workflows2]()
+![Bild für Ink Workflows2](workflows2.png)
 
 Die Mediathek unterstützt mit sinnvollen Open-Source-Werkzeugen sowie Schulungen:
 
@@ -50,4 +50,4 @@ Die Mediathek unterstützt mit sinnvollen Open-Source-Werkzeugen sowie Schulunge
 - Rauminformation und Inventursuite: [3D-Modell](https://mediathek.hgk.fhnw.ch/3d.php), [Kistentool](https://mediathek.hgk.fhnw.ch/kistentool.php), [PrimoBridge](https://mediathek.hgk.fhnw.ch/nebis/viewer?sys=00-00), sowie weitere Informationen auf Anfrage
 - FDM-Workflow zur Dokumentation von Rohdaten auf Zenodo
 
-![Bild für Ink Workflows3]()
+![Bild für Ink Workflows3](workflows3.png)

@@ -48,7 +48,7 @@ Die wichtigsten Systemkomponenten des InK sind:
 
 Grafisch lassen sich die InK-Systemkomponenten wie folgt schematisieren:
 
-![Bild Ink Schema]()
+![Bild Ink Schema](InK_system.png)
 
 
 ### Organisatorische Rahmen

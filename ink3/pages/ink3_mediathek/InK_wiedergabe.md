@@ -11,7 +11,7 @@ Der InK integriert nicht nur unterschiedliche Datenquellen aus verschiedenen Kon
 
 Vereinfacht lässt sich diese strukturelle Ausrichtung wie folgt charakterisieren:
 
-![Bild für InK-ökosystem]()
+![Bild für InK-ökosystem](InK-Datenflussdiagramm.png)
 
 Zu den unterschiedlichen Erschliessungswegen (inkl. Interfaces, s.o.) kommen diverse Schnittstellen zu Katalogs- und Recherchesystemen sowie eine öffentliche OAI-PMH-Schnittstelle hinzu, welche die FAIR publizierten Inhalte des InK über definierte Datensetzs zugänglich macht.
 
