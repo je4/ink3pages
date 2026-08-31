@@ -29,7 +29,3 @@ Um eine geregelte Zusammenarbeit insb. im Rahmen von Drittmittelprojekten zu erm
 ### Kosten
 
 Der InK und seine Umsysteme stellen ihre Dienstleistungen im Basisumfang kostenlos für die Angehörigen der HGK Basel FHNW bereit und betreiben die zugehörigen Systeme in Absprache mit der Campus IT und der Corporate IT der FHNW. Für Sonderwünsche der HGK Basel sowie Externe können in Kosten anfallen.
-
-### Best Practices
-
-Coming Soon
