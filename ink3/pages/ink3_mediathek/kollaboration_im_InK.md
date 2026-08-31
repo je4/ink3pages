@@ -29,3 +29,13 @@ Um eine geregelte Zusammenarbeit insb. im Rahmen von Drittmittelprojekten zu erm
 ### Kosten
 
 Der InK und seine Umsysteme stellen ihre Dienstleistungen im Basisumfang kostenlos für die Angehörigen der HGK Basel FHNW bereit und betreiben die zugehörigen Systeme in Absprache mit der Campus IT und der Corporate IT der FHNW. Für Sonderwünsche der HGK Basel sowie Externe können in Kosten anfallen.
+
+### Vernetzung
+
+Strategisch wichtig ist zudem die Vernetzung mit weiteren bestehenden Partnern und Angeboten. Zum implizit über das Rechercheinterface sowie das Sammlungsportal von SLSP (s.o.) benannten Service kommen folgende Stakeholder für selektive Datenabzüge und/oder Einträge hinzu:
+
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+- Memobase: [FHNW Hochschule für Gestaltung und Kunst Mediathek | MEMOBASE von Memoriav](https://memobase.ch/de/institution/hgk?term=mediathek&context=institutions&position=0)
+- [EAN - European Art Net](https://european-art.net/)
+- [Worldcat](https://search.worldcat.org/de)
+
