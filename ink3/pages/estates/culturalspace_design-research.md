@@ -30,11 +30,11 @@ Useful Links to navigate the project:
 
 - [Cultural Spaces and Design: Online Publication](https://edoc.unibas.ch/home)
 **Publication in English**
-- [Website Cultural Spaces and Design](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.UH5Q6UZ5)
+- [Website Cultural Spaces and Design](../../detail//zotero2-2641719.UH5Q6UZ5)
 This is the mirrored project website. Here you will find a lot of information about the project, its numerous activities, the international partners, the project team and more...
-- [Conference presentations: Videos](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.6TMSRC8H)
+- [Conference presentations: Videos](../../detail//zotero2-2641719.6TMSRC8H)
 The project ended in June 2017 with a three-day international event at the HGK FHNW and the Museum der Kulturen Basel. This link will take you to the entire event with workshops, presentations, and student contributions.
-- [Travelogue & Travelkit](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.SDVZDW9T)
+- [Travelogue & Travelkit](../../detail//zotero2-2641719.SDVZDW9T)
 The following links contain a collection of the results of our research during the project work: literature, methods, students' travel documentations, projects and related works in art and design.
 - **Reports**
 During the three year project there were regular project-reportings. This link refers to the main reports (Selection in German).

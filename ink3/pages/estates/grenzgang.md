@@ -16,7 +16,7 @@ Geographisch im trinationalen Grenzgebiet um Basel angesiedelt, verortet sich Gr
 Auswahl publizierter Inhalte 
 
 ## Dokumentation
-- [Walk 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.QPSVJZYD)
+- [Walk 1](../../detail//zotero2-2250437.QPSVJZYD)
 - Walk 2
 - Walk 3
 - Walk 4
@@ -28,15 +28,15 @@ Auswahl publizierter Inhalte
 - Walk 10
 
 ## Fundus
-- [Balades-de-Bâle (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BZMJ8X2H)
+- [Balades-de-Bâle (Markus Schwander)](../../detail//zotero2-2250437.BZMJ8X2H)
 - Miniatures (Amadis Brugnoni)
-- [Nullmeterzeichnungen (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BQQIGAZ6)
+- [Nullmeterzeichnungen (Markus Schwander)](../../detail//zotero2-2250437.BQQIGAZ6)
 - Raumklangskizzen (Daniel Brefin)
 - Videos entlang (Simone Etter)
 
 
 ## Dokumentation
-- [Walk 1](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.QPSVJZYD)
+- [Walk 1](../../detail//zotero2-2250437.QPSVJZYD)
 - Walk 2
 - Walk 3
 - Walk 4
@@ -48,9 +48,9 @@ Auswahl publizierter Inhalte
 - Walk 10
 
 ## Fundus
-- [Balades-de-Bâle (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BZMJ8X2H)
+- [Balades-de-Bâle (Markus Schwander)](../../detail//zotero2-2250437.BZMJ8X2H)
 - Miniatures (Amadis Brugnoni)
-- [Nullmeterzeichnungen (Markus Schwander)](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.BQQIGAZ6)
+- [Nullmeterzeichnungen (Markus Schwander)](../../detail//zotero2-2250437.BQQIGAZ6)
 - Raumklangskizzen (Daniel Brefin)
 - Videos entlang (Simone Etter)
 
@@ -59,7 +59,7 @@ Auswahl publizierter Inhalte
 - [Springer Text Grenzgang. When Promenadology Meets Library](https://link.springer.com/chapter/10.1007/978-3-319-76992-9_11)
 - [Ortszeit DE: Grenzgang. Vom Dreispitz in den trinationalen Raum](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.3WG4QMQU_enclosure/iframe)
 - [Ortszeit EN: Grenzgang. From Dreispitz to the space of the trinational region](https://ba14ns21403-sec1.fhnw.ch/mediasrv/zotero_2250437/2250437.5LZJ3Q26_enclosure/iframe)
-- [Grenzgang – Laying a Keyword Path. 15th ELIA Biennial Conference Rotterdam: Resilience and the City](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2250437.FHAWAZ6M)
+- [Grenzgang – Laying a Keyword Path. 15th ELIA Biennial Conference Rotterdam: Resilience and the City](../../detail//zotero2-2250437.FHAWAZ6M)
 
 ## Additional Output (im Projekt)
 - Salon MondialTischgesprächeArbeit mit Schulklassen

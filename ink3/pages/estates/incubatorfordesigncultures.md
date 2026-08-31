@@ -25,21 +25,21 @@ Der Incubator for Design Cultures fördert Mitarbeitende aller Disziplinen, die 
 
 Website: https://incubator.fhnw.ch/
 
-[Personenübersicht](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.FSW6VEZ7)
+[Personenübersicht](../../detail//zotero2-2641719.FSW6VEZ7)
 
 **Ausstellungen**:
-[Infuse](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.H3TXFIZA)
-[Kreise ziehen](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.8JTASVMG)
-[Layers](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.5ZZZP4HV)
+[Infuse](../../detail//zotero2-2641719.H3TXFIZA)
+[Kreise ziehen](../../detail//zotero2-2641719.8JTASVMG)
+[Layers](../../detail//zotero2-2641719.5ZZZP4HV)
 
 **Publikation**:
-[Gesamtdokument](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.SI5S94V4)
+[Gesamtdokument](../../detail//zotero2-2641719.SI5S94V4)
 [Einzelbeiträge](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22incubator+for+design+cultures%22)
 
 **Lehrressourcen**:
-[Semesterplan 2022-2025](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.F3VQ3UAP) mit [Bildern](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.AFWQP3GH) zum Kursprogramm
+[Semesterplan 2022-2025](../../detail//zotero2-2641719.F3VQ3UAP) mit [Bildern](../../detail//zotero2-2641719.AFWQP3GH) zum Kursprogramm
  
-[Methodenkarten](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2641719.PX7WT7BM)
+[Methodenkarten](../../detail//zotero2-2641719.PX7WT7BM)
 
 
 ## Recherche

@@ -17,11 +17,11 @@ Die Videointerviews und Transkripte der Sammlung befassen sich mit Netzinitiativ
 The video interviews and interview transcripts in this collection are centered around net initiatives that sprung up in Basel in the 1990s. These conversations took place as part of the SNSF-funded research project [Sharing Knowledge in the Arts](https://criticalmedialab.ch/projects/sharing-knowledge-in-the-arts/) (Institute Experimental Design and Media Cultures (IXDM) at the Basel Academy of Art and Design). The project team analyzed what can be learned from the 1990s net art and activism scene surrounding THEswissTHING to design novel research infrastructures in and for the arts. In the 1990s, a range of Basel-based activities anchored in THEswissTHING – such as a local node of THE THING Bulletin Board System (BBS), a website, as well as L@den, a media lab for artists and cultural producers hosting lectures and workshops – spawned the local net art and activism scene. THEswissTHING and neighboring initiatives were driven by sharing culture, the involved actors sought to reframe artistic practice outside the institutional art world and approachedw it as infrastructural labor. The project had two aims: a) analyzing THEswissTHING as a bottom-up initiative for sharing knowledge to understand how ethical issues of sharing were negotiated in this context and b) learning from those insights for current Open Research Data (ORD) publishing practices. The interviews complemented archival research which focused on Barbara Strebel’s archive, as well as documents by others relating to neighboring initiatives. A main outcome of the project was a feminist data visualization in form of an interface to publish the research data exploring the socio-political connotations of “openness” in FAIR ORD practices.
 
 
-[Barbara Strebel, Interview am 30.05.2024](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6050652.G96F9Q6E)
-[Annette Schindler, Interview am 01.07.2024](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6050652.PTT4HPTF)
-[Felix Stalder, Interview am 28.09.2024](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6050652.B4MW2922)
-[Catherine Walthard, Interview am 17.10.2024](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6050652.NW52TDI5)
-[Reinhard Storz, Interview am 07.11.2024](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-6050652.IXRI5VA3)
+[Barbara Strebel, Interview am 30.05.2024](../../detail//zotero2-6050652.G96F9Q6E)
+[Annette Schindler, Interview am 01.07.2024](../../detail//zotero2-6050652.PTT4HPTF)
+[Felix Stalder, Interview am 28.09.2024](../../detail//zotero2-6050652.B4MW2922)
+[Catherine Walthard, Interview am 17.10.2024](../../detail//zotero2-6050652.NW52TDI5)
+[Reinhard Storz, Interview am 07.11.2024](../../detail//zotero2-6050652.IXRI5VA3)
 Enrique Fontanilles, Interview am 19.11.2024
 Yvonne Volkart, Interview am 30.01.2025
 Valentin Spiess, Interview am 10.02.2025

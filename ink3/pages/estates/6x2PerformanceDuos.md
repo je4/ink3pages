@@ -24,15 +24,15 @@ Zur Veranstaltung
 
 [Solo Regula Hurter JUNG BIS SEHR JUNG](../../detail/zotero2-2608904.VPRKSBMR)
 
-[Solo Uri Urech ALTER UNBEKANNT](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.VBT93E7T)
+[Solo Uri Urech ALTER UNBEKANNT](../../detail//zotero2-2608904.VBT93E7T)
 
-[Duo Hurter-Urech ALT BIS SEHR ALT](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.DWATFESZ)
+[Duo Hurter-Urech ALT BIS SEHR ALT](../../detail//zotero2-2608904.DWATFESZ)
 
-[Solo Rolf Schulz  o.T.](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.7R3B2HWS)
+[Solo Rolf Schulz  o.T.](../../detail//zotero2-2608904.7R3B2HWS)
 
-[Duo Joelle Valterio und Rolf Schulz WHAT NOW](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.7FK8XBC6)
+[Duo Joelle Valterio und Rolf Schulz WHAT NOW](../../detail//zotero2-2608904.7FK8XBC6)
 
-[Solo Joelle Valterio PRESENCE OF ABSENCE](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.G28ICP58)
+[Solo Joelle Valterio PRESENCE OF ABSENCE](../../detail//zotero2-2608904.G28ICP58)
 
 
 Dauer insgesamt 2 Stunden ineinander fliessend ohne Pause
@@ -41,7 +41,7 @@ Dauer insgesamt 2 Stunden ineinander fliessend ohne Pause
 
 ## Sa. 7.11.20 Block 2: 14.00 – 17.30 h
 
-14.00 - [Soli + Duo: Jasminka Stenz und Katarzyna Brzezinska](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.XFQVQ4JM)
+14.00 - [Soli + Duo: Jasminka Stenz und Katarzyna Brzezinska](../../detail//zotero2-2608904.XFQVQ4JM)
 
 Titel: 11 me&me she and she
 
@@ -49,7 +49,7 @@ Titel: 11 me&me she and she
 
 *Pause*
 
-16.00 - [NACHKLANG – Performancekonzept von Monica Klingler und Elke Mark](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.94QNTV6V) 
+16.00 - [NACHKLANG – Performancekonzept von Monica Klingler und Elke Mark](../../detail//zotero2-2608904.94QNTV6V) 
 
 Dauer: 1,5 Stunden ohne Pause
 
@@ -68,19 +68,19 @@ Dauer insgesamt ca. 3,5 h mit 30 Min. Pause
 
 ## Sa. 7.11.20 Block 3: 19.00 h – ca. 22.00 h
 
-[Solo Claudia Grimm - DIE VOGELFRAGE](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.EX74UQVV)
+[Solo Claudia Grimm - DIE VOGELFRAGE](../../detail//zotero2-2608904.EX74UQVV)
 
-[Duo Pascale Grau und Claudia Grimm - TUN WAS MAN KANN 2](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.S6MIZJKC)
+[Duo Pascale Grau und Claudia Grimm - TUN WAS MAN KANN 2](../../detail//zotero2-2608904.S6MIZJKC)
 
-[Solo Pascale Grau - IM HAUSE SCHLAFEN HUNDERT HUNDE](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.ENGT2CA3)
+[Solo Pascale Grau - IM HAUSE SCHLAFEN HUNDERT HUNDE](../../detail//zotero2-2608904.ENGT2CA3)
 
 *Pause* 
 
-20:35 - [Solo Isabelle Barth (Video) ZOPF - A VIDEO DOCUMENT OF A PERFORMANCE THAT NEVER HAPPEND](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.84RK5P3Z) 
+20:35 - [Solo Isabelle Barth (Video) ZOPF - A VIDEO DOCUMENT OF A PERFORMANCE THAT NEVER HAPPEND](../../detail//zotero2-2608904.84RK5P3Z) 
 
-[Duo Claudia & Isabelle Barth, Performerinnen: Claudia & Dandara;  EU NÃO FALO PORTUGUÊS](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.Z2XV96UG)
+[Duo Claudia & Isabelle Barth, Performerinnen: Claudia & Dandara;  EU NÃO FALO PORTUGUÊS](../../detail//zotero2-2608904.Z2XV96UG)
 
-[Solo Claudia Barth Titel: FREIHEITSENTZIEHUNGSSACHE](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.K7CZMN7Q)
+[Solo Claudia Barth Titel: FREIHEITSENTZIEHUNGSSACHE](../../detail//zotero2-2608904.K7CZMN7Q)
 
 Dauer insgesamt 3 Std. mit 30 Min. Pause
 
@@ -90,7 +90,7 @@ ________________________________________________________________________________
 
 ## So. 8.11.20 Block 4: 12.00 – ca. 16.30
 
-[Reflexion in Zusammenarbeit mit PANCH (Performance Art Network CH): Irene Maag, Valerian Maly, Andrea Saemann](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.9RTR38MP)
+[Reflexion in Zusammenarbeit mit PANCH (Performance Art Network CH): Irene Maag, Valerian Maly, Andrea Saemann](../../detail//zotero2-2608904.9RTR38MP)
 
 Pause 30 Min. mit Sandwiches
 
