@@ -22,7 +22,7 @@ Zur Veranstaltung
 
 ## Fr. 6.11.20 Block1: 18.30 h - ca. 20.30
 
-[Solo Regula Hurter JUNG BIS SEHR JUNG](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.VPRKSBMR)
+[Solo Regula Hurter JUNG BIS SEHR JUNG](../../detail/zotero2-2608904.VPRKSBMR)
 
 [Solo Uri Urech ALTER UNBEKANNT](https://mediathek.hgk.fhnw.ch/ink/detail/zotero2-2608904.VBT93E7T)
 
