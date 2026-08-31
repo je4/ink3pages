@@ -10,12 +10,9 @@ Docs: 191
 
 Die Konvolute oder kleine Sammlungen enthalten Dokumentationen, Beschreibungen und Wer-ke, die meist projektbasiert entstanden sind. Zu den Konvoluten gehören die Teilbestände:
 
+![Bild für Konvolute4](konvolute_untertitel.gif)
 
 
-
-| 6x2 Performance Duos   | ARCHIVES & BEYOND   | Radiosendungen     | Feministisches Improvistatorium |
-|:----------------------:|:-------------------:|:------------------:|:-------------------------------:|
-| ![Bild für 6x2](performance-duos-1.png)      | ![Bild für A&B](archivesANDbeyond.jpg)   | ![Bild für Radio](radiosendungen.gif)| ![Bild für fempro](FemImpro.png)|
 
 
 
