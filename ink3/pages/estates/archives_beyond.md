@@ -1,7 +1,7 @@
 ---
 Title: Archives and Beyond 
 Type: estate
-CollectionTitle: Archives and Beyond
+CollectionTitle: ARCHIVES & BEYOND
 Sourcetype: Special Collection
 Collectionfield: Performance Art; Open and Free Access; Practice Based Research
 Docs: 
