@@ -33,7 +33,7 @@ Der Produktion ging ein umfangreiches Rechercheprojekt voran mit **Workshops** (
 Konkretisiert wurde der künstlerisch-forschende Ansatz und die Entwicklung des neuen Stücks bei der [Probewoche in Falster](../../detail//zotero2-6117376.RQSW3XN2/de)(DK), zu der die Künstlerinnen u. A. bereits ihre späteren Performanceideen mitbrachten. Diese wurden, ähnlich wie bereits beim Workshop II, aber spezifischer, sich gegenseitig vorgestellt, Rollen sowie Arbeiten wurden verteilt und die Entwicklung des Stücks weitgehend vorbereitet.
 Während der Bezug zwischen den beiden Stücken für Besuchende, welche HAUSS(a)EGEN vielleicht nicht kannten, bei den beiden ersten Aufführungen im Lichthof Theater und im Museum Tinguely insb. durch die filmischen Sequenzen unmittelbar greifbar wurden, bot die Ausstellung im KASKO durch die vielen Artefakte einen haptischeren Zugang. Hinzu kam, dass viele Performance-Fragmente der vorherigen Aufführungen teils in neuer Besetzung und sichtlich weiterentwickelt live re-performt wurden. Die andere Inszenierungsform bot neue Begegnungsoptionen mit den Stücken und den Protagonistinnen sowie Raum zum Nachfragen.  
 
-![Bild des Saalplans]()
+![Bild des Saalplans](a&B_saalplan.png)
 
 [Saalplan](../../detail//zotero2-6117376.3IC6ZPC9/de) 
 
