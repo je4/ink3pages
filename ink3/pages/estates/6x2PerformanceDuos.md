@@ -1,7 +1,7 @@
 --- 
 Title: 6 x 2 Performance Duos
 Type: estate
-CollectionTitle: 
+CollectionTitle: 6_2_Performance-Duos
 Sourcetype: Special Collection
 Collectionfield: Performance Art; Open and Free Access
 Docs: 
