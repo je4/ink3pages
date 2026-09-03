@@ -1,7 +1,7 @@
 ---
 Title: InK-System
-Type: estate
-CollectionTitle: InK-System
+Type: info
+CollectionTitle:
 Docs: 
 --- 
 
