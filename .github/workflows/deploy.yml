@@ -1,0 +1,96 @@
+name: Deploy
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run rsync in --dry-run mode"
+        type: boolean
+        default: false
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  DEPLOY_HOST: v001340.fhnw.ch
+  DEPLOY_USER: proserver
+  BASTION_HOST: sshgw.fhnw.ch
+  BASTION_USER: punkt.de-git
+  PAGES_TARGET: /var/opt/revcat_v3/pages
+
+jobs:
+  deploy:
+    name: rsync to v001340.fhnw.ch
+    runs-on: ubuntu-latest
+    environment: production
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure SSH (bastion jump host)
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${SSH_PRIVATE_KEY}" ]; then
+            echo "::error::Secret SSH_PRIVATE_KEY is not set."
+            exit 1
+          fi
+
+          if [ -z "${SSH_KNOWN_HOSTS}" ]; then
+            echo "::error::Secret SSH_KNOWN_HOSTS is not set - host keys must be pinned before deploying."
+            exit 1
+          fi
+
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+
+          printf '%s\n' "${SSH_PRIVATE_KEY}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+
+          printf '%s\n' "${SSH_KNOWN_HOSTS}" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+
+          cat > ~/.ssh/config <<EOF
+          Host *
+            StrictHostKeyChecking yes
+            UserKnownHostsFile ~/.ssh/known_hosts
+            IdentitiesOnly yes
+            IdentityFile ~/.ssh/deploy_key
+            ServerAliveInterval 30
+            ServerAliveCountMax 6
+
+          Host ${BASTION_HOST}
+            User ${BASTION_USER}
+            ProxyCommand none
+
+          Host *.fhnw.ch
+            User ${DEPLOY_USER}
+            ProxyCommand ssh -W %h:%p -q -o BatchMode=yes ${BASTION_USER}@${BASTION_HOST}
+          EOF
+          chmod 600 ~/.ssh/config
+
+      - name: Verify connection
+        run: ssh -o BatchMode=yes "${DEPLOY_HOST}" 'echo "connected to $(hostname -f) as $(id -un)"'
+
+      - name: Deploy ink3/pages
+        env:
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          RSYNC_OPTS=(-az --delete --human-readable --stats
+                      --exclude '.git*' --exclude '.idea' --exclude '.DS_Store')
+          if [ "${DRY_RUN:-false}" = "true" ]; then RSYNC_OPTS+=(--dry-run); fi
+          rsync "${RSYNC_OPTS[@]}" ink3/pages/ "${DEPLOY_HOST}:${PAGES_TARGET}/"
+
+      - name: Clean up SSH material
+        if: always()
+        run: rm -rf ~/.ssh
