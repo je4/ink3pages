@@ -14,7 +14,7 @@ Die Geschichte der Performance Kunst ist nicht einheitlich. Sie setzt sich aus v
 
 *Revolving: drehbar, rotierend, drehend, umkehrend
 
-zur Online Plattform >> [Digitale See als Panorama-Zugang]((https://performance.sammlung.cc/de))
+zur Online Plattform >> [Digitale See als Panorama-Zugang](https://performance.sammlung.cc/de)
 
 Um die Schweizer Performance-Landschaft, ihre Akteur:innen und Netzwerke in ihrer Vielfalt vorzustellen, wurde die Online Sammlung als erste gesamtschweizerische Community-Plattform von der Mediathek eingerichtet und steht seither für den Upload von Performance Dokumenten zur Verfügung.
 
@@ -22,7 +22,7 @@ Das Datenmanagement und die Pflege der Datenbasis wird von der Mediathek der Hoc
 
 ## Online zugänglich sind
 
-- [REVOLVING HISTORIES](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22bangbang%22) Online Sammlung
+- [REVOLVING HISTORIES](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%22bangbang%22&searchtype=all) Online Sammlung
 - Formular zum [Einreichen neuer Einträge](https://mediathek.hgk.fhnw.ch/apply/bangbang/)
 - [Korrektur-Funktion](https://mediathek.hgk.fhnw.ch/front/#/) zur Ergänzung oder Bereinigung bestehender Beiträge
 - [Interviews und Dokumentationen](https://performance.sammlung.cc/de)  
