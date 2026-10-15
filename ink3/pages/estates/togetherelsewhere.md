@@ -34,7 +34,7 @@ Ivonne Navas Dominguez and Anja Plonka, August 27th: 12:00 pm/noon (MX), 8:00 pm
 - [Muda Mathis and Heather Kapplow](../../detail/zotero2-2608904.FSMB6ADZ), September 10th at 6:00 pm (Swiss time / 12:00  am NYC)
 - [Atittayaporn Saenpo and Kate Burgener](../../detail/zotero2-2608904.3C58CZ8W), August 26th at 11 am (Switzerland) / 4 pm (Thailand)
 - [Matthew Luck Galpin and Juerg Luedi](../../detail/zotero2-2608904.MEX6NZ8C), July 22nd at 6 pm (Switzerland/Italy and 5 pm London)
-- [Diana Soria Hernandez and Klara Schilliger](../../detail/zotero2-2608904.WAN54452), June 25th at 3 pm (Switzerland / 4 pm Finland)
+- [Diana Soria Hernandez and Klara Schilliger](../../detail/zotero2-2608904.QQB45383), June 25th at 3 pm (Switzerland / 4 pm Finland)
 - [Marte Dahl and Noah Joel Huber](../../detail/zotero2-2608904.4BHPVZAC), May 27th at 7 pm
 - [Chumpon Apisuk and Barbara Sturm Becker](../../detail/zotero2-2608904.KRRFPSWE), April 30th at 4:30PM (Switzerland) / 11:30 pm (Thailand)
 - [Gillian Dyson and Simone Etter](../../detail/zotero2-2608904.53S2MVZG), March 28th at 11:30 am (Switzerland) /  10:30 am (UK) 
@@ -83,7 +83,7 @@ Kristen Rønnevik and Marie-Anne Lerjen was postponed in Nov. 2023 due to illnes
 - [Mahla Rashidian and Salome Egger](../../detail/zotero2-2608904.IWQVEGE3): Sunday 15. May 2022, 5 pm 
 - [Bjørn Venø und Zoë Dowlen/Darling](../../detail/zotero2-2608904.7H8GBG4R): Friday 22. April 2022, at 4 pm
 - [Lizlot Frydenlund und Karyna Herrera](../../detail/zotero2-2608904.9VQUFVX8): Friday 25. March 2022, at 5 pm
--[Frauke Materlik und Daniel Häller](../../detail/zotero2-2608904.53SFQ2ZE): Tuesday 22. February 2022, at 5 pm
+- [Frauke Materlik und Daniel Häller](../../detail/zotero2-2608904.53SFQ2ZE): Tuesday 22. February 2022, at 5 pm
 - [Jan-Egil Finne und Markus Goessi](../../detail/zotero2-2608904.FAWQFUS6): Sunday 23. January 2022, at 5 pm
 
 ## Events 2021
