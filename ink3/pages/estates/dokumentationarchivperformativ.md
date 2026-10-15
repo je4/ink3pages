@@ -8,4 +8,4 @@ Docs: 38
 # Dokumentation ausgewählter Forschungsdaten aus dem Projekt
 ## Archiv Performativ (ZHdK 2010-2012)
 
-![Bild für Archive Performativ](Archiv Performativ.gif)
+![Bild für Archive Performativ](ArchivPerformativ.gif)
