@@ -22,6 +22,6 @@ Over three days, the programme offered a total of 28 sessions and two workshops.
 - [Book Presentations](../../detail//zotero2-2641719.F68U59GI) 
 - [Postcards from Switzerland](../../detail//zotero2-2641719.ARMMBWSD)
 - [Pre-conference programme](../../detail//zotero2-2641719.RX2HQB7H)
-- [Whole Collection](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22memory+full%22)
+- [Whole Collection](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22memory+full%22)
 
 [Former Website](https://www.memoryfull2021.org/)
