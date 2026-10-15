@@ -39,7 +39,7 @@ Während der Bezug zwischen den beiden Stücken für Besuchende, welche HAUSS(a)
 
 1. [Artefacts](../../detail/zotero2-6117376.EAHPK8ZA/de) (gedrucktes Banner)
 2. [Relikte](../../detail/zotero2-6117376.TFSPISZZ/de) (z. B. Hausmodelle)
-3. [Everything must Change](../../detail/zotero2-6117376.4E4AH95D/de) (Paravent + [Projektionstexte](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-6117376.A63MVSNT/de)
+3. [Everything must Change](../../detail/zotero2-6117376.4E4AH95D/de) (Paravent + [Projektionstexte](https://mediathek.hgk.fhnw.ch/performance/detail/zotero2-6117376.A63MVSNT/de))
 5. [Inspirationen](../../detail/zotero2-6117376.93BNMUTJ) (Aussagen der beteiligten Künstlerinnen zum Prozess)
 6. [Palimpsest](../../detail/zotero2-6117376.FFZ2KEMP/de) (historische Quelle des ersten Projekttreffens zu HAUSS(a)EGEN) 
 7. Audioaufzeichnung der Zeugenberichte zu ARCHIVES & BEYOND I
@@ -47,7 +47,7 @@ Während der Bezug zwischen den beiden Stücken für Besuchende, welche HAUSS(a)
 9. [Triptychon](../../detail/zotero2-6117376.FCWFJK6Z/de) (Videodokumentationen) 
 10. Leuchtkästen mit [Analogien](../../detail/zotero2-6117376.KIKMV7FI/de) zu drei historischen und aktuellen Setzungen.
 
-Neben Zeugenberichten zu den Aufführungen von ARCHIVES & BEYOND [I (s.o.)](../../detail/zotero2-6117376.LDVJ2ADW) und II und der Dokumentation des [Podiumsgesprächs](../../detail/zotero2-6117376.HPI6MSST/de) mit allen Beteiligten finden sich weitere [Kontextmaterialien](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=tag%3A%22Kontext%22) wie rezensierend Artikel der Presse, vermittelnde Texte und Reflexionen der künstlerischen Kuratorinnen Pascale Grau und Dorothee Daphi.
+Neben Zeugenberichten zu den Aufführungen von ARCHIVES & BEYOND [I (s.o.)](../../detail/zotero2-6117376.LDVJ2ADW) und II und der Dokumentation des [Podiumsgesprächs](../../detail/zotero2-6117376.HPI6MSST/de) mit allen Beteiligten finden sich weitere [Kontextmaterialien](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22Kontext%22) wie rezensierend Artikel der Presse, vermittelnde Texte und Reflexionen der künstlerischen Kuratorinnen Pascale Grau und Dorothee Daphi.
 
 * *Die Bezeichnung "Gruppe a. b." bildete sich Mitte der 1990er Jahre aus "autonome bühnenbildnerinnen" und wurde zugleich mit einem Augenzwinkern als Kürzel verstanden für vielfältige andere, mitschwingende Varianten, die bereits damals politisch unkorrekt waren. Sie griffen - um feministische Gegenreflexe zu aktivieren - gezielt kursierende chauvinistische Redewendungen auf, deren diffamierende Wendungen heute historisch geframt werden müssen, wie u. A. "attraktive Blondinen", "as best", "alberne Betschwestern", "alternde Bräute. Pascale Grau und Dorothee Daphi waren kontinuierlich  in allen Produktionen der Gruppe a.b. beteiligt.*
 
