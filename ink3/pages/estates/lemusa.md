@@ -44,7 +44,7 @@ Die "Mission Kaki" besteht aus den folgenden zwanzig Episoden
 - Episode 19: [Mit der Austerngabel durch Paris](../../detail//zotero2-6112355.7LJWFGIQ)
 - Episode 20: [Anderswo](../../detail//zotero2-6112355.VAF7CGTG)
  
-[Mehr aus Lemusa auf unserem Repositorium.](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=cat%3A%22zotero2%21%21Lemusa%22)
+[Mehr aus Lemusa auf unserem Repositorium.](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22zotero2%21%21Lemusa%22)
 
 
 ## Recherche
