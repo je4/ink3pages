@@ -21,5 +21,5 @@ Der Schwerpunkt der Dokumentationsmaterialien ruht auf den Basler Festivalausgab
 Aufgrund der Rechtesituation kann die Sammlung derzeit nur im Schweizer Hochschulnetz konsultiert werden.
 
 ## Recherche
-[Bestand ansehen](../../grid/de?searchtype=estate&search=ACTPerformanceFestival)
+[Bestand ansehen](../../grid/de?searchtype=estate&search=ACT%20Performance%20Festival)
 
