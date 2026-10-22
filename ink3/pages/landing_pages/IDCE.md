@@ -15,5 +15,11 @@ The aim of the Institute **Digital Communication Envirnoments** is to apply the 
 ### Studiengänge - Degree Programs 
 
 - BA Visuelle Kommunication und digitale Räume - Visual Communication and digital spaces 
-- MA Transversal Design 
-- MA Experimental Design 
+- MA Digital Communication Environments 
+- MDes International Master of Design 
+
+
+### Projekte - Projects 
+
+- [Incubator for Design Cultures](../../grid/de?searchtype=estate&search=Incubator%20for%20Design%20Cultures)
+- [Film + Design](../../grid/de?searchtype=estate&search=Film%20+%20Design)
