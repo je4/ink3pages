@@ -14,9 +14,8 @@ The **Institute Experimental Design and Media Cultures (IXDM)** assembles studen
 
 ### Studiengänge - Degree Programs 
 
-- BA Prozessgestaltung am HyperWerk - Process Design 
-- MA Transversal Design 
-- MA Experimental Design 
+- [BA Prozessgestaltung am HyperWerk - Process Design](https://www.fhnw.ch/de/gestaltung-kunst/studium/angebot/studiengaenge/prozessgestaltung-ba) 
+- [MA Transversal Design](https://www.fhnw.ch/de/gestaltung-kunst/studium/angebot/studiengaenge/transversal-design-ma)
 
 ### Projekte - Projects 
 
