@@ -15,8 +15,8 @@ Art and design open up new perspectives for perceiving, questioning, shaping and
 
 ### Studiengänge - Degree Programs 
 
-- BA Vermittlung von Kunst und Design - Art and Design Education 
-- MA Vermittlung von Kunst und Design - Art and Design Education 
+- [BA Vermittlung von Kunst und Design - Art and Design Education](../landing_pages/BA_vermittlungvonKunst.md)
+- [MA Vermittlung von Kunst und Design - Art and Design Education](../landing_pages/MA_vermittlungvonKunst.md)
 
 ### Projekte - Projects 
 
