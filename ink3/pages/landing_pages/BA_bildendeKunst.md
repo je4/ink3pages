@@ -15,5 +15,8 @@ Das Bachelor-Studium in [Bildender Kunst](https://www.fhnw.ch/de/gestaltung-kuns
 In the studio, in project work and in the context of exhibitions students gradually develop their own artistic language and handwriting. The study course demands a high degree of self-initiative. Studying art means becoming familiar with art. Artists are pioneers who seek to link up apparently disparate worlds in new ways and by new means. They redefine the language of traditional media, materials and technologies by creating artworks, developing concepts, writing essays, exploring archives and choreographing bodies in space. Artists are captivated by the never-ending task of experiencing and representing what we call reality in new ways. In the studio, in project work and in the context of exhibitions students gradually develop their own artistic language and handwriting. The study course demands a high degree of self-initiative. Studying art means becoming familiar with art. Artists are pioneers who seek to link up apparently disparate worlds in new ways and by new means. They redefine the language of traditional media, materials and technologies by creating artworks, developing concepts, writing essays, exploring archives and choreographing bodies in space. Artists are captivated by the never-ending task of experiencing and representing what we call reality in new ways.
 
 
+### Institut  
 
+
+- [Institute Art Gender Nature - IAGN](../landing_pages/IAGN.md)
 
