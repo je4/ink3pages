@@ -15,14 +15,14 @@ The **Institute of Contemporary Design Practices (ICDP)** works at the intersect
 
 ### Studiengänge - Degree Programs 
 
-- BA Industrial Design 
-- BA Mode-Design - Fashion Design
-- BA Innenarchitektur und Szenographie - Interior architecture and scenography 
+- [BA Industrial Design](../landing_pages/BA_industrialdesign.md) 
+- [BA Mode-Design - Fashion Design](../landing_pages/BA_mode.md)
+- [BA Innenarchitektur und Szenographie - Interior architecture and scenography](../landing_pages/BA_innenarchitektur.md)
 
 
-- MA Industrial Design 
-- MA Szenographie 
-- MA Fashion Design 
+- [MA Industrial Design](../landing_pages/MA_Industrialdesign.md) 
+- [MA Szenographie](../landing_pages/MA_szenographie.md)
+- [MA Fashion Design](../landing_pages/MA_fashiondesign.md) 
 
 
 ### Projekte - Projects 

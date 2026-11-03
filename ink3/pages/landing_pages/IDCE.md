@@ -14,9 +14,9 @@ The aim of the Institute **Digital Communication Envirnoments** is to apply the 
 
 ### Studiengänge - Degree Programs 
 
-- BA Visuelle Kommunication und digitale Räume - Visual Communication and digital spaces 
-- MA Digital Communication Environments 
-- MDes International Master of Design 
+- [BA Visuelle Kommunication und digitale Räume - Visual Communication and digital spaces](../landing_pages/BA_visuellekommunikation.md)
+- [MA Digital Communication Environments](../landing_pages/MA_visuelleKOmmunikation.md) 
+- [MDes International Master of Design](../landing_pages/MDes_InternationalMasterofDesign.md)
 
 
 ### Projekte - Projects 
