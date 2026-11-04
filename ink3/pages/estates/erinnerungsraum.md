@@ -25,6 +25,8 @@ Das Einfügen dieses persönlichen Raumes in ein öffentliches Gebäude eröffne
 Deren Auswirkung auf die Raumwahrnehmung wird erforscht und hinterfragt und dient als Entwurfsgrundlage für eine Raumintervention. Ziel der Übung ist es, ein Gleichgewicht von Intuition und Analyse herzustellen, welches innovative Räume mit Atmosphäre (Seele) kreiert.
 Das Archiv dokumentiert die Arbeiten der Studierenden ab dem Jahrgang 2013:
 
+## Webseite
+
 - [2025](https://erinnerungsraum.in3.campusderkuenste.ch/2025/programm/)
 - [2024](https://erinnerungsraum.in3.campusderkuenste.ch/2024/programm/)
 - [2023](https://erinnerungsraum.in3.campusderkuenste.ch/2023/programm/)
