@@ -5,29 +5,55 @@ CollectionTitle: Hochschul übersicht
 Docs: 523
 ---
 
-## Hochschul Übersicht 
+## Hochschulübersicht 
+
+### Next Generation 
+
+    - [2017-2023](../../grid/de?search=&collections=44%2C&searchtype=estate)     
+    - [ab 2024](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22neosform!!Next%20Generation%22)
+
+
 
 ### [Institute Arts and Design Education - IADE](../landing_pages/IADE.md)
+    
+**Vermittlung von Kunst und Design - Art and Design Education** 
 
-- [BA Vermittlung von Kunst und Design - Art and Design Education](../landing_pages/BA_vermittlungvonKunst.md)
-- [MA Vermittlung von Kunst und Design - Art and Design Education](../landing_pages/MA_vermittlungvonKunst.md)
+    - [BA](../landing_pages/BA_vermittlungvonKunst.md)   
+    - [MA](../landing_pages/MA_vermittlungvonKunst.md)
 
-#### Archiv 
+#### Student Outcomes(Archiv) 
 
-- [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
+- [Diplom Arbeiten Next Generation BA](../../grid/de?search=&collections=44%2C&searchtype=estate)   
+- [Diplom Arbeiten Next Generation MA](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=:%22forms2!!diplom!!Master+of+Arts+in+Vermittlung+von+Kunst+und+Design%22&searchtype=all)
+
+
+#### Researh Outcomes & Projects 
+
 - [Grenzgang](../../grid/de?searchtype=estate&search=Grenzgang)
+
+
+
 
 
 ### [Institute Art Gender Nature - IAGN](../landing_pages/IAGN.md)
 
-- [BA Bildende Kunst](../landing_pages/BA_bildendeKunst.md)
+**Bildende Kunst** 
+        - [BA]()
+
+- [BA Bildende Kunst](../landing_pages/BA_bildendeKunst.md)  
 - [MA Fine Arts](../landing_pages/MA_finearts.md)
 
 #### Archiv 
 
-- [Diplom Arbeiten Next Generation](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22&searchtype=all)
+- [Diplom Arbeiten Next Generation](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22&searchtype=all)  
 - [ACT Performance Festival](../../grid/de?searchtype=estate&search=ACT%20Performance%20Festival)
-- [Videowoche im Wenkenpark](../../grid/de?searchtype=estate&search=Videowochen%20im%20Wenkenpark)
+
+
+#### Researh Outcomes & Projects 
+
+- [Videowoche im Wenkenpark](../../grid/de?searchtype=estate&search=Videowochen%20im%20Wenkenpark)   
+- [Plant Intelligence](../estates/plant_intelligence.md)
+
 
 
 ### [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md)
@@ -36,6 +62,7 @@ Docs: 523
 - [BA Mode-Design - Fashion Design](../landing_pages/BA_mode.md)
 - [BA Innenarchitektur und Szenographie - Interior architecture and scenography](../landing_pages/BA_innenarchitektur.md)
 
+**Masterstudio Design**
 
 - [MA Industrial Design](../landing_pages/MA_Industrialdesign.md) 
 - [MA Szenographie](../landing_pages/MA_szenographie.md)
@@ -47,6 +74,7 @@ Docs: 523
 - [Erinnerungsraum](../../grid/de?searchtype=estate&search=Erinnerungsraum)
 
 ### [Institute Digital Communication Envirnoments - IDCE](../landing_pages/IDCE.md)
+
 
 - [BA Visuelle Kommunication und digitale Räume - Visual Communication and digital spaces](../landing_pages/BA_visuellekommunikation.md)
 - [MA Digital Communication Environments](../landing_pages/MA_visuelleKOmmunikation.md) 
