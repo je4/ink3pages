@@ -40,9 +40,9 @@ Die Sammlung beinhaltet die von den Absolvierenden bereitgestellten Referenzen z
 
 - [2022](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212022%22)
 - [2021](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212021%22)
-- [2020](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%222020%22)
-- [2019](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%222019%22)
-- [2018](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%222018%22)
+- [2020](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212020%22)
+- [2019](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212019%22)
+- [2018](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212018%22)
 - [2017](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21diplom%21%212017%22)
 
 ## Recherche

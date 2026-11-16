@@ -27,19 +27,21 @@ Das Archiv dokumentiert die Arbeiten der Studierenden ab dem Jahrgang 2013:
 
 ## Webseite
 
-- [2025](https://erinnerungsraum.in3.campusderkuenste.ch/2025/programm/)
-- [2024](https://erinnerungsraum.in3.campusderkuenste.ch/2024/programm/)
-- [2023](https://erinnerungsraum.in3.campusderkuenste.ch/2023/programm/)
-- [2022](https://erinnerungsraum.in3.campusderkuenste.ch/2022/programm/)
-- [2021](https://erinnerungsraum.in3.campusderkuenste.ch/2021/programm/)
-- [2020](https://erinnerungsraum.in3.campusderkuenste.ch/2020/programm/)
-- [2019](https://erinnerungsraum.in3.campusderkuenste.ch/2019/programm/)
-- [2018](https://erinnerungsraum.in3.campusderkuenste.ch/2018/programm/)
-- [2017](https://erinnerungsraum.in3.campusderkuenste.ch/2017/programm/)
-- [2016](https://erinnerungsraum.in3.campusderkuenste.ch/2016/programm/)
-- [2015](https://erinnerungsraum.in3.campusderkuenste.ch/2015/programm/)
-- [2014](https://erinnerungsraum.in3.campusderkuenste.ch/2014/programm/)
-- [2013](https://erinnerungsraum.in3.campusderkuenste.ch/2013/programm/)
+- [2025](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212025%22)
+- [2024](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212024%22)
+- [2023](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212023%22)
+- [2022](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212022%22)
+- [2021](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212021%22)
+- [2020](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212020%22)
+- [2019](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22neosform!!Erinnerungsraum!!2019%22)
+- [2018](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212018%22)
+- [2017](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212017%22)
+- [2016](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212016%22)
+- [2015](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212015%22)
+- [2014](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212014%22)
+- [2013](https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%22forms2%21%21Erinnerungsraum%21%212013%22)
+
+https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%222020%22
 
 
 ## Recherche
