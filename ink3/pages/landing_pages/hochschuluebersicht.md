@@ -14,7 +14,7 @@ Docs: 523
 
 #### Archiv 
 
-- [Diplom Arbeiten Next Generation](../../grid.de?searchtype=estate&search=Diplom%20HGK%20/%20Next%20Generation)
+- [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
 - [Grenzgang](../../grid/de?searchtype=estate&search=Grenzgang)
 
 
@@ -43,7 +43,7 @@ Docs: 523
 
 #### Archiv 
 
-- [Diplom Arbeiten Next Generation](../../grid.de?searchtype=estate&search=Diplom%20HGK%20/%20Next%20Generation)
+- [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
 - [Erinnerungsraum](../../grid/de?searchtype=estate&search=Erinnerungsraum)
 
 ### [Institute Digital Communication Envirnoments - IDCE](../landing_pages/IDCE.md)
@@ -54,7 +54,7 @@ Docs: 523
 
 #### Archiv 
 
-- [Diplom Arbeiten Next Generation](../../grid.de?searchtype=estate&search=Diplom%20HGK%20/%20Next%20Generation)
+- [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
 - [Incubator for Design Cultures](../../grid/de?searchtype=estate&search=Incubator%20for%20Design%20Cultures)
 - [Film + Design](../../grid/de?searchtype=estate&search=Film%20+%20Design)
 
@@ -66,7 +66,7 @@ Docs: 523
 
 #### Archiv 
 
-- [Diplom Arbeiten Next Generation](../../grid.de?searchtype=estate&search=Diplom%20HGK%20/%20Next%20Generation)
+- [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
 - [HyperWerk](../../grid/de?searchtype=estate&search=HyperWerk)
 - [Critical Media Lab](https://www.fhnw.ch/en/art-design/about/institutes/experimental-design-and-media-cultures/critical-media-lab)
 - [Netzkulturen](../../grid/de?searchtype=estate&search=Netzkulturen)
