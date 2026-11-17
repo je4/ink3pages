@@ -14,3 +14,7 @@ The study programme offers a transdisciplinary and multifaceted context, which c
 ### Institut 
 
 - [Institute Arts and Design Education - IADE](../landing_pages/IADE.md)
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Master%20of%20Arts%20in%20Vermittlung%20von%20Kunst%20und%20Design%22)

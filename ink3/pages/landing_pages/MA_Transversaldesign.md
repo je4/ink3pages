@@ -18,3 +18,6 @@ In your first year, a programme of taught courses will combine personal reflecti
 ### Institut 
 
 - [Institute Experimental Design and Media Cultures - IXDM](../landing_pages/IXDM.md)
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=&collections=40%2C&searchtype=all)

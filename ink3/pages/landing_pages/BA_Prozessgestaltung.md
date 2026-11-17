@@ -19,3 +19,6 @@ The Process Design programme at HyperWerk is integrated into the Institute of Ex
 
 
 - [Institute Experimental Design and Media Cultures - IXDM](../landing_pages/IXDM.md)
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Hyperwerk%22)

@@ -14,3 +14,6 @@ You will acquire various media and techniques in art and design and use them in 
 ### Institut 
 
 - [Institute Arts and Design Education - IADE](../landing_pages/IADE.md)
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Lehrberufe%20f%c3%bcr%20Gestaltung%20und%20Kunst%22)
