@@ -18,3 +18,9 @@ The master’s degree courses comprises plenums, seminars, biannual symposia, wo
 
 ### Institut 
 - [Institute Art Gender Nature - IAGN](../landing_pages/IAGN.md)
+
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22&searchtype=all)
+

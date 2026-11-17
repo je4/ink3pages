@@ -21,3 +21,8 @@ Since product design draws on knowledge from a range of disciplines, students le
 ### Institut
 
 - [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md)
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Industrial%20Design%22)
+

@@ -15,3 +15,7 @@ The aim of the programme **Visual Communication and Digital Spaces** is to equip
 ### Institut
 
 - [Institute Digital Communication Envirnoments - IDCE](../landing_pages/ICDE.md)
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Visuelle%20Kommunikation%22)

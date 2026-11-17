@@ -20,3 +20,7 @@ In the studio, in project work and in the context of exhibitions students gradua
 
 - [Institute Art Gender Nature - IAGN](../landing_pages/IAGN.md)
 
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Kunst%22)
+

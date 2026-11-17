@@ -19,3 +19,7 @@ Students deal with the design of sustainable, future-proof spaces that are close
 ### Institut
 
 - [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md)
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Innenarchitektur%20und%20Szenografie%22)

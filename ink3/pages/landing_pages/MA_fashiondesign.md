@@ -17,3 +17,7 @@ The way we dress is an effective form of non-verbal communication that can conve
 - [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md)
 
 
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Mode-Design%22)

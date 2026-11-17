@@ -24,3 +24,10 @@ On the basis of a practical foundation in a design-oriented bachelor’s study p
 ### Institut 
 
 - [Institute Digital Communication Envirnoments - IDCE](../landing_pages/ICDE.md)
+
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Visuelle%20Kommunikation%22)
+
+

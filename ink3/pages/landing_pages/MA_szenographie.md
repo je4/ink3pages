@@ -20,3 +20,6 @@ In interdisziplinären Formaten werden die Teilnehmenden dazu befähigt, narrati
 ### Institut
 
 - [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md) 
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Innenarchitektur%20und%20Szenografie%22)

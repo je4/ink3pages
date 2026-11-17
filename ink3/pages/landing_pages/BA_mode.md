@@ -17,3 +17,7 @@ A strong focus on the body, its perception, movement and body-based design metho
 ### Institut
 
 - [Institute Contemporary Design Practices - ICDP](../landing_pages/ICDP.md)
+
+
+
+[Bestand ansehen](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Mode-Design%22)
