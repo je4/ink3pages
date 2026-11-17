@@ -21,8 +21,6 @@ Docs: 523
 - [MA](../landing_pages/MA_vermittlungvonKunst.md)
 
 ### Student Outcomes (Archiv) 
-
-(https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22neosform!!Next%20Generation!!IADE%20-%20Art%20&%20Design%20Education%22)
   
 - [Diplom Arbeiten Next Generation](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=:%22forms2!!diplom!!Master+of+Arts+in+Vermittlung+von+Kunst+und+Design%22&searchtype=all)
 
@@ -45,8 +43,8 @@ Docs: 523
 ### Student Outcomes (Archiv) 
 
 - Diplom Arbeiten Next Generation: 
-    - BA (https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Kunst%22) 
-    - MA (https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22&searchtype=all)  
+    - [BA](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22forms2!!diplom!!Kunst%22) 
+    - [MA](https://mediathek.hgk.fhnw.ch/ink/grid/en?search=%3A%22forms2%21%21diplom%21%21Master+Fine+Arts%22&searchtype=all)  
     
 - [ACT Performance Festival](../../grid/de?searchtype=estate&search=ACT%20Performance%20Festival)
 
