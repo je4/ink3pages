@@ -117,7 +117,7 @@ Docs: 523
 
 
 ### Student Outcomes (Archiv)  
-
+ 
 - [Diplom Arbeiten Next Generation](../../grid/de?search=&collections=44%2C&searchtype=estate)
 - [HyperWerk](../../grid/de?searchtype=estate&search=HyperWerk)
 

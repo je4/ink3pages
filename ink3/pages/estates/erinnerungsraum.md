@@ -41,7 +41,6 @@ Das Archiv dokumentiert die Arbeiten der Studierenden ab dem Jahrgang 2013:
 - [2014](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22neosform!!Erinnerungsraum!!2014%22)
 - [2013](https://mediathek.hgk.fhnw.ch/ink/grid/de?search=category:%22neosform!!Erinnerungsraum!!2013%22)
 
-https://mediathek.hgk.fhnw.ch/ink/search?searchtext=%3A%222020%22
 
 
 ## Recherche
