@@ -18,3 +18,47 @@ These were the questions the team, consisting of three artists and an art scient
 
 
 ## Recherche
+
+«Plants_Intelligence. Learning like a Plant» untersucht den Diskurs pflanzlicher Intelligenz in den Natur- und Geisteswissenschaften und den Künsten. Es untersucht die Begrifflichkeit und fragt, ob die Anerkennung vegetabiler Formen von «Intelligenz» zu anderen Methoden der Wissensgenerierung, des Zusammenlebens, von Züchtung und letztlich zu neuen, «intelligenten» Formen der Pflanzen- und Agrarkultur führten? Das Team, bestehend aus drei Künstler*innen und einer Kunstwissenschaftlerin, geht diesen Fragen in Zusammenarbeit mit Forschungspartner*innen aus der Botanik, der biologischen Züchtung, der Ernährungsgerechtigkeit, der Medienökologie und der Biokunst nach.An den Beispielen von Laborversuchen mit Pflanzen-Interaktion und Entscheidungsfindung in der Schweiz und Deutschland, von indigenen Pflanze-Mensch-Allianzen in Kolumbien und GMO-kritischen Praktiken in Argentinien werden Un/Möglichkeiten vegetabiler Intelligenz herausgearbeitet.
+
+Das Projekt möchte die Debatte über Pflanzenwissen erweitern und durch die enge Zusammenarbeit mit Vertreter*innen aus verschiedenen Wissensgebieten für soziales, ökologisches und ethisches Verhalten fruchtbar machen.
+
+Output: Serie von virtuellen Kolloquien, Workshops, Symposium, kommunale Dinners, Videoinstallationen, Karten, Zeichnungen, Wander-Ausstellung, webbasiertes Materialarchiv zum Transfer von Wissen. 
+
+*(SNSF-project Plant Intelligence)*
+
+### Personen 
+
+**Projektverantwortliche/r**
+- [Yvonne Volkart](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Volkart%2c%20Yvonne)
+
+**Mitarbeitender/in**
+- [Felipe Castelblanco](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Castelblanco%2c%20Felipe)
+- Dominique Raemy
+- [Julia Mensch](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Mensch%2c%20Julia)
+- Rasa Smite
+- Romea Enzler
+
+**Projektpartner/innen**
+- [Ayenan John Quinchoa Juajibioy](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Quinchoa%20Juajibioy%2c%20Ayenan)
+- Birgit Schneider
+- [Heraldo Vallejo Martinez](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Vallejo%2c%20Heraldo)
+- [Katja Tielbörger](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Tielboerger%2c%20Katja)
+- [Monika Messmer](https://mediathek.hgk.fhnw.ch/ink/grid/de?searchtype=author&search=Messmer%2c%20Monika)
+- Ursula Damm
+
+### Schlagwörter
+
+- Critical Plant Studies, 
+- Dekoloniales Denken, 
+- Ernährungssouveränität, 
+- Indigene Bewegungen, 
+- Kunst, 
+- Mensch-Pflanze-Allianzen, 
+- Pflanzenintelligenz, 
+- Pflanzenkommunikation, 
+- Pflanzenverhalten, 
+- Pflanzenzucht, 
+- Techno-Öko-Feminismus, 
+- Wissenschaft, 
+- Ökologie
