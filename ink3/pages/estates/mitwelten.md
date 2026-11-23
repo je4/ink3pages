@@ -21,12 +21,47 @@ The Collaborative research develops the *ideal* of experience-led and knowledge-
 
 ### Funding 
 
-- Funding: Swiss National Science Foundation (SNSF)
+- Funding: [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/grant/197845)
 - Project number: 197845
 - Project start: 01.12.2020
 - Project duration: 50 Monate
 
-- [SNF Portal](https://data.snf.ch/grants/grant/197845)
+### People 
+
+**Applicant** 
+- Jan Torpus 
+
+**Employees** 
+- Andri Wild
+- Cedric Spindler
+- Christoph Kueffer
+- Daniel Küry
+- Felix Gerloff
+- Ines Schauer 
+- Karolina Sobecka 
+- Martin Lacayo 
+- Rebecca Geyer 
+- Simon Stähli 
+- Thomas Amberg 
+- Timeo Wullschleger 
+
+**Project Partner** 
+- Sandra Gloor 
+
+### Keywords
+
+- Akteur-Netzwerk-Theorie (ANT) 
+- Animal Computer Interaction (ACI)
+- Animal Geography
+- Biodiversität
+- Environmental Humanities
+- Freiraumgestaltung
+- Infrastrukturelle Technologie
+- Internet der Dinge (IoT)
+- Medienökologie
+- Multispecies Ethnography
+- Ökologische Infrastrukturen
+
 
 
 ### Contact 
