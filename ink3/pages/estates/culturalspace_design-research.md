@@ -40,7 +40,7 @@ The following links contain a collection of the results of our research during t
 During the three year project there were regular project-reportings. This link refers to the main reports (Selection in German).
 
 
-Dieses Projekt wurde von der [Gebert-Rüf-Stiftung](https://www.grstiftung.ch/de.html) gefördert. Projektreferenz: https://www.grstiftung.ch/en/media/portfolio~grs-040-13~.html
+Dieses Projekt wurde von der [Gebert-Rüf-Stiftung](https://www.grstiftung.ch/de/search~grs-040-13~.html?search=cultural%20spaces%20and%20design) gefördert.
 
 
 ## Recherche
