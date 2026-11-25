@@ -48,7 +48,7 @@ Dieser Bereich dokumentiert Produktionen des Theaters Kaserne.
 
 Die Interviewpartner:innen waren:
 
-- [Domenica Bellanova](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Domenica+Bellanova)
+- [Domenica Bellanova](../../grid/de?searchtype=estate&search=Domenica+Bellanova)   
 - [Armin Biehler](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Armin+Biehler)
 - [Claudia Brodbeck](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Claudia+Brodbeck)
 - [Stephan Burckhardt](https://mediathek.hgk.fhnw.ch/ink/search?start=0&lastsearch=&visible=&filter_0_cat=zotero2%21%21Videonetzwerke&facet_mediatype_1000=image.false&facet_mediatype_1001=pdf.false&facet_mediatype_1002=video.false&facet_mediatype_1003=audio.false&searchtext=Stephan+Burckhardt)
