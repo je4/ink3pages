@@ -41,6 +41,9 @@ Dieses Segment enthält ebenfalls häufig gesellschaftspolitische Themen, die oh
 - [*Theater*](../../detail//zotero2-4820753.Z95KCTDR)
 Dieser Bereich dokumentiert Produktionen des Theaters Kaserne.
 
+### Projekt 
+
+[Videonetzwerke - Memobase](https://memobase.ch/it/recordSet/hgk-004) 
 
 ## Interviews 
 

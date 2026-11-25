@@ -32,6 +32,11 @@ Der Filmfundus aus dem Filmunterricht wurde von Peter von Arx auf 28 Filmrollen 
 - Partituren 
 - Steigerungen, Themen, Ausnahme 
 
+
+### Projekt 
+
+[Film + Design - Memobase](https://memobase.ch/it/recordSet/hgk-002)
+
 ## Recherche
 [Bestand ansehen](../../grid/de?searchtype=estate&search=Film%20+%20Design)
 
